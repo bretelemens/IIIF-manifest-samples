@@ -1,18 +1,9 @@
 {
-	/ JSON-LD context voor dit IIIF bestand
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  
-  
-{	// identificatie van de manifest file
   "id": "https://dams.antwerpen.be/iiif/w1hNmLYhFnlViTeXwke1pVF6/manifest",
   "type": "Manifest",
-  
-  // beschrijvende metadata over het asset, aka het digitale object, aka het kunstwerk
-  /// De naam van het asset
   "label": { "nl": ["Adam en Eva"] },
-  /// Korte beschrijving van het digitale object/kunstwerk >>> voor het onderschrift
   "summary": {"nl": ["Adam en Eva, olieverfschilering op hout door Peter Paul Rubens in 1598-1600. Collectie Stad Antwerpen, Rubenshuis."]},
-  /// gestructureerde metadata over het digitale object/kunstwerk >>> uit de datahub
   "metadata": [
     { "label": { "nl": ["DAMS asset ID"] },
       "value": { "nl": ["https://dams.antwerpen.be/asset/bGPQS9tpgNgYuOSprZcBKYKR"]}
@@ -35,25 +26,18 @@
 	{ "label": { "nl": ["Fotograaf"]},
       "value": { "nl": ["Michel Wuyts"]}
     }],
-   // metadata over de presentatiewijze
-	"viewingDirection": "left-to-right",
-	"behavior": [ "paged" ],
-   
-   // metadata over rechten op de beelden en het afgebeelde kunstwerk
-   /// rechtenstatus
-    "rights": "https://creativecommons.org/publicdomain/mark/1.0/ ",
-	/// naamsvermedling bij het beeld
-  "requiredStatement": {
-    "label": { "nl": ["Naamsvermelding"] },
-    "value": { "nl": ["foto: Michel Wuyts"]}
-  },
-	/// naamsvermelding van de data-eigenaar van de beelden
-  "provider":[
-    {
-      "id": "https://data.antwerpen.be/agent/123",
-      "type": "Agent",
-      "label": { "nl": [ "Stad Antwerpen, Rubenshuis" ] },
-      "homepage": [
+"viewingDirection": "left-to-right",
+"behavior": "paged",
+"rights": "https://creativecommons.org/publicdomain/mark/1.0/ ",
+"requiredStatement": {
+	"label": { "nl": ["Naamsvermelding"] },
+  	"value": { "nl": ["foto: Michel Wuyts"]}
+ 	},
+"provider":[{
+    "id": "https://isni.org/isni/0000000119425402
+	"type": "Agent",
+    "label": { "nl": [ "Stad Antwerpen, Rubenshuis" ] },
+    "homepage": [
         {
           "id": "https://rubenshuis.be/",
           "type": "Text",
@@ -63,17 +47,15 @@
       ],
       "logo": [
         {
-          "id": "https://example.org/service/inst1/full/max/0/default.png",
+          "id": "https://commons.wikimedia.org/wiki/File:Rubenshaus.JPG
           "type": "Image",
-          "format": "image/png",
+          "format": "image/jpg",
             }
           ]
         }
       ],
 	  
-	//lijst met alle beelden, gestructureerd in canvas/annotation page/annotation/object
   "items": [
-  ///canvas voor het eerste beeld
     { "id": "https://media.antwerpen.be/media/iiif/s1JPW9bniYTaUWFBjQpzs2Kz/canvas/normal",
       "type": "Canvas",
       "label": { "en": ["voorzijde"] },
@@ -82,21 +64,14 @@
 		"type": "Image",
 		"format": "image/jpeg"
 		},
-      "items": 
-	  ///een of meerdere annotation pages, kan je beschouwen als layers waarmee je onderscheid maakt tussen bvb de laag met beeldpunten en de laag met geOCRde tekst
-	  [
-        {
-          "id": "https://data.antwerpen.be/artwork/123/annotationpage/image-layer",
+      "items": [
+        { "id": "https://data.antwerpen.be/artwork/123/annotationpage/image-layer",
           "type": "AnnotationPage",
-          "items": 
-		  /// een of meerdere annotations,  beeld of tekst elementen op een annotation page
-		  [
-            {
-              "id": "https://data.antwerpen.be//artwork/123/annotation/image",
+          "items": [
+            { "id": "https://data.antwerpen.be//artwork/123/annotation/image",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://media.antwerpen.be/media/iiif/s1JPW9bniYTaUWFBjQpzs2Kz/canvas/normal",
-			  //// link baar de resource van deze annotation, hier de url naar het beeld via de image api
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/s1JPW9bniYTaUWFBjQpzs2Kz",
                 "type": "Image",
@@ -117,82 +92,7 @@
           ]
         }
       ]
-    },
-    { "id": "https://example.org/artwork/123/canvas/2",
-      "type": "Canvas",
-      "label": { "en": ["achterzijde"] },
-      "height": 3000,
-      "width": 4000,
-      "items": [
-        {
-          "id": "https://example.org/artwork/123/annotationpage/detail1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://example.org/artwork/123/annotation/detail1-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "",
-              "body": {
-                "id": "https://images.example.org/iiif/2/artwork-123-detail1/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 3000,
-                "width": 4000,
-                "label": {
-                  "en": [
-                    "Detail of the upper left corner."
-                  ]
-                },
-                "summary": {
-                  "en": [
-                    "Close‑up of brushwork and surface texture in the upper left area."
-                  ]
-                },
-                "rights": "http://rightsstatements.org/vocab/InC/1.0/"
-              }
-            }
-          ]
-        }
-      ]
-    },
-	{ "id": "https://example.org/artwork/123/canvas/3",
-      "type": "Canvas",
-      "label": { "en": ["lijst"] },
-      "height": 6000,
-      "width": 8000,
-      "items": [
-        {
-          "id": "https://example.org/artwork/123/annotationpage/overall",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://example.org/artwork/123/annotation/overall-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "https://example.org/artwork/123/canvas/1",
-              "body": {
-                "id": "https://images.example.org/iiif/2/artwork-123-overall/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 6000,
-                "width": 8000,
-                "label": {
-                  "en": [
-                    "Overall view of the reproduced artwork."
-                  ]
-                },
-                "summary": {
-                  "en": [
-                    "Color-balanced, full‑frame reproduction of the entire painting."
-                  ]
-                },
-                "rights": "http://rightsstatements.org/vocab/InC/1.0/"
-              }
-            }
-          ]
-        }
-      ]
     }
   ]
 }
+
