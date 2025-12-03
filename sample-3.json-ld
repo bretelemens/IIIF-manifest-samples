@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dams.antwerpen.be/iiif/w1hNmLYhFnlViTeXwke1pVF6/manifest",
+  "type": "Manifest",
+  "label": { "nl": ["Adam en Eva"] }
+,  "items": [
+    { "id": "https://media.antwerpen.be/media/iiif/s1JPW9bniYTaUWFBjQpzs2Kz/canvas/normal",
+      "type": "Canvas",
+      "height":11303,
+      "width": 9135,
+      "items": [
+        { "id": "https://data.antwerpen.be/artwork/123/annotationpage/image-layer",
+          "type": "AnnotationPage",
+          "items": [
+            { "id": "https://data.antwerpen.be//artwork/123/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://media.antwerpen.be/media/iiif/s1JPW9bniYTaUWFBjQpzs2Kz/canvas/normal",
+              "body": {
+                "id": "https://dams.antwerpen.be/iiif/s1JPW9bniYTaUWFBjQpzs2Kz",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 11303,
+                "width": 9135,
+                "label": {
+                  "nl": [
+                    "DIG29376.jpg"
+                  ]
+                },
+				        "service": {
+                  "id": "https://dams.antwerpen.be/iiif/s1JPW9bniYTaUWFBjQpzs2Kz",
+                  "profile": "level1",
+                  "type": "ImageService3"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
