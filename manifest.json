@@ -1,98 +1,187 @@
 {
-	"@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://bretelemens.github.io/IIIF-manifest-samples/manifest.json",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/89p9adqs8o9-mk18g666",
   "type": "Manifest",
-  "label": { "nl": ["Adam en Eva"] },
-  "summary": {"nl": ["Adam en Eva, olieverfschilering op hout door Peter Paul Rubens in 1598-1600. Collectie Stad Antwerpen, Rubenshuis."]},
-  "metadata": [
-    { "label": { "nl": ["DAMS asset ID"] },
-      "value": { "nl": ["https://dams.antwerpen.be/asset/bGPQS9tpgNgYuOSprZcBKYKR"]}
-    },
-	{ "label": { "nl": ["Inventarisnummer"] },
-      "value": { "nl": ["RH.S.164"]}
-    },
-	{ "label": { "nl": ["Titel"] },
-      "value": { "nl": ["Adam en Eva"]}
-    },
-	{ "label": { "nl": ["Maker"] },
-      "value": { "nl": ["Peter Paul Rubens"]}
-    },
-	{ "label": { "nl": ["Datering"] },
-      "value": { "nl": [" 1598 - 1600"]}
-    },
-	{ "label": { "nl": ["Bewaarinstelling"]},
-      "value": { "nl": ["Rubenshuis"]}
-    },
-	{ "label": { "nl": ["Fotograaf"]},
-      "value": { "nl": ["Michel Wuyts"]}
-    }],
-	"viewingDirection": "left-to-right",
-	"behavior": [ "paged" ],
-   
-    "rights": "https://creativecommons.org/publicdomain/mark/1.0/ ",
-  "requiredStatement": {
-    "label": { "nl": ["Naamsvermelding"] },
-    "value": { "nl": ["foto: Michel Wuyts"]}
+  "label": {
+    "en": [
+      "Adam en Eva"
+    ]
   },
-  "provider":[
-		{
-      "id": "https://data.antwerpen.be/agent/123",
+  "summary": {
+    "en": [
+      "Adam en Eva, olieverfschilering op hout door Peter Paul Rubens in 1598-1600. Collectie Stad Antwerpen, Rubenshuis."
+    ]
+  },
+  "provider": [
+    {
+      "id": "https://example.org/89p9adqs8o9-mk18g666/provider/6l5fcm96hsh-mk18mkvl",
       "type": "Agent",
-      "label": { "nl": [ "Stad Antwerpen, Rubenshuis" ] },
-      "homepage": [
-        {
-          "id": "https://rubenshuis.be/",
-          "type": "Text",
-          "label": { "nl": [ "Homepage Rubenshuis" ] },
-          "format": "text/html"
-        }
-      ],
+      "label": {
+        "en": [
+          "Stad Antwerpen, Rubenshuis"
+        ]
+      },
       "logo": [
-			{
-          "id": "https://example.org/service/inst1/full/max/0/default.png",
-          "type": "Image",
-          "format": "image/png",
-            }
-			]
+        {
+          "id": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.e4KL31KtLQOhqv7V3hIjcAAAAA%3Fpid%3DApi&f=1&ipt=497ef161c8ce334d3ff4c3ec004e4b766105220b43c4938d3024a5b001137b6e&ipo=images",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://media.antwerpen.be/media/iiif/o2hHAQfK6kbrMLCPPgH5vGYI/canvas/normal",
+      "type": "Canvas",
+      "height": 4347,
+      "width": 3325,
+      "label": {
+        "none": [
+          "Adam en Eva"
+        ]
+      },
+      "requiredStatement": {
+        "label": {
+          "none": [
+            "Attribution"
+          ]
+        },
+        "value": {
+          "none": [
+            "foto: Michel Wuyts"
+          ]
+        }
+      },
+      "rights": "•\thttps://creativecommons.org/publicdomain/mark/1.0/\t",
+      "thumbnail": [
+        {
+          "id": "https://media.antwerpen.be/media/18/h/h2BRHmmAwekDxYsgYcU4abZw/h2BRHmmAwekDxYsgYcU4abZw.jpg",
+          "type": "Image"
         }
       ],
-  "items": [
-    { "id": "https://media.antwerpen.be/media/iiif/s1JPW9bniYTaUWFBjQpzs2Kz/canvas/normal",
-      "type": "Canvas",
-      "label": { "en": ["voorzijde"] },
-	  "thumbnail":{
-		"id": "https://media.antwerpen.be/media/18/V/VTMYbYiEVMOahJMbvYvAJJKx/VTMYbYiEVMOahJMbvYvAJJKx.jpg",
-		"type": "Image",
-		"format": "image/jpeg"
-		},
-      "items": 
-	  [
+      "rendering": [
         {
-          "id": "https://data.antwerpen.be/artwork/123/annotationpage/image-layer",
+          "id": "https://media.antwerpen.be/download/18/G/GYmWvCXMhafGSaWqc1fytseM/RH_S_164_Foto002.tif",
+          "type": "Image",
+          "format": "image/tiff",
+          "label": {
+            "none": [
+              "RH_S_164_Foto002.tif"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://media.antwerpen.be/media/iiif/o2hHAQfK6kbrMLCPPgH5vGYI/canvas/normal/annotation-page",
           "type": "AnnotationPage",
-          "items": 
-		  [
+          "items": [
             {
-              "id": "https://data.antwerpen.be//artwork/123/annotation/image",
+              "id": "http://example.org/oa:Annotation/2",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://media.antwerpen.be/media/iiif/s1JPW9bniYTaUWFBjQpzs2Kz/canvas/normal",
+              "target": "https://media.antwerpen.be/media/iiif/o2hHAQfK6kbrMLCPPgH5vGYI/canvas/normal",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/s1JPW9bniYTaUWFBjQpzs2Kz/full/max/0/default.jpg",
+                "id": "https://dams.antwerpen.be/iiif/o2hHAQfK6kbrMLCPPgH5vGYI",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 11303,
-                "width": 9135,
+                "height": 4347,
+                "width": 3325,
                 "label": {
-                  "nl": [
-                    "DIG29376.jpg"
+                  "none": [
+                    ""
                   ]
                 },
-				"service": [
+                "service": [
                   {
-                    "id": "https://dams.antwerpen.be/iiif/s1JPW9bniYTaUWFBjQpzs2Kz",
-                    "profile": "level1",
-                    "type": "ImageService3"
+                    "@id": "https://dams.antwerpen.be/iiif/o2hHAQfK6kbrMLCPPgH5vGYI",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://media.antwerpen.be/media/iiif/o2hHAQfK6kbrMLCPPgH5vGYI/canvas/normal/annotations/1t6hq39wbqg-mk197krj",
+          "type": "AnnotationPage",
+          "label": {
+            "en": [
+              "Inline annotations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://media.antwerpen.be/media/iiif/w1hNmLYhFnlViTeXwke1pVF6/canvas/normal",
+      "type": "Canvas",
+      "height": 1531,
+      "width": 1200,
+      "label": {
+        "none": [
+          "Adam en Eva (incl. lijst)"
+        ]
+      },
+      "requiredStatement": {
+        "value": {
+          "none": [
+            "Collectie Stad Antwerpen, Rubenshuis"
+          ]
+        },
+        "label": {
+          "none": [
+            "Attribution"
+          ]
+        }
+      },
+      "thumbnail": [
+        {
+          "id": "https://media.antwerpen.be/media/18/M/M15gPaSQddPZWaKBLefVAhLj/M15gPaSQddPZWaKBLefVAhLj.jpg",
+          "type": "Image"
+        }
+      ],
+      "rendering": [
+        {
+          "id": "https://s3-ant1.antwerpen.be/prod-digitalassets-dams/H/H2NjcmQQTrU9gTCZfIkiaeUJ/DIG00163.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "label": {
+            "none": [
+              "DIG00163.jpg"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://media.antwerpen.be/media/iiif/w1hNmLYhFnlViTeXwke1pVF6/canvas/normal/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://media.antwerpen.be/media/iiif/w1hNmLYhFnlViTeXwke1pVF6/canvas/normal",
+              "body": {
+                "id": "https://dams.antwerpen.be/iiif/w1hNmLYhFnlViTeXwke1pVF6",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1531,
+                "width": 1200,
+                "label": {
+                  "none": [
+                    ""
+                  ]
+                },
+                "service": [
+                  {
+                    "@id": "https://dams.antwerpen.be/iiif/w1hNmLYhFnlViTeXwke1pVF6",
+                    "@type": "ImageService2",
+                    "profile": "level1"
                   }
                 ]
               }
@@ -101,76 +190,74 @@
         }
       ]
     },
-    { "id": "https://example.org/artwork/123/canvas/2",
+    {
+      "id": "https://media.antwerpen.be/media/iiif/nSGYa8TPIco5LdinRUD53JuP/canvas/normal",
       "type": "Canvas",
-      "label": { "en": ["achterzijde"] },
-      "height": 3000,
-      "width": 4000,
-      "items": [
-        {
-          "id": "https://example.org/artwork/123/annotationpage/detail1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://example.org/artwork/123/annotation/detail1-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "target": "",
-              "body": {
-                "id": "https://images.example.org/iiif/2/artwork-123-detail1/full/full/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 3000,
-                "width": 4000,
-                "label": {
-                  "en": [
-                    "Detail of the upper left corner."
-                  ]
-                },
-                "summary": {
-                  "en": [
-                    "Close‑up of brushwork and surface texture in the upper left area."
-                  ]
-                },
-                "rights": "http://rightsstatements.org/vocab/InC/1.0/"
-              }
-            }
+      "height": 863,
+      "width": 1200,
+      "label": {
+        "none": [
+          "Adam en Eva (of toch het konijn)"
+        ]
+      },
+      "requiredStatement": {
+        "label": {
+          "none": [
+            "Attribution"
+          ]
+        },
+        "value": {
+          "none": [
+            "Collectie Stad Antwerpen, Rubenshuis"
           ]
         }
-      ]
-    },
-	{ "id": "https://example.org/artwork/123/canvas/3",
-      "type": "Canvas",
-      "label": { "en": ["lijst"] },
-      "height": 6000,
-      "width": 8000,
+      },
+      "thumbnail": [
+        {
+          "id": "https://media.antwerpen.be/media/18/K/K1cPUYlgDnEXSadf8LfMmlLz/K1cPUYlgDnEXSadf8LfMmlLz.jpg",
+          "type": "Image"
+        }
+      ],
+      "rendering": [
+        {
+          "id": "https://s3-ant1.antwerpen.be/prod-digitalassets-dams/e/e1aMVeCUfhPaOBXbSX42qFmR/DIG08248.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "label": {
+            "none": [
+              "DIG08248.jpg"
+            ]
+          }
+        }
+      ],
       "items": [
         {
-          "id": "https://example.org/artwork/123/annotationpage/overall",
+          "id": "https://media.antwerpen.be/media/iiif/nSGYa8TPIco5LdinRUD53JuP/canvas/normal/annotation-page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://example.org/artwork/123/annotation/overall-image",
+              "id": "http://example.org/oa:Annotation/6",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://example.org/artwork/123/canvas/1",
+              "target": "https://media.antwerpen.be/media/iiif/nSGYa8TPIco5LdinRUD53JuP/canvas/normal",
               "body": {
-                "id": "https://images.example.org/iiif/2/artwork-123-overall/full/full/0/default.jpg",
+                "id": "https://dams.antwerpen.be/iiif/nSGYa8TPIco5LdinRUD53JuP",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 6000,
-                "width": 8000,
+                "height": 863,
+                "width": 1200,
                 "label": {
-                  "en": [
-                    "Overall view of the reproduced artwork."
+                  "none": [
+                    ""
                   ]
                 },
-                "summary": {
-                  "en": [
-                    "Color-balanced, full‑frame reproduction of the entire painting."
-                  ]
-                },
-                "rights": "http://rightsstatements.org/vocab/InC/1.0/"
+                "service": [
+                  {
+                    "@id": "https://dams.antwerpen.be/iiif/nSGYa8TPIco5LdinRUD53JuP",
+                    "@type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
               }
             }
           ]
