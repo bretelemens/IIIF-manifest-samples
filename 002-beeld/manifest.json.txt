@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://dams.antwerpen.be/iiif/ark:12345/w1hNmLYhFnlViTeXwke1pVF6/manifest.json"},
+    "type": "Manifest",
+    "label": {"nl": ["Adam en Eva"]},
+    "summary": {"nl": ["olieverfschildering op hout door Peter Paul Rubens in 1598-1600. Collectie Stad Antwerpen, Rubenshuis."]},
+    "metadata": [{
+        "label": {"nl": ["Inventarisnummer"]},
+        "value": {"nl": ["RH.S.164"]}
+                },{ 
+        "label": {"nl": ["Titel"] },
+        "value": {"nl": ["Adam en Eva"]}
+                },{   
+        "label": {"nl": ["Maker"] },
+        "value": {"nl": ["Peter Paul Rubens"]}
+                },{ 
+        "label": {"nl": ["Datering"] },
+        "value": {"nl": [" 1598 - 1600"]}
+                },{ 
+        "label": {"nl": ["Bewaarinstelling"]}
+        "value": {"nl": ["Stad Antwerpen, Rubenshuis"]}
+                },{ 
+        "label": {"nl": ["Data-eigenaar"]}
+        "value": {"nl": ["Stad Antwerpen, Rubenshuis"]}
+                },{ 
+        "label": {"nl": ["Fotograaf"]},
+        "value": {"nl": ["Michel Wuyts"]}
+                },{ 
+        "label": {"nl": ["Rechthebbende"]},
+        "value": {"nl": ["Panamarenko Estate"]}
+                }],
+    "viewingDirection": "left-to-right",
+    "provider":[{
+      "id": "https://data.antwerpen.be/agent/123",
+      "type": "Agent",
+      "label": {"nl": ["Stad Antwerpen"]},
+      "homepage": [{
+          "id": "https://antwerpen.be/",
+          "type": "Text",
+         	"label": {"nl": ["Homepage Stad Antwerpen"]},
+         	"format": "text/html"
+        	        }],
+      "logo": [{
+          "id":"https://data.antwerpen.be/iiif/[id]/full/max/0/default.png",
+          "type": "Image",
+          "format": "image/png",
+              }]
+        }]
+      "thumbnail":{
+          "id":"https://dams.antwerpen.be/iiif/s1JPW9bniYTaUWFBjQpzs2Kz/full/max/0/default.jpg",
+          "type": "Image",
+	        "format": "image/jpeg"
+	        "width":252,
+          "height":189,
+          "service": [{
+              "id":”https://dams.antwerpen.be/iiif",
+              "profile": "level0",
+              "type": "ImageService3",
+              "sizes":[{
+                  "width": 126,
+                  "height": 95
+                      },{
+              "width": 252,
+              "height": 189
+                      },{
+              "width": 504,
+              "height": 378
+                      }]
+              }]
+        },
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "requiredStatement": {
+        "label": {"nl": ["Naamsvermelding"]},
+        "value": {"nl": [“Panamarenko, Wide White Space Gallery.”, “Verworven met de hulp van de Koning Boudewijnstichting.”,“foto: Michel Wuyts/ CC-BY-SA"]}}
+    "items": [{
+        "id": "https://data.antwerpen.be/iiif/object/ark:12345/w1hNmLYhFnlViTeXwke1pVF6/canvas/1",
+        "type": "Canvas",
+        "label":{"nl":["voorzijde Adam en Eva. olieverfschildering op hout door Peter Paul Rubens in 1598-1600. Collectie Stad Antwerpen, Rubenshuis"]},
+        "height": 1080,
+        "width": 1920,
+        "items": [
+          {
+            "id": "https://data.antwerpen.be/iiif/object/ark:12345/w1hNmLYhFnlViTeXwke1pVF6/page/p1/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "{{ id.path }}/annotation/p0001-image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://iiif.io/api/presentation/2.1/example/fixtures/resources/page1-full.png",
+                  "type": "Image",
+                  "format": "image/png",
+                  "height": 1800,
+                  "width": 1200
+                },
+                "target": "{{ id.path }}/canvas/p1"
+              }
+            ]
+          }
+        ]
+      }    
+    ]
+}
