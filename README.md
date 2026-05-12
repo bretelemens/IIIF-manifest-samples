@@ -1,10 +1,10 @@
 # IIIF-manifest-samples
-* 001-set
-* 002-beeld
-* 003-beeld-sequentie
-* 004-beeld-tekstannotatie
-* 005-beeld-tekstannotatie-link
-* 006-beeld-ocr-download
-* 007-beeld-ocr-pagina
-* 008-beeld-ocr-lijn-woord-karakter
-* 009-beeld- ocr-inhoudstafel
+* [001-set](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/001-set)
+* [002-beeld](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/002-beeld)
+* [003-beeld-sequentie](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/003-beeld-sequentie)
+* [004-beeld-tekstannotatie](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/004-beeld-tekstannotatie)
+* [005-beeld-tekstannotatie-link](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/005-beeld-tekstannotatie-link)
+* [006-beeld-ocr-download](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/006-beeld-ocr-download)
+* [007-beeld-ocr-pagina](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/007-beeld-ocr-pagina)
+* [008-beeld-ocr-lijn-woord-karakter](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/008-beeld-ocr-lijn-woord-karakter)
+* [009-beeld-ocr-inhoudstafel]
