@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+      xmlns:local="local"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>100533737.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2026-02-27T09:50:56.056+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+            <softwareVersion>TrHtr 2.30.2</softwareVersion>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Styles>
+      <TextStyle ID="ID_bold" FONTSTYLE="bold"/>
+      <TextStyle ID="ID_italics" FONTSTYLE="italics"/>
+      <TextStyle ID="ID_smallcaps" FONTSTYLE="smallcaps"/>
+      <TextStyle ID="ID_strikethrough" FONTSTYLE="strikethrough"/>
+      <TextStyle ID="ID_subscript" FONTSTYLE="subscript"/>
+      <TextStyle ID="ID_superscript" FONTSTYLE="superscript"/>
+      <TextStyle ID="ID_underline" FONTSTYLE="underline"/>
+   </Styles>
+   <Tags/>
+   <Layout>
+      <Page ID="Page58" PHYSICAL_IMG_NR="58" HEIGHT="4000" WIDTH="2731">
+         <TopMargin HEIGHT="0" WIDTH="2731" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="4000" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="4000" WIDTH="0" VPOS="0" HPOS="2731"/>
+         <BottomMargin HEIGHT="0" WIDTH="2731" VPOS="4000" HPOS="0"/>
+         <PrintSpace HEIGHT="4000" WIDTH="2731" VPOS="0" HPOS="0">
+            <ComposedBlock ID="t"
+                           HEIGHT="468"
+                           WIDTH="2103"
+                           VPOS="465"
+                           HPOS="461"
+                           TYPE="table">
+               <TextBlock ID="c_12" HEIGHT="468" WIDTH="234" VPOS="465" HPOS="461">
+                  <Shape>
+                     <Polygon POINTS="461,465 461,933 695,933 695,465"/>
+                  </Shape>
+                  <TextLine ID="l"
+                            BASELINE="499,559 597,559"
+                            HEIGHT="90"
+                            WIDTH="104"
+                            VPOS="498"
+                            HPOS="488">
+                     <String HEIGHT="90" WIDTH="208" VPOS="498" HPOS="384" CONTENT="53"/>
+                  </TextLine>
+               </TextBlock>
+               <TextBlock ID="c_21" HEIGHT="468" WIDTH="1272" VPOS="465" HPOS="695">
+                  <Shape>
+                     <Polygon POINTS="695,465 695,933 1967,933 1967,465"/>
+                  </Shape>
+               </TextBlock>
+               <TextBlock ID="c_32" HEIGHT="468" WIDTH="257" VPOS="465" HPOS="1967">
+                  <Shape>
+                     <Polygon POINTS="1967,465 1967,933 2224,933 2224,465"/>
+                  </Shape>
+               </TextBlock>
+               <TextBlock ID="c_45" HEIGHT="468" WIDTH="163" VPOS="465" HPOS="2224">
+                  <Shape>
+                     <Polygon POINTS="2224,465 2224,933 2387,933 2387,465"/>
+                  </Shape>
+               </TextBlock>
+               <TextBlock ID="c_46" HEIGHT="468" WIDTH="177" VPOS="465" HPOS="2387">
+                  <Shape>
+                     <Polygon POINTS="2387,465 2387,933 2564,933 2564,465"/>
+                  </Shape>
+               </TextBlock>
+            </ComposedBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
