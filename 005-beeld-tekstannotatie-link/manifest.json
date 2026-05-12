@@ -1,0 +1,25 @@
+"annotations": [
+        {
+          "id": "https://data.antwerpen.be/iiif/object/ark:12345/w1hNmLYhFnlViTeXwke1pVF6/annotationpage/1/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.antwerpen.be/iiif/object/ark:12345/w1hNmLYhFnlViTeXwke1pVF6/annotationpage/1/2/1",
+              "type": "Annotation",
+              "motivation": "tagging",
+              "body": [
+                {
+                  "type": "SpecificResource",
+                  "source": "http://www.wikidata.org/entity/Q2005868"
+                },
+                {
+                  "type": "TextualBody",
+                  "value": "Stadhuis Antwerpen",
+                  "format": "text/plain",
+                  "language": "nl"
+                }
+              ],
+              "target": "https://data.antwerpen.be/iiif/object/ark:12345/w1hNmLYhFnlViTeXwke1pVF6/canvas/1#xywh=749,1054,338,460"
+            }
+          ]
+        }
