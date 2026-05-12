@@ -2,6 +2,8 @@
 ## use case
 Taggen van voorstellingen in het beeld named entities
 ## implementation notes
-Source en label	 via annotations/annotationPage/annotation
-motivation: tagging
+* via annotations/annotationPage/annotation
+* motivation: tagging
+* Source: reference naar de externe uri, bvb wikidata entiteit
+* label: tekst voor de link	 
 ## samples
