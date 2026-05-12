@@ -7,7 +7,7 @@
 Annotation met een link naar een tekstbestand met de ge-OCR’de tekst van één lijn, woord of karakter op het beeld
 * annotations/annotation page/annotation/body
 * motivation:supplementing
-*	id: uri naar het tekstbestand
-* 	target: uri naar canvas met een Fragmentselector voor de preciese locatie van de tekst in het beeld	
+*	type= TextualBody   of id: uri naar het tekstbestand
+* target: uri naar canvas met een Fragmentselector voor de preciese locatie van de tekst in het beeld	
 
 ## samples
