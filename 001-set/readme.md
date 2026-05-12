@@ -1,4 +1,4 @@
 # Collection
-## use cas
+## use case
 ## implementation notes
 ## samples
