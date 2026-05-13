@@ -1,0 +1,216 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/test-momu-m34-manifest.json",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Brievenkopijenboek Familie Melijn"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Brievenkopijenboek van de familie Melijn. Collectie MOMU bibliotheek, Stad Antwerpen"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Inventarisnummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "M34"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Brievenkopijenboek Familie Melijn"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Maker"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Pedro Melijn"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datering"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1 januari 1707- 31 december 1709"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Bewaarinstelling"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stad Antwerpen, MOMU Bibliotheekcollectie"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Data-eigenaar"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stad Antwerpen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Fotograaf"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Iguana"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Rechthebbende"
+        ]
+      },
+      "value": {
+        "nl": [
+          ""
+        ]
+      }
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "behavior": "paged",
+  "provider": [
+    {
+      "id": "https://www.wikidata.org/entity/Q81164550",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Modemuseum Antwerpen"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://www.momu.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage MoMu"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://antwerpen-momu-shop.gomus.be/assets/images/logo.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "thumbnail": {
+    "id": "https://museumstichting.resourcespace.com/iiif/image/170839/full/thm/0/default.jpg",
+    "type": "Image",
+    "height": 133,
+    "width": 175,
+    "format": "image/jpeg",
+    "service": {
+      "id": "https://museumstichting.resourcespace.com/iiif/image/170839",
+      "type": "ImageService2",
+      "profile": "level1"
+    }
+  },
+  "items:": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/test-momu-m34-manifest/canvas/1",
+      "type": "Canvas",
+      "label": "1",
+      "height": 4432,
+      "width": 5818,
+      "thumbnail": {
+        "id": "https://museumstichting.resourcespace.com/iiif/image/170839/full/thm/0/default.jpg",
+        "type": "Image",
+        "height": 133,
+        "width": 175,
+        "format": "image/jpeg",
+        "service": {
+          "type": "ImageService2",
+          "id": "https://museumstichting.resourcespace.com/iiif/image/170839",
+          "profile": "level1"
+        }
+      },
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "requiredStatement": {
+        "label": {
+          "nl": [
+            "Naamsvermelding"
+          ]
+        },
+        "value": {
+          "nl": [
+            "Melijn archief uit Heemkundige Kring Jan Vleminck gedigitaliseerd door Iguana in het kader van project Melijn"
+          ]
+        }
+      },
+      "items": [
+        {
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/test-momu-m34-manifest/page/1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/test-momu-m34-manifest/annotation/1/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://museumstichting.resourcespace.com/iiif/image/170839/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4432,
+                "width": 5818,
+                "service": {
+                  "type": "ImageService2",
+                  "id": "https://museumstichting.resourcespace.com/iiif/image/170839",
+                  "profile": "level1"
+                }
+              },
+              "target": "https://museumstichting.resourcespace.com/iiif/M34/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
