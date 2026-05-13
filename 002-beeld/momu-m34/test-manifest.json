@@ -30,9 +30,9 @@
                 "width": 5818},
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/1",
               "service": {
-                  "type": "ImageService2",
-                  "id": "https://museumstichting.resourcespace.com/iiif/image/170839",
-                  "profile": "level1"
+                  "@id": "https://museumstichting.resourcespace.com/iiif/image/170839",
+                  "@type": "ImageService2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             ]
