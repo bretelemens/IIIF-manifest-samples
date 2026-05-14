@@ -34,7 +34,7 @@
                   "id": "https://museumstichting.resourcespace.com/iiif/image/170839",
                   "type": "ImageService2",
                   "profile": "level1"
-                				}
+                						}
 							]
 						}
 					]
@@ -47,32 +47,65 @@
       "height": 4664,
       "width": 3082,
       "items": [
-        {
-          "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/page/2/1",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/annotation/2/1/1",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://museumstichting.resourcespace.com/iiif/image/170838/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 4664,
-                "width": 3082},
-                "target": "https://museumstichting.resourcespace.com/iiif/M34/canvas/2",
+		{
+      		"id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/page/2/1",
+          	"type": "AnnotationPage",
+          	"items": [
+            		{
+              		"id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/annotation/2/1/1",
+              		"type": "Annotation",
+              		"motivation": "painting",
+              		"body": {
+                		"id": "https://museumstichting.resourcespace.com/iiif/image/170838/full/max/0/default.jpg",
+                		"type": "Image",
+                		"format": "image/jpeg",
+                		"height": 4664,
+                		"width": 3082},
+                		"target": "https://museumstichting.resourcespace.com/iiif/M34/canvas/2",
 				"service": [
 					{
-                		"type": "ImageService2",
-                  		"id": "https://museumstichting.resourcespace.com/iiif/image/170838",
-                  		"profile": "level1"
-                				}
-              				]
+                			"type": "ImageService2",
+                  			"id": "https://museumstichting.resourcespace.com/iiif/image/170838",
+                  			"profile": "level1"
+                						}
+              						]
 						}
 	  				]
 				}
 	  		]
+		},
+		{
+		
+	"id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/3",
+	"type": "Canvas",
+        "height": 4432,
+        "width": 5863,
+        "items": [
+            {
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/page/3/1",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/annotation/3/1/1",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://museumstichting.resourcespace.com/iiif/image/170840/full/max/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 4432,
+                    "width": 5863,
+                    "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/3",
+                    "service": {
+                      "type": "ImageService2",
+                      "id": "https://museumstichting.resourcespace.com/iiif/image/170840",
+                      "profile": "level1"
+                    						}
+                					}
+                				}
+                			]
+                		}
+        		]
 		}
 	]
 }
