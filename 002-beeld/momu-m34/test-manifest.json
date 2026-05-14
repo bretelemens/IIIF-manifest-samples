@@ -145,6 +145,7 @@
     {
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/1",
       "type": "Canvas",
+      "label": "scan 1",
       "height": 4432,
       "width": 5818,
       "items": [
@@ -169,7 +170,20 @@
                   "type": "ImageService2",
                   "profile": "level1"
                 						}
-							]
+							],
+		"rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      		"requiredStatement": {
+        		"label": {
+          			"nl": [
+            				"Naamsvermelding"
+          			]
+        		},
+        		"value": {
+          			"nl": [
+            				"gedigitaliseerd door Iguana in het kader van project Melijn (MoMu)"
+          			]
+        		}
+      		},
 						}
 					]
 				}
@@ -178,6 +192,7 @@
 		{
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/2",
       "type": "Canvas",
+      "label": "scan 2",
       "height": 4664,
       "width": 3082,
       "items": [
@@ -212,6 +227,7 @@
 		
 	"id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/3",
 	"type": "Canvas",
+	"label": "scan 3",
         "height": 4432,
         "width": 5863,
         "items": [
