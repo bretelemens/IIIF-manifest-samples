@@ -142,7 +142,8 @@
           ]
         }
       },
-  "thumbnail": [{
+  "thumbnail": [
+  	{
   	"id": "https://museumstichting.resourcespace.com/iiif/image/170839/full/thm/0/default.jpg",
  	"type": "Image",
 	"height": 133,
@@ -153,9 +154,10 @@
       		"id": "https://museumstichting.resourcespace.com/iiif/image/170839",
       		"type": "ImageService2",
       		"profile": "level1"
-    		}
-    	]
-  }],
+  	  	}
+  	  ]
+  	}
+  ],
   "items": [
     {
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/1",
@@ -178,8 +180,8 @@
                 "format": "image/jpeg",
                 "height": 4432,
                 "width": 5818},
-              "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/1",
-              "service": [
+              	"target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/1",
+              	"service": [
                 {
                   "id": "https://museumstichting.resourcespace.com/iiif/image/170839",
                   "type": "ImageService2",
@@ -198,7 +200,23 @@
             				"gedigitaliseerd door Iguana in het kader van project Melijn (MoMu)"
           			]
         		}
-      		}
+      		},
+      		"thumbnail": [
+  			{
+  			"id": "https://museumstichting.resourcespace.com/iiif/image/170839/full/thm/0/default.jpg",
+ 			"type": "Image",
+			"height": 133,
+			"width": 175,
+			"format": "image/jpeg",
+			"service": [
+				{
+      				"id": "https://museumstichting.resourcespace.com/iiif/image/170839",
+      				"type": "ImageService2",
+      				"profile": "level1"
+  	  			}
+  	  		    ]
+  			}
+  		    ]
 						}
 					]
 				}
@@ -245,7 +263,23 @@
             				"gedigitaliseerd door Iguana in het kader van project Melijn (MoMu)"
           			]
         		}
-      		}
+      		},
+      		"thumbnail": [
+  			{
+  			"id": "https://museumstichting.resourcespace.com/iiif/image/170838/full/thm/0/default.jpg",
+ 			"type": "Image",
+			"height": 133,
+			"width": 175,
+			"format": "image/jpeg",
+			"service": [
+				{
+      				"id": "https://museumstichting.resourcespace.com/iiif/image/170838",
+      				"type": "ImageService2",
+      				"profile": "level1"
+  	  			}
+  	  		    ]
+  			}
+  		    ]
 						}
 	  				]
 				}
@@ -293,7 +327,23 @@
             				"gedigitaliseerd door Iguana in het kader van project Melijn (MoMu)"
           			]
         		}
-      		}
+      		},
+      		"thumbnail": [
+  			{
+  			"id": "https://museumstichting.resourcespace.com/iiif/image/170840/full/thm/0/default.jpg",
+ 			"type": "Image",
+			"height": 133,
+			"width": 175,
+			"format": "image/jpeg",
+			"service": [
+				{
+      				"id": "https://museumstichting.resourcespace.com/iiif/image/170840",
+      				"type": "ImageService2",
+      				"profile": "level1"
+  	  			}
+  	  		    ]
+  			}
+  		    ]
                 				}
                 			]
                 		}
