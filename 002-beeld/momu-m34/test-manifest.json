@@ -160,12 +160,33 @@
   ],
   "items": [
     {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/1",
-      "type": "Canvas",
-      "label": {"nl": ["scan 1"]},
-      "height": 4432,
-      "width": 5818,
-      "items": [
+      	"id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/1",
+      	"type": "Canvas",
+      	"label": {"nl": ["scan 1"]},
+      	"height": 4432,
+      	"width": 5818,
+	"rights": " http://creativecommons.org/publicdomain/mark/1.0/",
+      	"requiredStatement": {
+        	"label": {"nl": ["Naamsvermelding"]},
+       		"value": {"nl": ["gedigitaliseerd door Iguana in het kader van project Melijn (MoMu)"]}
+       	},
+      	"thumbnail": [
+  		{
+  		"id": "https://museumstichting.resourcespace.com/iiif/image/170839/full/thm/0/default.jpg",
+ 		"type": "Image",
+		"height": 133,
+		"width": 175,
+		"format": "image/jpeg",
+		"service": [
+			{
+			"id": "https://museumstichting.resourcespace.com/iiif/image/170839",
+			"type": "ImageService2",
+			"profile": "level1"
+ 			}
+  		    ]
+		}
+	],
+	"items": [
         {
           "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/1",
           "type": "AnnotationPage",
@@ -187,36 +208,7 @@
                   "type": "ImageService2",
                   "profile": "level1"
                 						}
-							],
-		"rights": " http://creativecommons.org/publicdomain/mark/1.0/",
-      		"requiredStatement": {
-        		"label": {
-          			"nl": [
-            				"Naamsvermelding"
-          			]
-        		},
-        		"value": {
-          			"nl": [
-            				"gedigitaliseerd door Iguana in het kader van project Melijn (MoMu)"
-          			]
-        		}
-      		},
-      		"thumbnail": [
-  			{
-  			"id": "https://museumstichting.resourcespace.com/iiif/image/170839/full/thm/0/default.jpg",
- 			"type": "Image",
-			"height": 133,
-			"width": 175,
-			"format": "image/jpeg",
-			"service": [
-				{
-      				"id": "https://museumstichting.resourcespace.com/iiif/image/170839",
-      				"type": "ImageService2",
-      				"profile": "level1"
-  	  			}
-  	  		    ]
-  			}
-  		    ]
+							]
 						}
 					]
 				}
@@ -228,29 +220,6 @@
       "label": {"nl":["scan 2"]},
       "height": 4664,
       "width": 3082,
-      "items": [
-		{
-      		"id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/page/2/1",
-          	"type": "AnnotationPage",
-          	"items": [
-            		{
-              		"id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/annotation/2/1/1",
-              		"type": "Annotation",
-              		"motivation": "painting",
-              		"body": {
-                		"id": "https://museumstichting.resourcespace.com/iiif/image/170838/full/max/0/default.jpg",
-                		"type": "Image",
-                		"format": "image/jpeg",
-                		"height": 4664,
-                		"width": 3082},
-                	"target": "https://museumstichting.resourcespace.com/iiif/M34/canvas/2",
-			"service": [
-				{
-                		"type": "ImageService2",
-                  		"id": "https://museumstichting.resourcespace.com/iiif/image/170838",
-                  		"profile": "level1"
-                						}
-              						],
 		"rights": " http://creativecommons.org/publicdomain/mark/1.0/",
       		"requiredStatement": {
         		"label": {
@@ -279,7 +248,30 @@
   	  			}
   	  		    ]
   			}
-  		    ]
+  		    ],
+      "items": [
+		{
+      		"id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/page/2/1",
+          	"type": "AnnotationPage",
+          	"items": [
+            		{
+              		"id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/annotation/2/1/1",
+              		"type": "Annotation",
+              		"motivation": "painting",
+              		"body": {
+                		"id": "https://museumstichting.resourcespace.com/iiif/image/170838/full/max/0/default.jpg",
+                		"type": "Image",
+                		"format": "image/jpeg",
+                		"height": 4664,
+                		"width": 3082},
+                	"target": "https://museumstichting.resourcespace.com/iiif/M34/canvas/2",
+			"service": [
+				{
+                		"type": "ImageService2",
+                  		"id": "https://museumstichting.resourcespace.com/iiif/image/170838",
+                  		"profile": "level1"
+                						}
+              						]
 						}
 	  				]
 				}
@@ -292,6 +284,35 @@
 	"label": {"nl":["scan 3"]},
         "height": 4432,
         "width": 5863,
+        "rights": " http://creativecommons.org/publicdomain/mark/1.0/",
+      	"requiredStatement": {
+        	"label": {
+       			"nl": [
+          				"Naamsvermelding"
+          			]
+        		},
+        		"value": {
+          			"nl": [
+            				"gedigitaliseerd door Iguana in het kader van project Melijn (MoMu)"
+          			]
+        		}
+      		},
+      	"thumbnail": [
+  		{
+  		"id": "https://museumstichting.resourcespace.com/iiif/image/170840/full/thm/0/default.jpg",
+ 		"type": "Image",
+		"height": 133,
+		"width": 175,
+		"format": "image/jpeg",
+		"service": [
+			{
+      			"id": "https://museumstichting.resourcespace.com/iiif/image/170840",
+      			"type": "ImageService2",
+      			"profile": "level1"
+  			}
+  		    ]
+  		}
+  	    ],
         "items": [
             {
               "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/page/3/1",
@@ -315,35 +336,7 @@
                       	"profile": "level1"
 								}
                 					],
-		"rights": " http://creativecommons.org/publicdomain/mark/1.0/",
-      		"requiredStatement": {
-        		"label": {
-          			"nl": [
-            				"Naamsvermelding"
-          			]
-        		},
-        		"value": {
-          			"nl": [
-            				"gedigitaliseerd door Iguana in het kader van project Melijn (MoMu)"
-          			]
-        		}
-      		},
-      		"thumbnail": [
-  			{
-  			"id": "https://museumstichting.resourcespace.com/iiif/image/170840/full/thm/0/default.jpg",
- 			"type": "Image",
-			"height": 133,
-			"width": 175,
-			"format": "image/jpeg",
-			"service": [
-				{
-      				"id": "https://museumstichting.resourcespace.com/iiif/image/170840",
-      				"type": "ImageService2",
-      				"profile": "level1"
-  	  			}
-  	  		    ]
-  			}
-  		    ]
+		
                 				}
                 			]
                 		}
