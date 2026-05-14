@@ -100,6 +100,35 @@
   ],
   "viewingDirection": "left-to-right",
   "behavior": "paged",
+  "provider": [
+    {
+      "id": "https://www.wikidata.org/entity/Q81164550",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Modemuseum Antwerpen"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://www.momu.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage MoMu"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://antwerpen-momu-shop.gomus.be/assets/images/logo.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
   "items": [
     {
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/1",
