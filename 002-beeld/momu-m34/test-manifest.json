@@ -214,6 +214,62 @@
 		]
              }
           ]
+	},
+	{
+        "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/2",
+      	"type": "Canvas",
+      	"label": {"nl": ["scan 2"]},
+      	"height": 4664,
+      	"width": 3082,
+	"rights": " http://creativecommons.org/publicdomain/mark/1.0/",
+      	"requiredStatement": {
+        	"label": {"nl": ["Naamsvermelding"]},
+       		"value": {"nl": ["gedigitaliseerd door Iguana in het kader van project Melijn (MoMu)"]}
+       	},
+      	"thumbnail": [
+  		{
+  		"id": "https://museumstichting.resourcespace.com/iiif/image/170838/full/thm/0/default.jpg",
+ 		"type": "Image",
+		"height":175,
+		"width": 116,
+		"format": "image/jpeg",
+		"service": [
+			{
+			"id": "https://museumstichting.resourcespace.com/iiif/image/170839",
+			"type": "ImageService2",
+			"profile": "level1"
+ 			}
+  		    ]
+		}
+	],
+	"items": [
+        {
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/annotation/2/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://museumstichting.resourcespace.com/iiif/image/170838/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4664,
+                "width": 3082,
+              	"service": [
+                {
+                  "id": "https://museumstichting.resourcespace.com/iiif/image/170838",
+                  "type": "ImageService2",
+                  "profile": "level1"
+                						}
+							],
+              	"target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/tst-manifest/canvas/2"
+                        }
+                    }
+		]
+             }
+          ]
 	}
        
     ]
