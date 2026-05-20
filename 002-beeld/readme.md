@@ -7,13 +7,20 @@ Digitale Toegang tot alle beelden van één collectiestuk, m.n.:
 * geheel, verschillende aanzichten en details van een driedimensionaal object (i.c. een sculptuur, een gerbuiksvoorwerp)
 * geheel en de onderdelen van een meervoudig driedimensionaal object (i.c. een theeservies) 
 * alle pagina's van een boek, handschrift of tijdschrift 
-## implementation notes
-* Het Manifest representeert alle beelden van een collectiestuk.
-* Manifest/labe bevat de titel van het collectiestuk. De titel kan in verschillende talen getoond worden. Elk titel heeft een taalcode. Deze titels worden in de viewer als titel getoond bij het beeld.
-* * Het Manifest/Canvas representeert een specifiek beeld van collectiestuk.
-* De Manifest/Canvas/Page is in dit sample redundant.
-* De Manifest/Canvas/Page/Annotation representeert enkel een beeld.
+## implementatie
+* Het'manifest'-object representeert alle beelden van een collectiestuk.
+* Het 'manifest.canvas'-object representeert een specifiek beeld van collectiestuk.
+* Het 'manifest.canvas.page' is in dit sample redundant.
+* Het 'Manifest.canvas.page.annotation'-object representeert enkel een beeld.
+* De titel van het collectiestuk bevindt zich in 'manifest.label'. Titels worden in viewers als hoofdlabel getoond bij het beeld.
+* Een bondige beschrijving van het collectiestuk bevindt zich in 'manifest.summary' en bevat een tekenreeks met een objectnaam, datering, maker en bewaarinstelling. 
+
+* De dataverantwoordelijke voor het beeld en de metadata bevindt zich in 'manifest.provider'.
+
 
 
 ## samples
-* momu: Brievenkopijenboek van de familie Melijn voor de periode 1707-1709. Melijn archief, Heemkundige Kring Jan Vleminck vzw, Wijnegem ([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest.json&xywh=-800%2C-485%2C7417%2C5401), [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F002-beeld%2Fmomu-m34%2Ftest-manifest.json), Mirador)
+* momu: Brievenkopijenboek van de familie Melijn voor de periode 1707-1709. Melijn archief, Heemkundige Kring Jan Vleminck vzw, Wijnegem 
+([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest.json&xywh=-800%2C-485%2C7417%2C5401), 
+[Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F002-beeld%2Fmomu-m34%2Fmanifest.json), [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/manifest.json), ,
+[IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/manifest.json&lang=en))
