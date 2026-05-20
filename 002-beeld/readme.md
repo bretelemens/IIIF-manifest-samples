@@ -8,12 +8,12 @@ Digitale Toegang tot alle beelden van één collectiestuk, m.n.:
 * geheel en de onderdelen van een meervoudig driedimensionaal object (i.c. een theeservies) 
 * alle pagina's van een boek, handschrift of tijdschrift 
 ## implementatie
-* Het'manifest'-object representeert alle beelden van een collectiestuk.
-* Het 'manifest.canvas'-object representeert een specifiek beeld van collectiestuk.
-* Het 'manifest.canvas.page' is in dit sample redundant.
-* Het 'Manifest.canvas.page.annotation'-object representeert enkel een beeld.
-* De titel van het collectiestuk bevindt zich in 'manifest.label'. Titels worden in viewers als hoofdlabel getoond bij het beeld.
-* Een bondige beschrijving van het collectiestuk bevindt zich in 'manifest.summary' en bevat een tekenreeks met een objectnaam, datering, maker en bewaarinstelling. 
+* Het`manifest`-object representeert alle beelden van een collectiestuk.
+* Het `manifest.canvas`-object representeert een specifiek beeld van collectiestuk.
+* Het `manifest.canvas.page` is in dit sample redundant.
+* Het `Manifest.canvas.page.annotation`-object bevat enkel de beelddata.
+* De titel van het collectiestuk bevindt zich in `manifest.label`. Titels worden in viewers als hoofdlabel getoond bij het beeld.
+* Een bondige beschrijving van het collectiestuk bevindt zich in `manifest.summary` en bevat een tekenreeks met een objectnaam, datering, maker en bewaarinstelling. 
 
 * De dataverantwoordelijke voor het beeld en de metadata bevindt zich in 'manifest.provider'.
 
