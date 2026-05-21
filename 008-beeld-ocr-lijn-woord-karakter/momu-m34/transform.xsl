@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#"> <!-- note this namespace may need to change for different versions of ALTO -->
     <xsl:output method="text"/>
-    <!-- This needs to resolve to the annotation list: -->
-    <xsl:param name="annoURI" select="'http://localhost:8888/examples/anno_list.json'"/>
+    
+    
+    
+    
+    <!-- This needs to resolve to the annotation page: -->
+    <xsl:param name="annoURI" select="'https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2'"/>
 
     <!--
         The ALTO may have been generated from the TIFF, if so the jp2 or IIIF image might be a different size. If so
@@ -12,7 +16,7 @@
     <xsl:param name="yRatio" select="'3'"/>
 
     <!-- Links to the canvas for the annotation and the manifest for the within -->
-    <xsl:param name="canvasURI" select="'http://dams.llgc.org.uk/iiif/3320640/canvas/3320641'"/>
+    <xsl:param name="canvasURI" select="'https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1'"/>
     <!--
         Include this if you want to have a within link in the annotation. For example:
         <xsl:param name="manifestURI" select="'http://dams.llgc.org.uk/iiif/3100186/manifest.json'"/>
@@ -34,9 +38,9 @@
                 -->
                     <xsl:for-each select="/alto:alto/alto:Layout/alto:Page/alto:PrintSpace//alto:TextBlock//alto:TextLine">
                     {
-                        "id": "<xsl:value-of select="$annoURI"/>-<xsl:value-of select="position()"/>",
+                        "id": "<xsl:value-of select="$annoURI"/>/<xsl:value-of select="position()"/>",
                         "type":"Annotation",
-                        "motivation":"commenting",
+                        "motivation":"supplementing",
                         "body":
                         {
                             "type":"TextualBody",
@@ -65,12 +69,6 @@
                         },
                         "target":"<xsl:value-of select="$canvasURI"/>#xywh=<xsl:value-of select="@HPOS div $xRatio"/>,<xsl:value-of select="@VPOS div $yRatio"/>,<xsl:value-of select="@WIDTH div $xRatio"/>,<xsl:value-of select="@HEIGHT div $yRatio"/>"
                         <xsl:if test="$manifestURI and string-length(normalize-space($manifestURI)) &gt; 0">
-                            ,
-                            "partOf":
-        					{
-        						"id": "<xsl:value-of select="$manifestURI"/>",
-        						"type": "Manifest"
-        					}
                         </xsl:if>
                     }<xsl:if test="position() != last()">,</xsl:if>
                 </xsl:for-each>
