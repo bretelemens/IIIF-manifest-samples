@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#"> <!-- note this namespace may need to change for different versions of ALTO -->
     <xsl:output method="text"/>
+    <!-- volgnummer annotation uri uit de bestndsnaam halen en de annotation uri vormen-->
+      <xsl:param name="source-file" as="xs:string"/>
+  
+    <xsl:variable name="nr"
+      select="string(number(replace($source-file, '^HKW_M34_(\d+)\.xml$', '$1')))" />
+
+    <xsl:value-of select="concat(
+      'https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/',
+      $nr
+    )"/>
+
     
     
-    
-    
+  
     <!-- This needs to resolve to the annotation page: -->
     <xsl:param name="annoURI" select="'https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2'"/>
 
