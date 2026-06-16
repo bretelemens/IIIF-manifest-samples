@@ -1,0 +1,1 @@
+$ for f in alto/HKW_M34_*.xml; do   base=$(basename "$f" .xml);   seq=${base#HKW_M34_};   seq=$((10#$seq));   xsltproc -o "output/page-${seq}.json" --stringparam source-file "$f" transform.xsl "$f"; don
