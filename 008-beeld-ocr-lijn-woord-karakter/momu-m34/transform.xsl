@@ -4,23 +4,23 @@
   xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
 
   <xsl:output method="text" encoding="UTF-8"/>
+  
   <!-- pass the filename as parameter from command line -->
   <xsl:param name="source-file"/>
-  <!--volgnummer canvas uit de bestandsnaam halen. this is meant to extract the number from e.g. HKW_M34_0001.xml -->
+  
+  <!-- base URI for this collection -->
+  <xsl:param name="baseURI"
+    select="'https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest'"/>
     
-    <xsl:variable name="nr"
-  select="string(number(replace($source-file, '^HKW_M34_(\\d+)\\.xml$', '$1')))" />
-  <!-- canvas uri vormen   -->
-  <xsl:variable name="canvasURI">
-    <xsl:text>https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/</xsl:text>
-    <xsl:value-of select="$nr"/>
-  </xsl:variable>
-  <!-- page uri vormen -->
-  <xsl:variable name="pageURI">
-    <xsl:text>https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/</xsl:text>
-    <xsl:value-of select="$nr"/>
-    <xsl:text>/2</xsl:text>
-  </xsl:variable>
+  <!-- Extract and normalise canvas number -->
+  <xsl:variable name="nrStr"
+    select="substring-before(substring-after($source-file, 'HKW_M34_'), '.xml')"/> 
+  <xsl:variable name="nr" select="number($nrStr)"/>
+  
+  <!-- define canvas and page URIs -->
+  <xsl:variable name="canvasURI" select="concat($baseURI, '/canvas/', $nr)"/>
+  <xsl:variable name="pageURI" select="concat($baseURI, '/page/', $nr, '/2')"/>  
+
   <!--
     The ALTO may have been generated from the TIFF, if so the jp2 or IIIF image might be a different size.
     If so use the following ratios to reduce the TIFF coordinates to the IIIF image coordinates:
@@ -32,6 +32,8 @@
   -->
   <xsl:variable name="quote">'</xsl:variable>
   <xsl:variable name="doublequote">"</xsl:variable>
+  <xsl:variable name="backslash">\</xsl:variable>
+  <xsl:variable name="escaped-doublequote" select="concat($backslash, $doublequote)"/>
 
   <!-- entry point -->
   <xsl:template match="/">
@@ -110,19 +112,19 @@
         </xsl:call-template>
       </xsl:variable>
 
-<!--
+
       <xsl:variable name="step2">
         <xsl:call-template name="replace-string">
           <xsl:with-param name="text" select="$step1"/>
-          <xsl:with-param name="replace" select='"'/>
-          <xsl:with-param name="with" select="concat('\', '"')"/>
+          <xsl:with-param name="replace" select="$doublequote"/>
+          <xsl:with-param name="with" select="$escaped-doublequote"/>
         </xsl:call-template>
       </xsl:variable>
 
       <xsl:value-of select="$doublequote"/>
       <xsl:value-of select="$step2"/>
       <xsl:value-of select="$doublequote"/>
--->
+      
       <!-- target region -->
       <xsl:text>,
       "target":</xsl:text>
