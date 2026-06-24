@@ -205,10 +205,18 @@
     }
   ],
   "thumbnail": [
-    {
-      "id": "https://media.antwerpen.be/media/18/i/i1COYgEbqN1aU8eNjHMWgWuj/i1COYgEbqN1aU8eNjHMWgWuj.jpg",
-      "type": "Image",
-      "format": "image/jpeg"
+    { 
+	"id": "https://dams.antwerpen.be/iiif/U1ROAWUynbQWLudrMXX1Og4n/full/175,/0/default.jpg",
+	"type": "Image",
+        "format": "image/jpeg",
+        "width": 175,
+        "service": [
+           {
+             "id": "https://dams.antwerpen.be/iiif/U1ROAWUynbQWLudrMXX1Og4n",
+             "type": "ImageService2",
+             "profile": "level1"
+           }
+        ]  
     }
   ],
   "items": [
