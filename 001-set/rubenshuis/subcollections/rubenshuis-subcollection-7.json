@@ -1,0 +1,2372 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-7.json",
+  "type": "Collection",
+  "partOf": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/rubenshuis-collection.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "nl": [
+      "Collectie Rubenshuis – deel 7"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Manifesten 1501 tot 1750 van 3169 uit de Rubenshuis-collectie."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "deelnummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "7"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "totaal aantal delen"
+        ]
+      },
+      "value": {
+        "nl": [
+          "13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "aantal manifesten"
+        ]
+      },
+      "value": {
+        "nl": [
+          "250"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Stad Antwerpen, Rubenshuis"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://data.antwerpen.be/agent/rubenshuis",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Rubenshuis"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://rubenshuis.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage Rubenshuis"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://www.antwerpen.be/assets/images/logos/logo_A_stad_antwerpen.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dams.antwerpen.be/iiif/QMcoJFTwmPhXNXiOQuVOxbK5/full/max/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/QMcoJFTwmPhXNXiOQuVOxbK5",
+          "type": "ImageService3",
+          "profile": "level0"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/QMcoJFTwmPhXNXiOQuVOxbK5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "OT_145 - LB 114/7 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/HqRssBcNHZSpXEakZ7vTeXdS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "OT_180 - LB 122/7 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1ZNTU2BCKVPBRPNdOXhkqZC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "OT_182 - LB 122/9 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/IUYVlYBOq8UaIldHJlZlVE9g.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "OT_191 - LB 125 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s1hYEhTjRYLSBmZ2TpUYQVy6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_059 - LB 145/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/foD4FQYigi3VNRBZnJZEs1ZV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "YC_046 - LB 159 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O1LJn8jOEOSd9aWLYMXNh16F.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "YC_056 - LB 166/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/pMuLPphSPm8giUkMgn6wkA6Y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "YC_068 - LB 175/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E1rqUEXpcCMRMMMeENV3tEAi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "YC_128 - LB 191 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E2jdMghShVXcLjTCHIinKGVS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "YC_146 - LB 197/4 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w6IKqibtNhRdkHdTSle9xh1n.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_088 - LB 207/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1bQkTJNd7PUTeRcTLh3O7qy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_090 - LB 207/4 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/qokaRMXUbbPAJEcQK2nrO2JF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_103 - LB Bij 210-217/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y2IreVWNYHBIUdNYcP52jSYh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_185 - LB 230/3 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i2ULcrMaTUhDdbBaFL0Zsi8u.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_200 - LB 236/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/TPUG3FPSWef8FkaiUVgT2VJM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_258 - LB 246/a (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z2KWQiwUZCZIZBe6boB4a8bx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_275 - LB 249/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/VO4nPPqnNJOT8VSHPgeleYMk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_281 - LB 251/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/EdLGXYhkSrbN9oYpZsMNLnfN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_295 - LB 254 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/lmLnEWOXQogXKoWSTPfC51fP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_318 - LB 263 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T1RZJc7BSk9VFLQjhxR9xkfE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MA_331 - LB 266/5 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/UdqWoM4nROSgNcXZSliYaJHS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MC_026 - LB 280 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/gNTFkbSVrgZTNUPDXT8aXny2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MC_029 - LB 281 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zYcWXlOTLeYENpp7f4TmVAKH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MC_058 - LB 291 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e1hcfZCbkOgLiZbcFPOuVTlH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MC_066 - [geen LB-nummer] (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/yMOhYgAFafTbOXEWW3y7ej3q.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PA_093 - LB 326 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q1jt6GStaiLjIjHIfT70AAUR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PA_136 - LB 335 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/uNZISeSzqUPsUjJgn2JBhcDA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PA_164 - LB 348/5 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k1mYFWSSUWFZvibkPQsl46Cd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PA_222 - LB 365/3b (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f2FD6dRqTeHZnjNWig3U196V.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AP_011 - LB 378/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1kKimCDPabMa8sNKlKJ4Xg2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AP_014 - LB 378/5 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G2aQemaNdGjXQGPR7Xyjy8UV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AP_039 - LB 388 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x1dbeWWRSGWTOJPiWOta7840.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AP_086 - LB Bij 401-411/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T2beLPNjOKikgUPaZZCicQwy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AP_088 - LB Bij 401-411/3 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T1Xs9YVvcheogTYeLvS6vhbj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AP_109 - LB 410/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u1WjUgffodtbqYXOSbJFvNla.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AP_117 - LB 411/4 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M22S7l5VeVLKSVYXfE7TG66A.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "SA_033 - LB 431/6 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F2T9crLmpMsShjXL89kycsK4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "SA_072 - LB 445/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T2PDYoKK6uhhOJiSGdg4Ul3m.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "SA_161 - LB 481 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1ZhHrXccBDK9O6JKwX1fr6C.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "SA_220 - LB 493/6 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/mr9FEobNdYebFpHYYfb7mX0l.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "SA_371 - LB 524 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/weUXRgUiSeAKLWBKoG0AoUy7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "SA_381 - LB 530 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2ColiqrDe6jNNZaVRfnCdWP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "TP_034 - LB 578 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y2DlGOXu9rTcchJPNj8TeG9U.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AG_057 - LB 636/6 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P1TpEtQjXEGCONEbijjKzMso.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "TP_040 - LB 583 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/xDPDoVeQLTCybSnBN6imtJle.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "TP_059 - LB Bij 592 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F2cevVTeVULUSGanILm0I3Xj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AC_012 - LB 614/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E2VuPJhRSogUQKXIqJWtyg4u.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AC_008 - LB 612/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1UfYHoceHGXTRYZXEckChNe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AG_045 - LB Bij 635/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k19cghGcWPwrNXCnEccacUms.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AG_048 - LB 635/4 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q2lk4PYSoXSOlPNTQ9CaE1jy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AG_116 - LB Bij 644/3 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O2SFKLbXCebXQMUSVfBvZ62Y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AG_214 - LB 658 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/XmO9DrSkPTGePpOsWNcLq3nr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AG_269 - LB 674/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/CNpWOhnabUfeJidtfVvGkH6q.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AG_281 - LB 676/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i2FrOz9WWgneSbSWXXTZuTIN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "HO_173 - LB 724 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S1MINlkPsXDLcudoXje2NH14.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PZ_027 - LB 733/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W1MNjvRJ9sURNUR9PUIRnnkY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AL_054 - LB 791/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K1DpV8JNsYCMbEWZSLK3jZmG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "BT_080 - LB 872 ← [geen LB-nummer] (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1csoaNTSTcj8pDCHVwz9J1O.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "GS_049 - LB 917/5 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1m8WPafGN8UhY7dBVtcstpK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "HI_103 - LB 957/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/PqBOMIBjbl2EIJWEmEodbe9G.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "HI_119 - LB 971/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1I8WHnfNIPfZhpUBUcaxMPL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "CS_009 - LB 980 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ffZYDaXdPWoZCUmsKCamncEZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "AP_106 - LB 408/4 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N2V9GSWmUdCbAVUTbNPG5KVy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MM_010 - LB Bij 996-1021/6 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F1ctjUjXnTRgkefcYRiafVpq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MM_013 - LB Bij 996-1021/9 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/nOCQYXPTXlRIai7HK8CmTkJE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "BC_015 - LB 1037/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U1KhgvUYjfCcedJFHYNs6R34.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PR_061 - LB 1095/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k1OeOfTSRHSYmKRQhZnwoSeD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PO_009 - LB 1129/1 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/kDeeWtnVA7QIXRQMXXmH6inm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PO_106 - LB 1151/5 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U1dfIDWrde7lIXnWHEJbFmVx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PO_111 - [losse stukken] (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K1WLYbMYLedM6aUQUAKwDqIQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PO_211 - LB 1181 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1i6paLJHITeT7HoEZxXJure.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PO_262 - LB 1200 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WdhEgLKVyQTPMUNeFdfk7oHO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PO_301 - LB 1219/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/KGH6mLYgH7foAQIPsu71mc3B.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "PO_344 - LB 1244 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/bSNnP6I39FtEEpkgUleHdi0K.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "SH_071 - LB 1388 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/bPgpvpShvbKZfp8aHMCDYbdp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "HS_035 - LB 1556/5 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/B1TeRs8dKQSZ8iDdVdARgNdY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "HS_084 - LB Add bij 1567 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1LFRGBMmiWBGOcCXXoD5Sde.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "HS_094 - LB 1571 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X1hbM6mZgedTOyQgTahFLY69.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "CO_011 - LB 1576/2 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1ArxoKJqVefMRqPOZzlUyk3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "LS_054 - LB 1649/3 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G2MUUEMNOMR7hKoHeBzAcxgV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "LS_087 - LB 1662 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y1ktbZYNZpdVgXnM7XH9aFnG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "IM_127 - LB 2163 (Max Rooses)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/YHZOKGhFiabhdUUhX9IML7V7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Christus en zes Apostelen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y2NlSTeGQjatBiZkZSUdMF1A.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De opwekking van Lazarus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/mMHMOOYVEfTpk9dOUHwZGZSQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "RH.T.0023/v (opschrift)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K2ipcZYNCoVZwUfesBnEUAD6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "RH.T.0022/v"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n2bbmDIaYhCkUWsMCen0y9xb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "RH.T.0012/v (opschrift)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q2ARDSH6ZcTjIEkgRSwlCT1C.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Watermerk druiventros RH.T.0020"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1fBJxhSSQ4YdlDtOWuZADqE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Watermerk kroon RH.T.0021"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V1OFQYxZLsQkaftVdEu6rK7r.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Huisaltaar met voorstelling van O.L.Vrouw, de H. Anna en de H. Joachim"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zZn3iNcRmUIheivX9SfTP3hu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Dronken Silenus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C7KSUsncJTPTHNDSIUgfw0fN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De kunstkamer van Cornelis van der Geest"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s2LmPZYYNwcdPeF8IOlYbzS9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149039l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2aWLThQYdiOUlWPYZUzrSRi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149042l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/HkOtYLVUeZKaJacNQi5k2AFQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149044l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T2dUNYXVITUUoPc5cE1ep857.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149043l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1XkhDLeItYLcYCVI80rxNAA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149041l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1PQNpBNrJekdIaMCeV1qO2N.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Notitieboek over de Jordaenstentoonstelling van 1905"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u1FdpfdROeQijgWGWVku9pJw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Laatste drukproef voor de prospectus van Rubens leven en werken, met opschrift (van L.H. Smeding?)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C1TXHEPSSPlMhPkIKn11TDsy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Notitieboek met op de rug opschrift \"Notas over Rubens\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ypPDYLTBSTOasAHCfyYePctr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Documentatie over Rubens (bundel I)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z1hefOZYHeYXMfMiRIpxoj2Y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Documentatie over Rubens (bundel II)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/EaHIl6TeETOuOJZBXaGlSJSx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Band met oud opschrift \"Dossier Rubens\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/QeLTdcWfnAfMAUsfPoAAJ3Jt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Documentatie ter voorbereiding van de tentoonstelling 'L'Art Belge au XVIIe siècle' (mei - november 1910) in het Jubelpark te Brussel (bundel)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/xIfSVmVOUWmVgUP9PsCywJan.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Documentatie over de Jordaenstentoonstelling van 1905 (bundel III)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e2TdaClWfvhICVSTCNw5aLzb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Documentatie over de Jordaenstentoonstelling van 1905 (bundel I)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H2aeNWcHZTi9AU3sZRr2XNtb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Documentatie over de Jordaenstentoonstelling van 1905 (bundel II)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2BhdaJOeDlVWgEGQsBr9RTI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De Verloochening van de H. Petrus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w2bEKVLcNzMlFtGZbd5yUH1c.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De kunstkamer van Cornelis van der Geest"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/yJpjJCarbvjLSemfWFDHny56.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De kunstkamer van Cornelis van der Geest"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p2auhbVScfMstU9RFSdAQirV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149446l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q1waQIJj7vaNcWrTTM2a0Gbl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149431l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u1HMVuNOmRXaZaRU3ABGWkWs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149434l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v1LZ9Jh9YbjeYgWDRRAarAWr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149433l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/vRMXRBVEboaEju6OemP5m8kl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149427l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w1bcaQKmMwQhLriFSg4wXGw5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149452l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y1QmrOWVYELQXMhZacHBV5cJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149444l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/RNUdhiKoAWaDN8bpJ5YqXVpD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149448l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/SeNfcZRNkVPaTcNbRa3fYfwz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149440l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T2dWKPueGUCPHLidbMIUspsF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149430l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1OjMPZWGnrYVBWnREnqW4SU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149457l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G1Lg8BWRZ9rEdaUNkYk0e6Fg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149438l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G1eZJQd8TJHAaRvZaiboob8U.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149451l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/GbPNUJmQUTTZNRaZIWKidXmw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149441l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/HEgkVWRFUgsadIHXUMcesnar.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149454l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LmVmpRlVbW9DUeKcBUJ6ExAu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149439l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N1caYiQLTYaZpTPhmOuo9sls.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149435l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O1WbWmRcXgoPefZJnTWjqhaW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149429l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P2IbncUPpftQVOUUAoaghSHF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149442l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/PM9KNHsRtcgXVV9RRZgwdZJN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149447l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W2IhTYClX9R7RJt7f9ISKzFl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149445l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WSlfWWhWMQGWmlvLZ1S5VZ4n.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149449l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X1BYHTnMqQQdULgvLPzTny2y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149455l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X1WfHMffcRKJghInNq4oYB8V.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149426l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z1SfTVhNqqndoJhV5YiZFWta.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149432l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1ElHkPUVEUSaXTNWcjuj7tC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149456l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f2IKhULjONPhOJsAXP98LLOq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149437l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g1NuJCaeJZmOkRc8ijlowe1w.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149428l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g1OXdHVcUURbGe4dMpWndQ3v.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149453l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g2PQRUHPiLKgNtjYbfzeQwzu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149443l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i1KSQqvdeKSXAbaTrmEFENwQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149436l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k1CTdKTWgYOjdX4edULB3pPr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149450l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2KNVQMikRNFYQTBeQNOkD7z.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149458l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o6WePHWTJQdQTzNM48UwA0NK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149425l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p2HZRgaigMMeVMRJBZumP3FK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149424l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A2WknU6UbhVvRLOPSaf7Kgeg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149423l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p24kleHjkQYbbTdrnEsOnXOn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149460l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q2bIf7HNWbPLhfiG9K7JIekb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149466l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/qi9KEFPaaNYeHNIRUuDuUuli.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149459l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/yZHfULSOIDTpJVJprQISWOmB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149469l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R2R8fjVIFQgCHpaeCsMpoVPZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149463l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1qTtknSQcvik9jFZRs7tCM6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149468l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/MMLUbZQAiFY8catiYpZfIbh9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149461l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N2RNSUu2GjciaXd8XIXlp6PL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149462l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/NA6RUJTUDAeWCmSdFuQdx9gB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149470l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P1WCjXVJLNmUYGFKMYmgdJKm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149467l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p1GVclW6QUNLcbfPO5gVAWD6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149464l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p2E4OIIWDePIHgliYLLF4LeA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149482l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q1Qh7jTQ5RRVQalZqEmhSw5B.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149500l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q2VZSarXVbZp8RSZYRwVz6k9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149495l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/rJgZKOaOaBliPWndbfVwTovD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149477l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t2ZXljgdefdMiJlHDvVYL9Vx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149465l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u1oXTGNeKOXHPGfVoJgAa5ZW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149489l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/vraNeIiLqRjNmTgl5Dn97so7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149479l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z2QEbiZVlZaMX2lLgXxUt5em.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149499l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zcGkFFrTrOIPPPUQdoNVrESn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149501l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/PWbTWWUbaOd5QaATTcu1xgWp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149476l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/QSSFnPDUmUqEOfMdida0bOB8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149475l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/QhLoHXU9UJOKekjUmSdxocM1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149481l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1PbRrbFSblxYZKYXjzykWX2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149492l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R2QXgClgaoHStbnHKCpU6Are.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149478l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S1leXGRwVSIicY4VeXPWySd3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149497l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/BWiabnVZfAjbh82gRhbCxXed.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149502l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C1LNWVkVTrNjZeK999HiDeiK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149503l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1WUh7CPCZgGiCWCWbm0OHPj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149487l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DUiUlOdEhTkRZ4aAXpFY2bLF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149493l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G1jDkZsNKVqVbUQrKMXZbozA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149485l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/HjJOjNZRaNplOFuFHxq2Cmai.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149498l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K1IHQFFOBPbLTjaJOTJSQT7W.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149496l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LhMPdXdEUFkVNsabehiNNtYU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149486l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/PPQQ79TaZ6dgPTdJVmNF66gv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149494l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W2HUEMRVUcppnIiXOsobTUHa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149472l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y1fXYfIbXg8cVS7rtfBcIMUN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149473l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1WpYQ8aOQcXAhVRSKj8AKwF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149474l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/cRXpDIvNVsOgsRVhfIjKXFZP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149490l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/d2goMbogScFWhVYSYh4G1zZ2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149488l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1JBXFBRPXVDpbgfMZGhEomO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149471l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/fWrZLoIMFUXWUVYmZcchAimL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149480l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/faSAVFKCgYYIVISVKH5gQoh5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149484l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k1cUXkRUbfiVMaWHQdpMLL7G.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149483l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f2TBQgiWGtNX7KagNJ6JNF7G.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De kunstkamer van Cornelis van der Geest"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g2JqVmbPTIaQWKeECitomCxd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "x149491l.jpg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/GaQYIasjDWUjj5yZUcSrcWkk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tegeltableau met landschap en wapenschild omgeven door guirlande."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M2ObNiJBQBXffW6mbUpwkoVF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tegeltableau met landschap en wapenschild omgeven door guirlande."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y1DM3KhHTZZQgO5Lj6IBs6G5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tegeltableau met landschap en wapenschild omgeven door guirlande."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2VOdIbRqoQ37STh3ZEtgb0l.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tegeltableau met landschap en wapenschild omgeven door guirlande."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l28lZeKftDWS8PVcjKwL8Bt5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ecce Homo"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/HfbLMKYWbaMgElMeC68qF8v4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Berglandschap met saters en geiten bij een waterval"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s1bSEeGOaO5cUIFWUH8Ura2t.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Niobe"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DZpaE3JARYRRTdnSjPeMgwzv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Niobe"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z2iGVqIEcYIIHPfRWwt9rwtI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Niobe"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L2AEveXunfgfhaQYmHEuOlwV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Twee putti op een wolk (recto); Zittende naakte man (verso)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1nljXriDVZeStddSezpXqlE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mercurius (recto); Man op de rug gezien (verso)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H1b8llfWGUlnUDQXmT78xK7o.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De Zonnewagen van Apollo"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/tNXpEbOBaaeLJLllaEmWnq2L.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vier figuren"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F2hXVGjPV7PPUONFfSP6F6wd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Neptunus op zijn wagen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1H4endhFmb4sBWYH7DNM4On.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Topstukken: 15 tekeningen en contre-épreuves van tekeningen door Abraham van Diepenbeeck"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z1UKVDbQSUarVb8WhphSwyH7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kop van een oude man"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O1dWhUGmeKgfWZfavevXV5Sn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Torso Belvedere"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/IqRhbbS9eWaKk9pedM7ZrgZl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Juwelenkistje"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WURbDfWcFtPCKYgKQIoAmhux.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "juwelenkoffertje"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z1oIXpVEeSUhXUsBKHAruBJL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Een dame op de vismarkt te Antwerpen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q1qAMkXYRT9XCxcGWa2lNO2U.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het feest van Sint Maarten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u1VPRdhQeoSdPfQQYfjHMyEv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Pastorale"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a2ZVbcBPDZatUqVBJu9pC2uK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D25VbUQYRFMeiVNneK3fZG8Y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/EdqtXqpfWVBXUDRFKwz8xyj9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LLSlltYRVpummgOrljR5Ober.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/MEbPEhwYewveAXZrkgCNhvPh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P1LoNqnFYSWb2UNZhQUtvgci.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q1aehmXjtPrriOkVtZTCTIYv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ZmjdjMMIZjMQWYXYL3tKGVLk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1TTUAZGSfZeImjsYM30HM82.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/d1WZSNSPWYddmDYa6acYbKkV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/fBJUAVbKCwXNTSWUMO7pJIr2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h2XXFUXsNib8vffeZM1kScm4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1ineMTmJdaNfrGLTRIbYnuR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m1bxghJQUiaS9HWPSbKjhJ0U.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/mXTJM78RYODVkhNRwammKtGS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o1KsnOUBDfSKpwqLZMndaZte.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v1OUllmP8PIniZKHdh0qDIDC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v1sOgU5RghIiQhOdFaGrbuGC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I2PgdY9fxQgflLWkqsgOSVf2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J2k7XYGRGmLuRHWeZRJFxJQ1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/KTWoCkXgPSTOSnEWF6SGtL8d.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1doGBmOMgWTXDdXANzuv6zY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T1odVSXANgRkNLSkiToefZRp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/TWkYFfOLNmUYIVvQS8TlDtf6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S1WRbISVWHhAIIr6bP3bavL3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t1grjNavEGXhLUGIJkYN2fxq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N1TguueZUY8iZlDqbtTNBHeO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/SL8ZpKBPGkUqbIcRQrfcyhyQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/MVTmPDTuZdhUrwirOaUqN1nG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n1cUQNdWfRBcl4fiqAqWnXzE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/uZXVVtQRLXAHMbReX8u4gwHv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V1QDeXBfbfWUpRAPjXVwBFVt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y1hdpIohpjNIgoNhJcTNIfB3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ailAMXps6NQegLhjdhQgFWrY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ckcRjoQ6ReCIKQWcQkq8CPur.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g2VgcbSPKloocEJjkiwfu09I.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    }
+  ]
+}

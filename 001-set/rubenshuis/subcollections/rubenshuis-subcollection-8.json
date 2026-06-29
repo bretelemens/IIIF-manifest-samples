@@ -1,0 +1,2372 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-8.json",
+  "type": "Collection",
+  "partOf": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/rubenshuis-collection.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "nl": [
+      "Collectie Rubenshuis – deel 8"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Manifesten 1751 tot 2000 van 3169 uit de Rubenshuis-collectie."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "deelnummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "8"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "totaal aantal delen"
+        ]
+      },
+      "value": {
+        "nl": [
+          "13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "aantal manifesten"
+        ]
+      },
+      "value": {
+        "nl": [
+          "250"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Stad Antwerpen, Rubenshuis"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://data.antwerpen.be/agent/rubenshuis",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Rubenshuis"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://rubenshuis.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage Rubenshuis"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://www.antwerpen.be/assets/images/logos/logo_A_stad_antwerpen.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dams.antwerpen.be/iiif/h2PcVSUmeTGOcOmCHLsM1NGR/full/max/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/h2PcVSUmeTGOcOmCHLsM1NGR",
+          "type": "ImageService3",
+          "profile": "level0"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h2PcVSUmeTGOcOmCHLsM1NGR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j2TBLNxUL6PZRRSRJDXjyXD8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2jHAVROTCZZWSbRAQKgVIWV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/lMcdSLWQchgriVUpTlx124NY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t1KMeZkrHMCIgkVXycm2NwuV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v2gOGCJcXWGJBOJPYSunWy40.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DNKUDxYDPQOoYLUSpuVbHBUH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J2RNNQBriJMRbdVDKTbhMSj7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q26bJGKYO5DNYCUeOb4d7nXm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W2ifNkdVENZGVlZbBAm7F0Ny.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1ekeTRfSRSNjTeWantOEmG0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i2YObMUiSASDaNZlISYwHGn6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/jsf9XZjMEVPOhW8NTydVhIxb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r1qYgNZS3WREnJcgRBnGj99D.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z1cRenPNhODiMUeTUmaNVQWM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Overzicht tuin Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2gbaKeOgWeNBmeNRItvcERI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinbank"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U1XbdgRQYCXEKUfPlRfjDdld.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinbank"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W1HdlXkFcZeoVeglIWhB5Fsr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinbank"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y1TgqGNccKNWQjiBKITjixWs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Hoveniershuisje van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V1MKVlJWWhNKIhGBaYd6Owu1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuin van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N1fgMZiHOUhXfY7LYI4R64tD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Linnenpers"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t2MomGYdTMVKNleTWWV84mQm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kleine slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ZmiaWkbsVgsjiWXEO8Vdgz3I.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: linnenkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R2TpjBfRfMkeYhlUJSAyEzlY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: grote slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/d26iUkRQdoNhmJcSiBVZZc7q.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: hoekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F2LbqFiHdThS7RRnT8wVRvbP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: hoekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F2dJRPuaQkgInJuuGkQ3ER7t.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: grote slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/c2IpDPPITpXfafPSXXo08Jdi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: grote slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J5HKQqoYrhjYGNVeLS6zYedY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: grote slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1KTPVcTAZoB7VdCkfxTmjmB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kleine slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/fdSrJRuYqmillUUPaKBg5GXF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: familiekamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/QTIKPBIkPkVCGPjoT6O8yK9E.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: familiekamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O2MpOOZDedPMEV3VkkKJ2sHl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: hoekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/xAkMn9VdRFWuKaTimFCQ1DU7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: familiekamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/NH9pFaeOCfWULQJTClIQpEei.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/mJORJTAhFjlLETgcAj8rIGwD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S1cBEBX9BG8uYCfmInsC6YaO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/egSCaqFz7mKbfKJhgExX7mi4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: dienkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2GA9MZqlRdTQ1PBjJt6hVjM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: halfrond"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V2SOZjPhVkYocXxjRSBS7cDS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: halfrond"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y25bjjCGbUZOLRBj9dh7sgue.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: eetkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J1hBohUSgPdOs5TlWoikbkbf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q2KfTDTkH8qpLTKHHEQ3WiRG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: halfrond"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q2lwkaMIeHT7HsYVMI6zY6BV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: keuken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x2BvbYIegKkRLjk4PYiQWNTY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: keuken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/adMWFtMtCoXFGtPYqyfaMbrd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: eetkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T2mjDNaYPUbXEJbIKOx9IUE6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: eetkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/FTj5LPjjsjXTBSRHLSARrfWa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: spreekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O2NDnOTIgRXXrbbKPILLhm7L.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: spreekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2KVWbzkmVleOKtNEV0cfwuF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: spreekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K2cbgUQPoPETgiUtJagSA7kF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: traphal kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g2dKUcfwNTuNELZZJmsi4Hwz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: traphal kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D2hqhVYqBSU6FaWgZLGfdCdW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: spreekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h2hPYfPlXnNWBfmhWYbUQgw2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: spreekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/SPFIzsKVgUEhbGhqSeaHOs09.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Binnenkoer van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/tIICTJYNOdrdg8PqYJCPmWdk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: traphal familiekamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1QPZgPQOlmjRSVbhJSVvWy5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kan"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/KMQILLKJESbVNeWqOVV4qcza.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kandelaar met staander op 3 poten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/pKo9lcFGpas1cNUGG48IBrQO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Juwelenkistje"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E2ZmoHXoY9LrFTYRLfxPaaMc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Juwelenkistje"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v2aeegFWuWENlZfYSdT3EPvc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "tinnen bord"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1TQ4kgUTHuM2hUQcq3gHr3f.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "tinnen bord"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Fvg9Qd9YoOg8dZiKEIB4UdyN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Voetstoof, ovaal en doosvormig"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X1LWQFPy4WHWkEkTAy3Hld4C.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Voetstoof, ovaal en doosvormig"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/rHeqBJNVPuDCO9skcerir2Nq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "juwelenkoffertje"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I1PWmnIBYCEKaNUVDMBFt2q7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "vuurkorf"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J1OPdjjhAZEwQAOVMr439LAw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kaarsenhouder"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/cDVXSiaJMjYQsTVJfKKA9nWQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "voetbankje"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/OMRUQaOIOIcYXONCXDHRVnov.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kandelaar"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/VIKZkYbLXfTXKWuVe9CkoLF2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kandelaar"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m1fVcDcQaPDVHorQOnpwxiLK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kandelaar"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A2iUOALeSC8aSFkiQZ3A0xmw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kandelaar"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I1J2henaBvikGYVcFTHe53R5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kandelaar"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T2FfGZVqMNRYfLUMMQGDwuhr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kandelaar"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F27Jd6VSgRaDEfpTCVFZfV9T.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kandelaar"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F1gIdZPXaSl7VrHMOOiBzXiM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kandelaar"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M2gaSe6UPSBVRZIQBSUDPVkp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "samowaar"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g1inXeFVerTOGlZcXUjNI2ls.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Doofpot met deksel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D2YZZTSTXOCM7ukNWE4qtJIh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardijzer met gesmede korf"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/HU9MVRFaVZyRspX6Kvy02Wk6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardijzer met gesmede korf"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1kQKbHQfGPYLNbPQU5Vx01d.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kinderhoofdje"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X25VXvSefKKUHKPmVaQA0GEz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vuurtang in schaarvorm met kegelvormig handvat"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F2HpDcMDOgYNgkuhWcXCG9Ds.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardijzer met gesmede korf bovenop"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ZXeX7aLcOZMRZFlNZK6o6e1z.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardijzer met gesmede korf bovenop"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t1immZQ6WHeuForMWeWbApc4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Hand van Hercules"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WbrxQZmOXVjscW9Rku1jX4Nd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Hand van Hercules"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1ieXKibcKIbrF6VcZVOF536.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "haardijzer, bekroond door koperen bol"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/c2GdldfGOTmYJOZLYWJZUotg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "haardijzer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/yTwfcM6hehbONAUBdWpivNvh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "P.P. Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1PVKnSiYWlYXNlWRA9iNs69.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "vuurbok"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C2BQvTJP4qkwpXfTgaTqSK2J.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Doedelzakspeler"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v2LnarG4acZGTkfZQP2O3LKF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Doedelzakspeler"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u1CocCSMT8SkOYUiKSDz92VT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "vuurkorf"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/MaZM9FTOTScJM7XZQHbogn1c.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "vuurbok"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L2UpTXBGrr7OZJfGcG26O1DG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Romeinse grafurn, reproductie van antiek origineel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DHgETKkijLlHAOqFWUzp7K8P.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Romeinse grafurn, reproductie van antiek origineel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1ChMnUSPcocoXcSOWgS9pxF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kinderhoofdje"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/afOjidRWUNGehdSC65wNPknA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Luchter bestaande uit twee lagen met telkens acht armen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/pPqXWKdLlkUNOKVdElXwZZEq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ramskop"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1KZMWXTZXXNHUHrTWeyvSLv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: keuken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U1IfWgONNtVDQXRqsjy3pQr0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: keuken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C1NFEZeMSEI6YcnKHLUxYhrH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Sh9Hpjc5cYNYSbbkOFXuhNmo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "bank"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/viTSVZVRTYQKaNXTrScMJiI5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bewening van Christus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/qQnogZSiVXWkt8XWyCoK53CF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Albert en Nicolaas Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/c2hTlVumhlo6ULNhqNww3O9t.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Albert en Nicolaas Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/sOipWkodLooIsXYWYUOtFaws.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "bank"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/EkLfRlK2eMaoVyMYgeDdPZ7j.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "bank"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/dLEMNkWGCcPeOjjlhGNqkIZL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "bank"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H1YeROVgdHEaWSidXHvSCucW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Triton"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U2iROeUJdWBuPD7RTZgbpUQK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kruik of fles, cylindrisch lichaam en smalle hals"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/c1djPNLq4UqEneJESWSUtG09.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kruik of fles, cylindrisch lichaam en smalle hals"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s1UIPNiIQncSfqPnWVEopHm8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Buste van 'Seneca'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x1TfdjdRbafuPnyYbhPUt4ev.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Buste van 'Seneca'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/TdUUPLjXcglPWROKeBxkmfYh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Hoofd van een vrouw"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LqcdeTWbdTaAoiLdLsplFrtH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Trapezophoros, in het verleden geïdentificeerd als 'Hesperus'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A2lgKjUiQRQvTsgZXeIas6rf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Trapezophoros, in het verleden geïdentificeerd als 'Hesperus'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p1NNXWbkhATZLQBcg6hrMUCQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Romeinse urne"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h2jTCSUhdZVYeYVYMI48TD5p.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Onze-Lieve-Vrouw met kind"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m1jLUaXbpXRqeTIjdpVWuJU3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kinderhoofdje"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I2OZNFTodVNWpbYHGRqimteo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Pan"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/d2aJmREgYMmOZNSmObh1Par1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardplaat verdeeld in drie registers, versierd met krulmotieven"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r2LTmPRihQbSUAJHIrwt0jCY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ribkast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a2JX79XRQbhmfOZQjc1uPP4Y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van Albrecht Dürer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1HOa8m9gAGTHBQbjW4PycEh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "tafel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b2mOdnWZVUvAFUSDERt59gpq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kunstkabinet"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/eQRfbYbfVATKTaiDphaegNk2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kunstkabinet"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q1QkqJdRnfHERHeSTIuFF9gJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kunstkabinet"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r27MrbRX2qGzaMFBcdWkh5S2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kunstkabinet"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R2HYkUXlHYQRjd1uEHqf6gTY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kunstkabinet"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LUrZAHJ5KMNixkclak8M10uI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kunstkabinet"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F1iCQPgx4TWUuFdsWmLnJY8E.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kunstkabinet"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ttabYHTXVfLFoEqyTEbaoTFY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mansportret"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y1IUTKSZnlpog6ZPcHBufHt1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van Albrecht Dürer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L1RbZMSfaaq9oADTCN7pj4mW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardplaat versierd met genrestukje"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/himecisVDPNemBJhJdg9sjC5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: keuken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T2QcTbQwQMSQiMlOc9gAHh3u.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Hercules"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/bPjaVDKNSSmBEHbLg27s2nIx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardplaat met wapenschild en opschrift '1612'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m2TsREwnPiQjiPMVSZiuYNWF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Schoorsteenhaal met hoogteregelaar en haak"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/BDOKH8WickUOKLNOVqOQkokC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardplaat met wapenschild Karel V en diens devies 'Plus Oultre'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/B2XgEgBlhWUtakUecTIcVLTx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardplaat met wapenschild Karel V en diens devies 'Plus Oultre'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1cpiYNcoQJVrIdQZdrYbh8W.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardplaat met wapenschild en opschrift '1570'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D2JAiJTHfJKOgYh9rQFI0OKr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "lantaarn"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ag7hZXKWD8bkNmPCZW1PTNpe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "vijzel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/bOHhLPETNnQURcZK8m3QDXw9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Loper"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H1Nfme7KQhXXWWsjPY1BhVMG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "loper"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/KKSlNfVPbcfOhdpdlsbahZN4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vleeskroon met haak, kruisvormig ijzer en ring met haken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T1YBbnasrSVVYUTRbfwHbJyI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Driedelige haal, elke haak met een hoogteregelaar en met zigzagvormige inkappingen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x2EtdhUPKD5FRZPdTX1wSles.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kandelaar met staander op 3 poten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/uiaFiQPgbXYjNkXgJy0WUraZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "tafel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y2YwWLmcXgWmMPWTKRA0bYXT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "loper"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/tONbjkDbHAbOaTHGXlbPg4rs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardplaat met voorstelling van vrouwenfiguur met waaier"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K2HXDThjrQNkWIUOiVh493zi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "lantaarn"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/RTOLdMKWdkYbpg7TclFXwX6a.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "haardplaat"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G16AeSTaMapJMelKq8hGy8oR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "haardplaat met opschrift '... domus...'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1IeLOMwQNQNUGhMYEqYXkI5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Luchter bestaande uit twee lagen met telkens zes armen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M2EVcdJcVrfUoYXwXYJ2S4kj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Luchter bestaande uit drie lagen met telkens zes armen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s2J5BBYUnjYYsGlP9aTCYeUS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Luchter bestaande uit twee lagen met telkens zeven armen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/tTVjTYEgSlZ5Jmnhcqq1zcLc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Luchter bestaande uit twee lagen met telkens zeven armen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A18GMjesZaS4VQW8Xg0DFhiB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Haardplaat met voorstelling van Adam en Eva"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/CKjdQAjaFeoPuXQDGyE58SOM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Luchter bestaande uit twee lagen met telkens zes armen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p2VMmrajKdjTUVfeaqaKo9Vy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Luchter met zes armen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ddfrlJnjifOCQXETkKymqlZF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Handdoekrek met 5 haken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y2aCSZMgUIRFZcVGUTxBVEy9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kop van een onbekende man"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V2NXXgmASVcTfGEtmoReI8RV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2WdVWYfmfdINe5hfVzRgKl3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/SWeuSXkOSXeSlrlQbpE8MS7C.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V2TYLbcZfQmbnKaZgYRLzxNv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x2ZNfD2SBMRXhSTHnYwBov3S.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1cUCNLPSaXSciXfIXuhgw4I.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/wblEeJcJaVrAa8lbo20aNqxg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O1hIRSc9MEZ9M3RWXhkGQOPY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u1RXikOePmfbStVCVWOu5xiq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s1XFUG3NYYPbMFJFbj7XK8Yh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q2HpOg8RXYVIgDHNlIYyZpRJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r2LOFTDSYJlceTVhTmEKLWc7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/GaVbAnBldm4nsaXXesNwjO0o.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/trYLT3ShPOLMVrIYi7wHEoJJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: antichambre"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n2QZRV4PPIbJP4qPkjW9F1YU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: antichambre"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/dacxX4LXZhOKMJOprTYi9dKG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: antichambre"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N1N15P8YJpOJLnz97FuaV7iJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: eetkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1pWFXjbPdRgRJMhXvWCNuer.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: eetkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D2QRteBPHPVVSMOXQQroz9qw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: eetkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q9MVlfSfNX7OZSM3l5cOt18o.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kleine slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1VZUhg8JiIUMdfXbK1SzUqD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kleine slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/nRBIHnOWSeUmc7ZOP37P0haI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: dienkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F1fZZjdEbhManKKr6YNy0cYm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: grote slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/wrUfblaL8ZPMlRBU6XVPHdbm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: tribune"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/vYNVjQRLMRMSkQ9ddZcSJwDF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: halfrond"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F1TZVFlRCb8JZBilSObtTeHY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: hoekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2gdXgSgdubOUnippWuruLbH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: hoekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O1bVfQlenWa8autNTKTdygDe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: groot atelier"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j2LIVNheUfR1todeQa197Mwy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: tribune"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V1eSdIKp9TbWchM5WcFlwjTc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: grote slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/yHVPNvpvbRFYkiVbX2rirkF0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: grote slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1j9AHQnexP3wT4eQdIhZPJu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: grote slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J1RpUWNukDIPPhxhYQtIdsav.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: traphal familiekamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/XTBSRsnVTJSQVAHHCbuxhPQz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: keuken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e2TkTWZgYbSONYGmCQFZNHUN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: keuken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C1bpVnnXqheYJitjRLMC5vni.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: keuken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G1jgWpaUg8QRVMUhhf4BG21W.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: spreekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/CgPVlhPfJFXm3jFQu8KmqmO6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: spreekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LqHjvNZfW8WWVBjYLBREzh7x.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: spreekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p1cVhEZHeRiDRPtCN6CqAiRt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: spreekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/QMJeOXRdaaogIsYzWT8eC2e9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: familiekamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h2NKrLKOPRQUUIfkUgxStDKR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: familiekamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O176OKTQlXAiJUtGlKndNj3r.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: familiekamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LUSKiC8GqFRNKaifFyHUNFo7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: familiekamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/mFUi9QfJWXOdXSPPLEoejjvl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: hoekkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s2oGNGJfFfBNngAULoHHEAH3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: groot atelier"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ZXpbHSKESKL9SUbVkXKHioMu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: groot atelier"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q29eLKMFQDnZIeWCWPN1UGe4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: dienkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z2PwJfNofZN7XJSTkb5NTmmp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: dienkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a2djxBSsDQcoYoKVeE2GlKx6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: linnenkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2DvYgMaVnjWMQfYgcc8oCoj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: linnenkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1aFwaeUjbSYg5RfnB42dmD4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: linnenkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1fYiVefFthSqMWScGTwkdHr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: groot atelier"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w2ZYIlfMVDHXl9qOjNBibWE7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: traphal kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r2kgPcNmilelPYQYVQ6vLhwA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2df5XQVXiKdad8s9Vk5kSti.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b2hkYUhoKtjNHjof5loMtf01.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/QCWUYSodJOKYfRhiZlYqPEtn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i19NMUDfEnpjShPCLFlIfXmP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: groot atelier"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z2gWW5p9URKWIOdIXQvfskuH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: groot atelier"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m1QnWlQVOFbNaFOUfj58zCad.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Filips IV doet zijn broer, Prins-Kardinaal Infant Ferdinand, uitgeleide"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/vZJTfRJZLO8oRcJjvfy9ain7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adam en Eva"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ZlXaSntPkVHVgTsdYP7O4SCW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adam en Eva"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s1JPW9bniYTaUWFBjQpzs2Kz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adam en Eva"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n2gRRsQBOaAaUeRKIBaKWP8r.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adam en Eva"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ghrUD4XNwA7emFQDW2qwC436.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adam en Eva"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/lqeCpSigYA9QqKORgFNTMdZk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adam en Eva"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zq8KTlWOVYLgieRihDhdhAh0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Rubenshuis na uithuizing collectie 2023"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I1kCJHPQvIgVFYVCVWqgVBb0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ehSCVsSTvrHKjUJKVmLGZIBs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WLSTrxNKxLlQXaFGa532RHTu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Atelier of 'Italiaanse vleugel' van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1hY9oZrCYSXWbg5bldunWd0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sfeerbeelden opstelling Rubenshuis 2007"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X1nZcZV5OhWMk4c9VIX6fZBl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sfeerbeelden opstelling Rubenshuis 2022 (voor sluiting museum)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/YgnlEfZVNOL89LQVe2FNGeIz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Fotoalbum over de restauratie van het RH van 1939 - 1946."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l2KecKdTQVhsjGHoRBnRoFFh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/mjbagXGg9SLRUZiSKShj1Wen.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kerncollectie Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t1PoDYnegMbhTNOFQXo3GBeI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adriana Perez"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1PURcjNTfZmiiCDTYrRDVCZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Infante Isabella door P.P. Rubens ontvangen op de binnenplaats van zijn woning"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L2m6VJeUnQh6WbXoVWtkMtbl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Maria met Karmelieter monnik"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W1NLB8YRmSSYVaqaWMDQEJPE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ontwerp 'Omgeving van het Rubenshuis'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zfPfhtuBORjhghIGYHF1bmzv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Samson draagt de deuren van de tempel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ecXQTWHbINeXXUMgNTkQL2A8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het tuinpaviljoen van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z25P6ZM5SSWPYMGlYNlmJBgG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De H. Familie met St.? , Ste Anna en St Jan"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/qWPGJeulaTJcQVYTXVcxQQGA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De H. Familie met St.? , Ste Anna en St Jan"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/lm7RTnnOdOkSgLTRiNjiHo2j.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De H. Familie met St.? , Ste Anna en St Jan"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/BUpiiTGVQoPfxFZfbyi9pj7K.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: privé-atelier"
+        ]
+      }
+    }
+  ]
+}

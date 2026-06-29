@@ -1,0 +1,2372 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-5.json",
+  "type": "Collection",
+  "partOf": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/rubenshuis-collection.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "nl": [
+      "Collectie Rubenshuis – deel 5"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Manifesten 1001 tot 1250 van 3169 uit de Rubenshuis-collectie."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "deelnummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "5"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "totaal aantal delen"
+        ]
+      },
+      "value": {
+        "nl": [
+          "13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "aantal manifesten"
+        ]
+      },
+      "value": {
+        "nl": [
+          "250"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Stad Antwerpen, Rubenshuis"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://data.antwerpen.be/agent/rubenshuis",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Rubenshuis"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://rubenshuis.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage Rubenshuis"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://www.antwerpen.be/assets/images/logos/logo_A_stad_antwerpen.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dams.antwerpen.be/iiif/A1SLLKgJYYAHVQPNZjOpB92B/full/max/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/A1SLLKgJYYAHVQPNZjOpB92B",
+          "type": "ImageService3",
+          "profile": "level0"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1SLLKgJYYAHVQPNZjOpB92B.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Maximiliaan I"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/jUxZdhUmWOmZyUYQyvr2BYZ3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mathias I"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/gPoUiQiDlOPFgjTDn24RKIvD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Albert II"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t1liRcISsMNKKG6MAgP4VN8g.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Rudolf II"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q1hgMOOkRCbnQRYFUVqv7pnt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ferdinand II"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/uTrZQRJTRFUNWWRfQKKY05Tr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Onze-Lieve-Vrouw met de papegaai"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ckgGNKpYpFLWIIMLU3iGrcsm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De Annunciatie"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/cdDqbJJjNUWIMdEMJ2ElYuNF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De aartshertogen Albrecht en Isabella in de tuin van hun kasteel op de Coudenberg te Brussel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/fbIIZfkj8fDRjEajMgrrxZBI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De Annunciatie"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2OkMNlZKDnGDkWjZGNb53Tg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Satia te sanquine quem semper sitisti"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X28YSUIMXjENcbPDOxRjKT6T.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De terugkeer uit Egypte"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V2UYfchWeNKYMSY1VYPcFr46.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Landschap met zonsondergang"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/uJaCWXabVSISdZX9NMZLfKTp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Landschap met stal"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/gIYKdEQOcPDDRIaXTQuO84ml.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Dronken Bacchus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/igbSTViIUPVokoULowCu49DS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Zelfportret"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/sTjeUXAXRQjeUZoRXHku1vEl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Studie van figuren"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F1OrgZjVdigBiYdVEPCVDhd0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Studie van figuren"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J2ROgRZbVWJbhNBMaSANqRjv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van een onbekende heer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/SpgyecCgRYPYN9fgpz9U7T4J.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De overvloed"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e1lWryOGmajjjOY4eYMUgH4t.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van Jan Wildens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G1hQNWMNSNccpql3aYIRQ2cU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tegeltableau bestaande uit zes tegels: Christus aan het kruis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LGXGRUfCIStVvgYABc4OihKE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Dubbel ontwerp van grafkapel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1RArXbVLbMXfHjlXt70vaZV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Onze-Lieve-Vrouw met de papegaai"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M2XMIYPSYQISPPlIcFkanTv4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Heilige Matheus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/bGPQS9tpgNgYuOSprZcBKYKR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adam en Eva"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r2elnFXZfJ4aVhaTaM2eo4Cj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Henri IV in de slag bij Ivry"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1VTiWnAPKWcJZWNQXwIt41p.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ontwerp voor de bekroning van het hoogaltaar van de Antwerpse jezuïetenkerk (?)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/jcOZjhRYJRLaBNNGecgnrnks.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De heilige Clara van Assisi"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z2YMkhXUPtdHbX4FWHQc7wpJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Aartshertogin Isabella"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y1P6cbhqgqZr5HdIf6ZbDhtu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Aartshertog Albrecht"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z1LKBaVF8YZp3HANRcf7k5Cy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De slag bij de Blokkersdijk 1605"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/yRfkMlDOsgVWjlURfxhDzMc8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Stilleven met dode vogels"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g27j4mU6fGUGOQNZYMFJZFs8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tribune in het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/B7CPUt9DiNYkUNeDXxPH0Xeo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Toegang loggia in het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1kyVeKpdgXVHPJeOX0JLaSS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Schets van Sater"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G19OfSnbmHVewfS8FYIgP8Ak.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Trapstijl met Triton in het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n2KOJumeVsRb6IlXYQFdh59t.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van Mevrouw Ludwig Burchard"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1DP9FCOBTSkdoSOmg2hB0WO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van Dr. Ludwig Burchard"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P2QgcONfT7fJTWFfMQAIs6rz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Triton beeld op stijl van de monumentale trap in het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y2ZYQMEXNDSeSRERSKme6iAk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur van de eetkamer van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j1QfUGjoclJZkYNMYdMuTf56.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur van de keuken van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q1dOVSYhOVGadPIcQbx7XTO2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur van de spreekkamer van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2cBcYjfhgMlLiPSTFeoqmL0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wapenschild van Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2gEgTlgaVXcLxdtiPeKkxuf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kleine slaapkamer in het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Cb9SQIlGrnedKJZJf9i6oKQ3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schets voor farizeeër"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/HeCXSJjnCXOVqXHUJ3xWapCQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van kaalhoofdig man met baard"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W2mODoSSFPHcYJWFiWTJwWUB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van kaalhoofdig man"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1RrDTVnNQV9DmNRVIU9qK3b.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van Helena Fourment"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n2OTUGNNeFPIZqXLSpGLtPPN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Grafkelder van de familie Rubens in de St.-Jacobskerk te Antwerpen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LKQRmRwrOaOeRteODyQimqn0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Neptunus en Amphitrite"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H18YVtojTThhdU9aYUEI8KSn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van Max Rooses"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ePHRSbZabhWUaWrpMoEMS1mQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kluizenaar met lantaarn"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C2ViRdOOYJoSaSTZGXiALw2M.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De Heilige Christoffel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H2FMKgaSVZ8XiWjYJ7CzJRiH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Le premier rendez-vous"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1iIMGMcVVjRZoX9EQNO1TxE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Christus in de Hof van Olijven (fragment)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s29kbNFSSVVfRs6gOvvLKm7r.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Engelen met de Arma Christi"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I2FvTAfPcoWZdWpGVgeU2LYr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Musica"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j1h1IEqSULEJXvVFVWPmXcJr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Collectie Vlaamse Gemeenschap"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F18efchife6rkc8VBGn3tyZm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G1zN7oWVNqAZriNPXttcCdRo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K2bSMUbVCdqXfSSQgSXFX3wh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M16hWZ8MerbcB86qxfYhAqVV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R2MfXIRmXXOPSaqeRIcdiX8g.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i2bbdLN6REmDMCBfUUtfJqT8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r2QGnpkoYiSSieRMnVlwxVix.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s1NfZwkcDanVWYVqKGeHQEYd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/twRROiTiXAlvbRWWAL7jh6VZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m28nlFRPfAJeMKEOvdXCrfNO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ggegOgBTTUTHOgoFR9Hwfvib.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j1thLmIjkYVWbXeeeRArHPKQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m1VSXUQ1fMOWW5iGNV9hGzg0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1FIEcEPEpKqLhGnqY9lCqVS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F28hRUYyISSeamhQiKz4Hytb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z18q8X7PhWPhVH76jX3eke3i.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1bEeXGqNTWqeCnKUeoepvLz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j1fQ7RhMWlT3ZlijSZg837EH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u2eTXXdDAReRWbLpW6h5Mj1C.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/vVUnXXGKPgemZTcgNksiLR60.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y1hZodLOYWUUlgJMUpRnCgCG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/BPcmAOcjStZcMH9YTYqyExcZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/IbTBeGbTsbPrjeCjgHZhE2tc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N2nNcAIYFPHlRYjXIRgGbhVi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/PJeWWFYrjXbj7cUYGwVUPweD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v1TdhblGIMNYSQTa9dP2EwPU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/wLbtHZdXtHhnbheZUyL9dGIo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C2TLag8TaUKIJWurATghkY5M.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U2VSJ3LpUaYMTIWbg5cRUXFp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N1IdSVhMOsYXSiXaqTejKYsL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v17eYMRLkfAkihlUWFqAvs44.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i2hkpdbZZVrXSVUgYZMmCrsZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j4hdRGqdVcagNWLbg4UrigMY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/JdpecFUfErWTeoBUWmdQ7GFS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y1MRHmwDDBMPpDNNKUIZDfwT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Venus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D2hJU6orVGbLWMQjPoIzOdlW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bacchus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o1rZOWLRopUZLUPehq2qMmpn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bacchus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E1jYMkexPJZYiT6aUjejxsgw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Honor, de Eer met de hoorn des overvloeds"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q1kjFOWKcDWnoPIQbQY3nPkm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Honor, de Eer met de hoorn des overvloeds"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i29jR7nfeng5YYYaM74T6wa0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1IUjUabsbrFUnLRVETTPe0a.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/GGgVcKVgdMnigZZIfKpOHuOg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H1SmYVRYaNQUTSgNQfsD2ffT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S1UjkQ66WRORcYMjQhDdrY50.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T1SlnQJ8iHwVniqRGKSRCmJj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z1icWbNMFVWtPVntmQJYY7Dm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1LrXSCMakPbCiPLSOt5nZ2I.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/aGlFpLKFUVYKYfYmdlm5YGcM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/gbieWU7ZSYFONXnscexOLetB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/CPEZXkiVQUZlNSRFeV4IjrBI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuinpaviljoen Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N1oMIceXhSt7KNEWlGG9Du61.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portiek Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1leTePjgeYQtSJPjKpx24IN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Hercules"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m2Mf5QSeRudTTLCXBKYkMXID.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mansportret"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/wWWELgBlAdcVj9ujSoigAnSV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mansportret"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/yJDGPtxmUHCjEPKmt4k1nxPM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Cosme de Midici"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1VXmYYFa2bdZadiTqfUoghQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De onbevlekte ontvangenis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N2BS44RnlaUTr8WOJOiPHTtE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De heilige Barbara"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2ZPsmVAUZ5JOfBUClOTontN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Cum vidisset Jesus matrem... ecce Mater tua"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/CX7WEfiNURwMdKPYTSwN1aJs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Cum vidisset Jesus matrem... ecce Mater tua"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F2jSXTYIfkTeTIaesQcZ69YO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Slag der Amazonen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1HSGaAlWSdNgjADEPf3Ue4R.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Detail van de Slag der Amazonen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/PVqAHNRTUjUQqpYji0wqO8wc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Detail van de Slag der Amazonen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G13peMiVgPEdZSlljgl4J3qV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Detail van de Slag der Amazonen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/NR7IdWmPjgX9QjeQhJ11TsRW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Detail van de Slag der Amazonen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/tcE7e2iEWaXUFsOJV3CsjW2A.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Detail van de Slag der Amazonen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V1WqNhVsZKvSYJfhYSbMb8oW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Intérieur de la Maison Hilwerne dit hÃ´tel Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WtVc9QTeraQSZiPPSyAGoUde.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De hemelvaart van de H. Maagd"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2jGoWKncNSpKpPZSeS8nmdA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Een van de vier studies van leeuwen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U1Ok6ZHTG5cdpVdiVhpoqjUW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Going to Market."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/UYJKEQDDg7OXNWKKX9xqoIQE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "The Watering place"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ONSHOVObhTfvaLLUg6kqDtYN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "The Watering place"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/FaXQeiSMdqVWQa9epUedbF1F.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "The Waggoner"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J2gOXhCePG8HElhnJQgQCgVx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"Allerheiligen\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z1UTUgjLrMvTZKTgQKToaNuY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"De nederdaling van de H. Geest\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P1YfQrgZnUXjYBmmJn63Scm7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"O.H.-Hemelvaart\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P2BZDQfQRb75UF8RkbiIPDcf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"Het laatste Avondmaal\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2gcVLdiLLfIMYRRcts98Fnp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"De aanbidding der herders\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q5qbi4KWYVAdUWcSkxEjDVFm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"de boodschap aan Maria\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/MdhDfPbASaThbfUOhR08rmKa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"Allerheiligen\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/fhDecAGNM6fPLUVQ5QIkAaIT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"Het Laatste Avondmaal\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g2HrJvTaiFFXg8kjbcEww7w7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"De Calvarieberg\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2WfXHPWgOdPRPWHK69H6Q0t.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"De Calvarieberg\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/B1VpZtXZNjUNgX5Ldb1ZBMoQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"De Calvarieberg\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G1HUfFmsENJNjTdZmap4fzTC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"De Calvarieberg\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v1nMNHTBbOppLAealmT3nD6y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"De Calvarieberg\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n2bfbbdUWZXKjORbGJbnKiDo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit ??? voorstellende \"De Calvarieberg\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/bpwattLcBaJUhNj4J72r504l.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Carolus-Borromeuskerk"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/dmIQGhKJCCRTSW6bRrxsJXmk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Cour de la Maison de Rubens à Anvers"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zMXkHFWmdoregRXNYIyCWCQ7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Cour de la Maison de Rubens à Anvers"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/XUI7enYc6CUO9cYOPto9Ktg8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De geschiedenis van Marie de Medici in een reeks van 24 voorstellingen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/XKCXKLfILUFWYBPYTUcULsZZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Rubens with his Wife and Child"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/iQbORPXKtlWWctSQpmvLbRSc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De tijd besnijdt de vleugel der Liefde"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r2LebMFSeWiscreahD1dTtBZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mars va à la Guerre"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/tH9fcLRpYUZhtTmeJwJ6Q30z.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale Romanum voorstellende \"Allerheiligen\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j1WEUDYSbg6CPbGJWGWhmeHD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"Christus aan het kruis\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L2IiZV9afCOPFaKgUi50N8fH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"Het Laatste Avondmaal\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r2Eb6MZSnaETuJIVRkcmEaop.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"Het laatste avondmaal\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Pkb6LdHbjQIRPSFigUrGnHK4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"Het Laatste Avondmaal\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J1sV66opgWX7cTJUrn7stekF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale / Brevarium voorstellend :De verrijzenis van Christus\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/IcqWSaowb8bLXkZcfSVCt74h.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"De verrijzenis van Christus\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/c1JYVXiJkEJIPrPpm59lEZXo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"O.H-Hemelvaart\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j2ABoeLUNEChWZWm8Jgq0kej.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"O.H-Hemelvaart\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N1CHXgTsHRfebORo4Nq8egq9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"Christus aan het kruis\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/vuuKSdkTO1U5rVRS2ypLfhJ3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"Christus aan het kruis\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/fKsPonhfdKQIUIXXOZBGgPlc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"De boodschap aan Maria\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/qOnWaIeBKVXXLaVka6ln3w7T.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"De aanbidding der Herders\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H1RHYEIebWhZRTjYL1fUIwP6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"De nederdaling van de H. Geest\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q1cfGSnVpieih5PejuC3cdfi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"De nederdaling van de H. Geest\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r2XZQZbTpeoUSPYXgdGBRdPO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"De aanbidding der koningen\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P2PBhcPYXRdM3fDQDYDIX55l.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Illustratie uit Missale voorstellende \"De aanbidding der koningen\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/tYDRNEadLIEgUaXHgVv9wxm3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Frontispice met portret van de Infante Isabella"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M2WVPdIMceTRsxkETa5W6tlS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "D.O.M. et glorioso in cruciatuum certamine victori...quadam arte delineabat"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/bDiMgVUYIS4hQFMRccGotLA4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Neptuno sternente...timores"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ikZGDSfiKdIWAiNKD2Jzzvdx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bad van Diane"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/viUwFRXnKkkliQggKlwUFdPy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gravé d'après l'Original de P.P. Rubens au... Chevalier de la Toisson d'Or"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v1hqcRsTqWcNjXTeHl99rXXm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Rubens three children"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/KFeQZRJbljEKpYmCPKTDB2oF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Ecce Angelus... super Puerum"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U25NqdBbKWdPJSkVNPWYkGcf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jésus a diabolo tentatur. Evang.: Math. 4Vs.=1,4"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S2bmSXTVXBu4VUHSEgFen7tO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sicut Moyses exaltavit serpentem... Filium hominis Evang: Joh.: 3 Vs. 14"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W2cRcbE6a9oEWZkMQNz3LBtl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jesus èsepulcro Surgens. Math: 28 Vs. 6"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1GalTdQUbRXWP7SlOyh5t0O.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Fecit Pharao ascendere Joseph... secundum. Gen. 41 Vs. 43"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z2l8MUSPMhCPOiMTTBNt3ElS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adoratio et... Magorum. Math. 2 Vs.-11"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I1VcacNXhTPGPjaCQNL927i5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jesus in coelum,... ascendens. Evang.: Joh: 3 Vs. 13"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1PN6Jq7owSl8ETSQiHo17ok.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "InvenerÃºnt pastores... in proesepio. Luc 2 Vs. 16"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/bTRjBCUhkcccT8Hpdt3DeoMT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Regina Sabâ, auditâ... Salomonis, venit. Lib. 3 (Hebroeis1) RegÃºm 10 Vs. 1"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w2PEOVUKCjaDFLYlUZXyGsiB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "S. Michaël Archangelús... angelis ejús. Apoc: 12. Vs. 7.8"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/cN3LleOv6XSYak1Xhxt3wBnd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Ascendit Elias...turbinem"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/c1fBhUUVfQF7kgDb9gu5lcap.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Beata Maria Virgo in coelum sublata"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G2KcfYUPGhgqHNhCRhSfJcUb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "David proecidit caput Goliad, gladio ejus L.1 Sam : qui et 1 Regum 17 Vs. 51"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1ebfRcfLOcHUSrJWOB1NcFH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Panem & Vinum Melchisedech... Abrahamo. Gen: 14 Vs. 18"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a2EjlSTXikiCl28khOZKjBU9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Beata Maria Virgo gloria et honore coronata"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/xWRXbYuUSORhJFKH6x8p2kPu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Auream Assuerus Rex... Reginae Esther"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1BjveOWKutFCJTJeX08x8MV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mose manÃ¹s elevante... remittente, Amalec. Exod. 17 Vs. 10:12"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p2aCCTCPOVPbVoYt9SP6aSZ0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "S.S. Coena Domini. Math. 26 Vs. 20"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z1eXLksKpONVYMbQQEVWVdnB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Athanasius Episcopus debellans Arium"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1WAToNndLIoQVWYhAYoVa8O.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Basilius, Patriarcha"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/gXWDh4UHrcbLdSXwCiJoD8sR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Cecilia Virgo et Martyr"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y2PQmOXUOlSxWYKWPi1jPybB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Maria Mater Gratiae"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/kuSLOKMaqRLagTRM4Z20DDmY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Anna et St. Maria"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U1hhJTSvEorJPfNNmOjHU7Yu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Maria-Maghdalena"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1MgFSeHUYEUb2IooReEnJKq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Ambrosius Episcopus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z2bSTWKIMUjXSBX5ud7bmmDF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Hieronymus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/B1CZSUNNUMbnjbareXPnmZPt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Gregorius Pontifex Maximus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I1XqqZrjPUh5RREc8GNEswXE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Margareta Virgo"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i1RBUFLR5OcVpaT7VAzfmFCT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Lucia Virgo & Martyr"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/yCnMYdXTKLYaQPmVhYFXOmqT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Eugenia Virgo & Martyr"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LrFRlQYUOIWigeHcYYzK1TD0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Augustinus, Episcopus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T2cMIFZBaPkikeLXXguN46AE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Gregorius Nazianzenus, Episcopus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P2iWISjlVKmLaYMMV6JNFVpd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De naam van Jezus omringd door 4 engelen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n1IHXfZMUWj9hNdXVcAwY3E9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Joannes Chryposthomus, Patriarchae Alexonorinus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zTgUaOtURGZoMRrUYIJ2HjLe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Catharina"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1XGSTERMNDGLGaXQiQM3IPH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "St. Barbara Virgo et Martyr"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2EQKKRKEWOmtYbPuV9tEsk9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Slapende boer met kruik"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/B1TTaNWTI6WyhXTXXlo5reP3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Marie de Medicis en Minerve"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K1MHCXwRkqHtIIaTLwAUf4KN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "François II, Grand duc de Toscane."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y2LQGtbQaWYYJJlWPODTh0rv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jeanne d'Autriche Gde. Dse. de Toscane"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/AjYGuURxBJgrZeKAVecfWfaS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Parques"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/rEr8DmXUVcFVWOcsCCalemTw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "La naissance de la Reine"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q1aRNPh1UeQIvpJLYvMHwQwd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Education de la Reine"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y1fHfCbOYTjjVI3kPfybRVLq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Henry IV délibéré sur son futur mariage"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i2aEQUsTbkaPYsZGEcOGNxsA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mariage de Marie de Medicis avec Henri IV"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n2CZoSOIeDVVcOfTdOcMuYvM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Le débarquement de Marie de Médicis Au port de Marseille"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q2MDcUwngpOahIUYKYPAxns4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "La ville de Lyon va au devant de Marie de Medicis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u1giJIiHacOSkUBlPZMmKKiB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "L'Accouchement de la Reine"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/aKOWJPMPLaPOf5YKpEfv7fJ6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Le Roi part pour la guerre d'Allemagne"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D2VvPLVSDbHbgKTdF7uRVWT3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Le Gouvernement de la Reine"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WYZVKfLcFRxUKjBZIVCcDlAY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Le voyage de la reine au Pont-de-Clé"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e2QNXS7LeNbiZTNbJYUAuq14.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "L'Echange des deux Reines"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/YNtlIPfXeWbPmbUCtUZc7MJU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "La Félicité de la Régence"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LbZYSTXdTVXsiOdTUmHdQ6Cv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "La majorité de Louis XIII"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/kLjK3iXbSOWn9zVfCohlX6MA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "La Reine s'enfuit de la ville de Blois"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H1MbVKjIXTedmLM44fnjvVXG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "La Reine prend le parti de la paix."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1WrMePQaERVUQTKDfueFMCE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "la conclusion de la paix"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1sp4JlTVwAb8fmV5aNLMhy5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "La paix confirmée dans le ciel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L1ZgmgXZZfDiXHsROPC2QfXj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Le Tems découvre la vérité"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WSmUkEUSMZkoFncKNspzhSUZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Lions at Play"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K1CaLSiQZYfFWfO5JgWvHdg5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Sir Balthazar Gerbier and his Family"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K2bJXhWUhQpKBVBtf8FuzrsK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Cour et jardin de la maison de Rubens, à Anvers"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R2SagPeFYnNbbNPhoiHztNLf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kasteel van Ramey - Castellum Ramey"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p1cTXSNQjMRYV5j9XM7RhXqi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Helena Fourment"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r1CMKRUltfREAlUFGeBKz84P.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Studie van zes leeuwen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/sJbXPFFKFWM3FeAtKLTs9HNS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Pan en Syrinx met drie tijgers"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/nXnLQMlhn9KyJ9f9jwu8vjNN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Lithographie met zelfportret van Van Dyck"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1GpXhgEPbbdckZYhRE7cPpq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Sir Peter Paul Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W2PHHQJMMUjwqVShXDSWIVfd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "D. Nicolaus Fabricius de Peirese Regius in Aquifextiensi Curia Senator etc."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/B1VSTfroNSnBaoPQSkQTTZ5k.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "D. Nicolaus Fabricius de Peireise Regius in Aquifextiensi Curia Senator etc."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m2CYnXbaHRpNQcrJPGIcPZIm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Statue de Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N29IdKMaMghm6Mh5ESZVavlu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Fête de Rubens, 15 août 1840"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i1NbhRXXeHsQKwQObFCOjMB5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ceres en Stellion"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S2HughHGVYaQnKWMSiCtzYMY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "P.P. Rubens autore del quadro"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/rLUqgmLcQaIPPhVioaImas9f.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Rubens and Family"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n18KFG8ogXsMTNQbaMX9le5a.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Castor and Pollux carrying off the Daughters of Leucippus"
+        ]
+      }
+    }
+  ]
+}

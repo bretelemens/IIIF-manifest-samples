@@ -1,0 +1,341 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/rubenshuis-collection.json",
+  "type": "Collection",
+  "label": {
+    "nl": [
+      "Collectie Rubenshuis"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Topcollectie voor Rubenshuis met verwijzingen naar deelcollecties van telkens 250 manifesten."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "naam"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Collectie Rubenshuis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "identificatienummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "rubenshuis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "collectietype"
+        ]
+      },
+      "value": {
+        "nl": [
+          "museale collectie"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "locatie"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Rubenshuis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "beheerder"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stad Antwerpen, Rubenshuis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "acquisitiestatus"
+        ]
+      },
+      "value": {
+        "nl": [
+          "actief"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "data-eigenaar"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stad Antwerpen, Rubenshuis"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Stad Antwerpen, Rubenshuis"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://data.antwerpen.be/agent/rubenshuis",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Rubenshuis"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://rubenshuis.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage Rubenshuis"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://www.antwerpen.be/assets/images/logos/logo_A_stad_antwerpen.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dams.antwerpen.be/iiif/CTLkEfZ2qVIIb9f7SXg58vD3/full/max/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/CTLkEfZ2qVIIb9f7SXg58vD3",
+          "type": "ImageService3",
+          "profile": "level0"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-1.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 1"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 1 tot 250 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-2.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 2"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 251 tot 500 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-3.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 3"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 501 tot 750 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-4.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 4"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 751 tot 1000 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-5.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 5"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 1001 tot 1250 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-6.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 6"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 1251 tot 1500 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-7.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 7"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 1501 tot 1750 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-8.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 8"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 1751 tot 2000 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-9.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 9"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 2001 tot 2250 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-10.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 10"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 2251 tot 2500 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-11.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 11"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 2501 tot 2750 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-12.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 12"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 2751 tot 3000 van 3169."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-13.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis – deel 13"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 3001 tot 3169 van 3169."
+        ]
+      }
+    }
+  ]
+}

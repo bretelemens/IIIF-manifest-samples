@@ -1,0 +1,2372 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-2.json",
+  "type": "Collection",
+  "partOf": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/rubenshuis-collection.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "nl": [
+      "Collectie Rubenshuis – deel 2"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Manifesten 251 tot 500 van 3169 uit de Rubenshuis-collectie."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "deelnummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "totaal aantal delen"
+        ]
+      },
+      "value": {
+        "nl": [
+          "13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "aantal manifesten"
+        ]
+      },
+      "value": {
+        "nl": [
+          "250"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Stad Antwerpen, Rubenshuis"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://data.antwerpen.be/agent/rubenshuis",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Rubenshuis"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://rubenshuis.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage Rubenshuis"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://www.antwerpen.be/assets/images/logos/logo_A_stad_antwerpen.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dams.antwerpen.be/iiif/cnlVQUZb2WVRYMnHNV2xSKyp/full/max/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/cnlVQUZb2WVRYMnHNV2xSKyp",
+          "type": "ImageService3",
+          "profile": "level0"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/cnlVQUZb2WVRYMnHNV2xSKyp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kunstkast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t2etZULNPdTnNUgJdgXpIX2H.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vruchtenkrans met O.L.Vrouw in grisaille"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i19g77WwdZdXAasQZfX6R4Ru.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Annibale Chieppo, secretaris van de Hertog van Mantua."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/d2bQKpASJhpgnfPL8i9tnv8R.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Annibale Chieppo, secretaris van de Hertog van Mantua."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/fD3NaYnTJkI4MJMYVgQgYPoM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kunstkast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o1aaUhR8VWmO9VbRpUYb1ydE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kunstkast"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1iRYnpg8msKBpQMVAfVFITM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Palazzi di Genova"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g2fLcgRCgTJOURFcgJnhgrN3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Palazzi di Genova"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G2ZJRZTK9cQKXfXbLTGJ4UD8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Palazzi di Genova"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W1lQU3BRqWEdpgsVaPWoJayD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Palazzi di Genova"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k1FWPUJZjcArRUaMgTEG5bem.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Palazzi di Genova"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X1eDVVeOAOjaKNDIdQXcapdb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/iQHGRXoPTbmWWRSPYIKh38SY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k1PO5WPejSVXlafeyNt0bbOx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/sLUdNMY6NfSJvrihhFQVOLmJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/FfNPaigLP6Y4IiVMGtSfj985.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y1NODOzGTJZOcdNtibVvjPJt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a2HeXDAEVnNcMXcMZManmPQg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/hQKVgYoTWNRfIVUSn91awpUP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/d2PDEBelbKCZPVpmU7IXAQ87.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/wQcQrXLVWAP1TqZPCd2pINUy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s2SWOKCoNTTQMFJZSdt1Og2M.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u2HZLmaLTZveReSSgaX98ngu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/QAiXuAqndhTAnPoWd954WmcT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n2UoOX9AZXhQTjcLYq0cObNT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Atelier of 'Italiaanse vleugel' van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k1JVeSFpNPXmjTFdMEftg0g5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: eetkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1NebAUWRav3ScKZ6Rr7B9RQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: eetkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/PWaP99R3YDZbNSnRAoJE8sRb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Atelier of 'Italiaanse vleugel' van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/AIbEgheXOiUll4T9OVg6Dd8j.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tuin van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v2NhMNdnNIbgNBgeTJ53l8BB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Rubenshuis, voormalig woonhuis met atelier van Peter Paul Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1dnImfIfedqPnZYOZpmv1D6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Treurende vrouw / Maria Magdalena"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1hksqLZpDRNAYVaWLv6XBLB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Borgesische Gladiator"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/KSYMbTjRINLeXhRPTQsmlSrR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gedenkpenning Abraham Ortelius (1527-1598)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o1HfQOeUJiQZVbedaZIY9Fj4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gedenkpenning Abraham Ortelius (1527-1598)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q1fvUTPdGRYrLpSdCNUDkjUf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Georges Geldorp, kunstschilder"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M2UFDqdLSORbdfSiiJ6RmKlL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Zonnewijzer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1llGmvEYMRZZVqPfi9qMWfw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1cCUUXMrVaSLeean8kqqaH5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e1SI8N8XSSaffOMmhaI6mfAn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/eA9gbpVg8XStgUnjeuJC2uAP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g1odLJUacmiajLUZHG9PklqJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g2DRTTaTXIRQlJrYKIgzon8Z.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/jvYTfeCaSHdDVLpPIKbdz3Xt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m1tNPccSgIejqNqTihl9E2og.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/nrXFPVR7YLRQ8ODJd1Qu5NgB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o1RJoQWHqMDRNKFjZlXpczDp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ocY9otYyfSKjKYaoWQzCzX0u.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p19edFtjEMjU9omskJTSDdcf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p2YrBTRQcSWyNQWLLrTZwvMG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q2HFPedoSJlINUbQjcFZnncN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u16MccRfOiTBGdVRsdik05Cg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/GRFtFlqbUppeTWorC53TLfNq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1CYTXM7X5YVVMQmVi6pzVCE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G2GbaVUKSk7qGRmdcWRsmdI4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/JSiFoiaOaTQdbmNWfu0Y9nl5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DUMRVQIJWHcNIdUEQioiX6lc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E1ETTJOXjedjsnWWEFgGcbMW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G2BVTpW6IgebEAZSSVMwYlNp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u2UvPYvhTRZbkhThSFcOVhEI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/uWZaTL8KW7Zqmgb6XSdT92uK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v2UfDNVMJWDPPNjnVWp5dTpT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w2NVfgEcVn9mqHWarNpbVasb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/wD8XThplh9ZYLKKJ84mdSPUE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J2ITLs3MeDbLKW98VaFllHbS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q2OUacRXQBTxOjfUKtWAO0iN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b16hUBWnYYryWRJTdrFQwtv9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f2cQuTKXoPmHMEZgche2qPBG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g2hPKNJzakf7CYrPCQc1RcqU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1mLXXbb6vZOMKFOEXoMarUC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1oZjSh8hZMlVBeRAVxZjSAa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1ipeVLsXLKjKmNXD7p3DZUU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C2EKMJh9mWEQZfMbOAkwIw8Q.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/GiQEYxVXaZQcXPQFRzP5TGE8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L1hgatUTbjmtPEVQN9aWeke6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M2GutQFcgMjWBugaZQzwAmzh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O2iihaVVZGSYJDgVhfCiPKon.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R3FfOMXCAONeVAFJWwVCKCKD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/RJbT6LKmXHCpgfzxYCNYvLQv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/SgTOqgFd6IjP7oSLUZD3PCiC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U1hOMpl8MjVWGVdhXTGB3MB6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V1RwdowHOansEjVjR7YvLQ8E.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X1NiUSUJAejuNcTKca3eSjsY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X2UPYoRaOEbZMZCshjlaSDXw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a2VVSDKQfYiJRLZIoXiPkLuA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/aTUKvufScvYHZJocmeMJ5utY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ahSaJDYWbvNRgkFNoaKIARE7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z2NAvLOmSxYbRZbpiEFzZDY5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F1MXdXOemfCSOJiiIBOq27dR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q2SDFBXiKOOrPijmanHSpAGQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/TDOJQcKDREElY8FSLve5q6jv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1C8TGQKdnAccQgsFVpQVhLt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/JTsKUl7WqblfZAJVLts2f44O.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K1ZHFmNXCdddKEUeTicRxRVY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L2QBXvWabAcnpTSimLv2wHHh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/oBFdZdfYmYmsXrY36vIB36wK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/qbNoQMFSWTKnOhTeWRh0xXMo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DfnPISJpic6pqLKTm0O0CRDw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E2hcbhTnSedYTorPtuOFHq22.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w1YpVtcbVYN5lWNAHdLYF7OF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y2g5WHvXYCTNehGVaZ5pRYFo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/yKq6NFVDkRmPlVVd7Iv8hLri.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "fotoboek ontstaansgeschiedenis van het Rubenshuis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G1sTeKVMQLOXZGEKKP390O2w.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Rubenshuis, voormalig woonhuis met atelier van Peter Paul Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/thPblEdPnKDh6HdQUkWiXnRV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Studiekop van een liggende vrouw"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ngEXioWRURNhioeTDn0NJWyE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "P.P. Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zhQLmfVJMfJWwagUSkFBImuG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De Heilige Franciscus a Paulo ten hemel opgenomen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y2jXWA5SI5VbY8bEf9NpF2Fz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DrBjRvjZWcYQfQSUXt8mkrGA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ODKSamODrTWhXgelKPhmaXUY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1UfQErGjUqOYMdPcVR3iCqd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N2SZTLOUZRdSYfqiUQOKUS6M.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O1iZQr7sVgTSd6nRCUDLNwxP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/cLQXTWYbaQIQ9YmWoVzaaLQj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/TLLjQPUWaNgmijSPvHSBnfBI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/B1RAMGkYtLljYs6r9UhRuW1s.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m2ASdlqXbCVVLUjQKNOIYpur.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p1NPgHTphZALXOOHfgVPLazf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/tPHNjpRXVNFaNYq8gdXA4Fcc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/uVaWbBiMbMCLHOcKMx2YXcYy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/nCI6JPVeggmEvFWGETM51KHL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/rebaWfHUH6NdJgTtcPuEplkl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/BTKXIXR4AHc9WVqqrtf4bEEZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C1jMXnX4MDR7lyBPObECZSeJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/cxEM7PoLCbgcVLeMo8EyLnR2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Orakel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I2JebOKdSYbfY7bbSnbIKASY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tazza"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h1LoQgnMXBZ4MBsfcPSM3mY4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i1GWJh3GDLYbTNlhZSQCRsCQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Triton"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a2mRqilR7fWesHnCNorRtUKm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Schets van de achterzijde van de triomfboog van Filips IV"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y1dXOWkkYWUZbXYEZDjrXnjw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Schets van de voorzijde van de triomfboog van de Kardinaal-Infant Ferdinand"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e1mPfQTYRZce74WJUamISSbs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Palazzo voorgevel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/B1clXEQRSRBjkQCWoOozGPHT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret Abraham Van Diepenbeke"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/nAXaCfpNgnTHhNdhqQV0BmqC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Anselmo, Antwerps rechtsgeleerde"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/nUNcTRRDJeQfjpJrnpJaHgu3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Anselmo, Antwerps rechtsgeleerde"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Xb9VRhXVFDiyVkUXEp570v5R.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Aartshertogin Isabella, gericht aan de hertog van Lotharingen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1XUTTZDYBk7txKOdG52G8mJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Erycius Puteanus, filoloog aan Everarde Vorstio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I1KepYZeXPjtjU8JeWxs2xIr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Getuigschrift van Jan Miroeus, Bisschop van Antwerpen betreffende A. H. van Berchem, priester"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O1jg3eXPXJcLZPfnohCUb7qV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Erycius Puteanus, filoloog aan Everarde Vorstio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g1OaJa4DgZjgThZS6nrqg1TF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Erycius Puteanus, filoloog aan Everarde Vorstio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r19ZkXbHVgLB7nsPSqE7Tovk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Getuigschrift van Jan Miroeus, Bisschop van Antwerpen betreffende A. H. van Berchem, priester"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/OLi2WWPVHfWUUDWShgGJ4Mo9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Helena Fourment, gericht aan een familielid"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/gWVjTPpjRhqNYXpiKo1mipSC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Aartshertogin Isabella, gericht aan de hertog van Lotharingen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I2WdaEjQBoVhKqaNWj3bdjYh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Contract en kwijtschrift tussen Rubens en kannunik Del Rio voor het schilderen van de \"Hemelvaart van Maria\" in de kathedraal van Antwerpen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X2BQVCQcRdRmXkW97n7woII2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Contract en kwijtschrift tussen Rubens en kannunik Del Rio voor het schilderen van de \"Hemelvaart van Maria\" in de kathedraal van Antwerpen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g1ZW7ZaekYVfIClc9dwhGzxK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van graaf de Brouckhoven de Bergeyck, gericht aan zijn nicht, 'Madame de Brouchoven', waarin hij kennis geeft van het overlijden van Helena Fourment"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/GGMPsLiYLmLPpVkHmLkxVyPt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van graaf de Brouckhoven de Bergeyck, gericht aan zijn nicht, 'Madame de Brouchoven', waarin hij kennis geeft van het overlijden van Helena Fourment"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F2TfhFegNtFXWViZcYF7YgY8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Verkoopakte opgesteld door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1Jc5RsWKiaRU6lPlVaJzQ0d.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Verkoopakte opgesteld door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/BENqaIcTwLADpWvOXBGQF56K.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Helena Fourment, gericht aan een familielid"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/kMfoICTRHZRsLomamsZxI1vm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Testament van kannunik Del Rio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/sJbJdRWWIneLSCReNSQFMDDb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Testament van kannunik Del Rio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LelhtdaZpXTshZdmfxVYAqwW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Testament van kannunik Del Rio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P1YlZVHOgRKcTSCk3t7p4X5x.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Testament van kannunik Del Rio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/lPlbR3KYKkX3LbbiR8USrsdC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Testament van kannunik Del Rio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ODvaxYbLvmPXfbiaK0agVulY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/TgRbUatfIFpXFgeRZRl3Ed94.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J2HAFNRm9VOUcHTMjatfn5gJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ontwerp (?) van grafschrift P.P. Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T2GUhGlQJFeYNdKjWTxafPv5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ontwerp (?) van grafschrift P.P. Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Bfm7tLdW7PmLjjODiAWGtUCw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens: Jacques Van der Sanden, Leven van P.P. Rubens."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W1YFqJplEdLdLVWiuLXluwCR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Maria de' Medici, gericht aan Sr. Gaveau."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W1UfUgStXZd9VPdZHjZcSdRi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Albrecht, hertog van Oostenrijk, gericht aan Don Fr. Vaca de Benavides"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O2WSUYGSQCIMIcPLDFMjEDdq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Albrecht, hertog van Oostenrijk, gericht aan Don Fr. Vaca de Benavides"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L2faNTTeTcbaoMlLYgUPKeix.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens: de graftombe van Rubens."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H1eEdYjYVFZcVFcLdWCg0Hr9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Rubens, gericht aan Pieter Van Veen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/QSd5becXXmrngWFKBHI5ycqG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Rubens, gericht aan Pieter Van Veen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e2mZdUc5WDYphTdYLLyFaVtY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Rubens, gericht aan Pieter Van Veen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S2dJOSQPVPKi2nVGjaKc1v3j.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van graaf de Brouckhoven de Bergeyck, gericht aan zijn neef de Brouchoven, schepen van Antwerpen, waarin hij kennis geeft van het overlijden van Helena Fourment"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zFMCgZCOUNdCddILr0Fjnjlp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van graaf de Brouckhoven de Bergeyck, gericht aan zijn neef de Brouchoven, schepen van Antwerpen, waarin hij kennis geeft van het overlijden van Helena Fourment"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q1IqHNQ7ScFR9fKX6T1ORZNl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Marie Fernandine de Brouchoven de Bergeyck, dochter van Helena Fourment, gericht aan Monsieur de Brouchoven de Bergeyck, schepen van Antwerpen."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z1G8JMDaOiFPSbhsVYBpcJCo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Marie Fernandine de Brouchoven de Bergeyck, dochter van Helena Fourment, gericht aan Monsieur de Brouchoven de Bergeyck, schepen van Antwerpen."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z2LLP8c8cJdYaH4VDSIxEY43.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Marie Fernandine de Brouchoven de Bergeyck, dochter van Helena Fourment, gericht aan Monsieur de Brouchoven de Bergeyck, schepen van Antwerpen."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/evbHFTLXe8TLNMKYgWzDDHM6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van graaf de Brouckhoven de Bergeyck, gericht aan zijn nicht, 'Madame de Brouchoven', waarin hij kennis geeft van het overlijden van Helena Fourment"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DTYdRWZlJTbZSQEHqEgGQY7R.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Testament van kannunik Del Rio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f2qYVDoTPRUblbdPXXqWB3Mx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Testament van kannunik Del Rio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/iXWTebUGPLYZ8TVerkpBvxs6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Testament van kannunik Del Rio"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X1ckXSRLrHZZJAHSjS7xrvjf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Annibale Chieppo, secretaris van de Hertog van Mantua."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/v2LhOWqroNTWqnZVgD13BEht.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Annibale Chieppo, secretaris van de Hertog van Mantua."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/wTUkVXpUfaqcZD8pYB45Ya31.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1UcIohQYYKFc2SLfRVeBrOd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Valavez, officier van de hertog van Mantua"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y1RaWnBhXNT7RfcYWSMK8wV3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Valavez, officier van de hertog van Mantua"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m2XiRikOpbQXWkdJbXNzveRi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Valavez, officier van de hertog van Mantua"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H2OAuAlELNXVgHNGTCWavGrp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan onbekende bestemmeling"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1lvYBVVZJCGGjbojlAhJVe5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan onbekende bestemmeling"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/qROcOZcXcTONRarbDb93CxzL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j2PPPgfRTMpJloKZepIBxDqh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q2BVDkm7PO5fUJBSHZdMqyhR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o1TMDaTqTpN5VhcGYSFe56qf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/YRWekYPPXOuYhQxWnEldoyxn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Aartshertogin Isabella, gericht aan \"mijn neef\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O1INFlkcSPAZnghZKQc8x7RK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Filips IV, gericht aan Markies de Castel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WiCdTNVSbadLwGiSVlrUTPV3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Filips IV, gericht aan Markies de Castel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E1sOAHESXiAQabGTSubrh5NP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"staat van kosten\", opgesteld door Gerbier voor Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n1jBRGSM9xPNOPaWWIyGnkho.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Maria de' Medici, gericht aan Sr. Gaveau."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1KqHTcBHJUkYIamsSgKvnu1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Georges Geldorp, kunstschilder"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/TgdIJoDbOIOWTLboTGNvr5HK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Georges Geldorp, kunstschilder"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T1UhH6MEGlcIcNNNzY8PbXM1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Verbintenis ondertekend door Alexander Jozef Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zd9uPE7OTULXOUj6pJebzOSq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i25RDKoH9ARqKOjjAhqZcZs8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o1IXo9fGXJaETHJT9b8CzbYq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z2VC5ZZieTkVOZaLMfEoZkA5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ontvangstbewijs, ondertekend door Helena Fourment, voor haar schoonzoon en haar twee zonen, Francis en Peter Paul"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G1ZaPKieiYBwGJXfmXX7Clfl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Minuut van een brief van F. Verachter, gericht aan burgemeester van Antwerpen, Loos"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/sKAe9IQMkmBViWeXMctRSg1k.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: o.a. 'huwelijkscontract Isabella Helena Rubens met Marcus Van der Veken, 6 juli 1666.'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1XYXR9eMKlzOVKOYH1QVGel.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Minuut van een brief van F. Verachter, gericht aan burgemeester van Antwerpen, Loos"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/jOjK9KUZgZjcV8ZB2jmA95si.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Minuut van een brief van F. Verachter, gericht aan burgemeester van Antwerpen, Loos"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/HWXBTxj7acMHLNQLDIGYJYw3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens: genealogie van Rubens."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L1GOROOgREWgVQsNjYfx94tw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens: opdrachten."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/zMkUSud1ptjFeHGTagaTcejE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens: genealogie van Rubens."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t1RfTaCEBZpMfGLECaqc0iUC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens: opdrachten."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/pRXaMibgQOiqKpjYqLuDS8CN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens: opdrachten."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1IHu8HRWTk6nXalaGR1e62L.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Ferdinand Naegels tegen juffrouwen Theresia Maria en Isabela De Grove, 4 mei 1761.'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R2DqeTKbjNTWjOoVXffneGFK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Ferdinand Naegels tegen juffrouwen Theresia Maria en Isabela De Grove, 4 mei 1761.'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r2OoJhc7SPiFuGK2dQqctvwr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Verkoopsakte 30 april 1715, Van der Veken.'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/iIYSIbgecIaMCbYHjClEvdZu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Verkoopsakte 30 april 1715, Van der Veken.'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q2AkWknabOXrcRODDomTHb5V.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens: stamboom."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u2ZUaDmXMoJuGNUHbP3xbrGQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens: dossier Dumortier, briefwisseling Verachter, Loos."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/xEwY2TPEJR9OgMZ2f29mKHoa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens. \"documents inédits...\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x1ZaRbdLQPlePVDgUjmSUclr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Erfenis Cornelis Wellens, weduwnaar van Maria van Brouchoven.1693'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i1OYZJXbILYHoMpeYNZTNHF2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Erfenis Cornelis Wellens, weduwnaar van Maria van Brouchoven.1693'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w2JWYCnrKRYVWOcfPanKBNvN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Erfenis Maria C.J. Vermoelen, 21 april 1787.'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j26hStOV3madjKZTXYTStqKy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Arnulphus Van Nuffel tegen \"... Meaux\" '"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1ePCbktdUUTKL4OGW5ciPNQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: '13 december 1657'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q1MhIA9XLAVWTXEeaMOVkaLc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'erfbrief voor D. Van Acoleijen en M.A. De Haen, Lippeloo 1787.'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/qmSwlYlfFnOVUDujqHRoTqvD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'erfbrief voor D. Van Acoleijen en M.A. De Haen, Lippeloo 1787.'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t2OPTKZTAJYFkVKgFFYurQeH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'cavelinge' erfenis Maria C.J. Vermoelen 1700."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/gUWKaLRBghXJINVXFDVedY96.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Verkoopsvoorwaarden huis te Lippeloo.'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/iCOiDicJS5ic8lbIXfNcthwY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: '13 december 1657'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ZVQleddjDMQaBLfEhTNpNbgd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Venditien van Coomens over kinderen van Acoleijen, Lippeloo 8 september 1820'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ZOGPVP1GOsMOMR9LQ8sqJnXV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'Venditien van Coomens over kinderen van Acoleijen, Lippeloo 8 september 1820'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n1DYRQkPPsagSVcUMdBb6k2f.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'erfbrief Gillis, 16 december 1760'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/d1TWYBBARg6UgqbfXAneY3cf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'erfbrief Gillis, 16 december 1760'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1KehxQhhWhWbPb5AY5BoCA5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'testament Joanna Dehaen 1805'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/MfkaTopYcgfUbiLWXKy0gCf7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "17de, 18de en 19de-eeuwse documenten m.b.t. P.P. Rubens: 'Staat ende Rekeninge van het Sterfhuys van P.P. Rubens 1645'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ChRINPkHXVQmKoTwbiP8hgDA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van P.P. Rubens, gericht aan Pierre Du Puy"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/oQUeDYRRIbx8EgUQSFCDEmmu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Getuigschrift van verslag van Alexander Jozef Rubens, ondertekend door Philippe van Parijs"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/sNKYZfMppXzWeMEPvWGDYZnU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ontvangstbewijs, ondertekend door Philippe van Parijs"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u2PXafXLHTnGkuEsvb40sGOg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Schepenbrief, ondertekend door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/wmNWVfHfgdDV5XDbb2sZIcyC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Schepenbrief, ondertekend door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/aTPJqtVl6RcNtUUfpaP6fTjw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Getuigschrift ondertekend door Jacques van Parijs"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i2NThWMOyfrnSJAjbk4WIZUm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Getuigschrift ondertekend door Frans Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/iXfA7ILbTNVWXRYYJpIR8CwR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ontvangstbewijs, ondertekend door Helena Fourment, voor haar schoonzoon en haar twee zonen, Francis en Peter Paul"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Hl2SdVZkXCR6YcGaHCbBU1A9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Jan Rubens, gericht aan Jan Gillis, \" Pensionaris ende Raet der Stat van Antwerpen\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O1GcJeXrTbJahWkVJW4fkUCG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Schepenbrief\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p2VLboXObNYZZaRANL8WIMcI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"Schepenbrief\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1tOsWJHfTb9RsXois9i8I1Y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Jan Rubens, gericht aan Jan Gillis, \" Pensionaris ende Raet der Stat van Antwerpen\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y1QSZOlWUedlRPVUScYMZRQo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Jan Rubens, gericht aan Jan Gillis, \" Pensionaris ende Raet der Stat van Antwerpen\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A19vNfTGqFiZo9CjCYWJcDQm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "19de-eeuwse kopie van een brief van Rubens, gericht aan Lucas Faydherbe"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p1QFWmFeMDeDwUjc8XVBayD3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "19de-eeuwse kopie van een brief van Rubens, gericht aan Lucas Faydherbe"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/qIQVlVSCL85gCObFo6rF5b6Q.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Jan Rubens, gericht aan de Wethouders van Antwerpen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WPBfflRpPiVQYYPRazL7TuwO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Jan Rubens, gericht aan de Wethouders van Antwerpen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2GhYnFc8LiWZGLGKRmxgZkm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Jan Rubens, gericht aan de Wethouders van Antwerpen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/hhWOKvlVaLSF2EpDWMQdpR0n.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Facsimile (lithografie) van het kwijtschrift van het schilderij van P.P. Rubens, De Aanbidding der Koningen, in de St. Janskerk te Mechelen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/omFOcrnPRFgPWV7ZEuXlZDQ0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Rubens, gericht aan Pierre Du Puy"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z1mdPLLUJFbMXDF7mTGZNw68.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Brief van Rubens, gericht aan Pierre Du Puy"
+        ]
+      }
+    }
+  ]
+}

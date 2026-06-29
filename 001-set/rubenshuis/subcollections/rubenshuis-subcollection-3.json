@@ -1,0 +1,2372 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/subcollections/rubenshuis-subcollection-3.json",
+  "type": "Collection",
+  "partOf": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/rubenshuis-collection.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Collectie Rubenshuis"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "nl": [
+      "Collectie Rubenshuis – deel 3"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Manifesten 501 tot 750 van 3169 uit de Rubenshuis-collectie."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "deelnummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "3"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "totaal aantal delen"
+        ]
+      },
+      "value": {
+        "nl": [
+          "13"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "aantal manifesten"
+        ]
+      },
+      "value": {
+        "nl": [
+          "250"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Stad Antwerpen, Rubenshuis"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://data.antwerpen.be/agent/rubenshuis",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Rubenshuis"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://rubenshuis.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage Rubenshuis"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://www.antwerpen.be/assets/images/logos/logo_A_stad_antwerpen.png",
+          "type": "Image",
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dams.antwerpen.be/iiif/USMgZcDeXWnFVVGcXXyiPnaT/full/max/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/USMgZcDeXWnFVVGcXXyiPnaT",
+          "type": "ImageService3",
+          "profile": "level0"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/USMgZcDeXWnFVVGcXXyiPnaT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw (deel 1/2)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/mfcTVhAtSbbXUCRKUpP5TLW6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Reeks documenten met betrekking tot bepaalde eigendommen, 17de en 18de eeuw: 'testament Joanna Dehaen 1805'"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i1WFmUVcfORUNixNOktfdNCO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakte betreffende aankoop door F. Gielis van het huis Sint Aernout op de Meir, een aanpalend stuk grond en een \"raemhoff\" met zomerhuisje, 13 maart 1537."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w1ReZSfeZPlsiHffRfMpCIPz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 23 december 1578."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LmO7xJjEOtCph7IfR8unChOm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakte betreffende aankoop door F. Gielis van het huis Sint Aernout op de Meir, een aanpalend stuk grond en een \"raemhoff\" met zomerhuisje, 13 maart 1537."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/d1VUDeWPPUNSKUNkmFIa5Cjj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopie schepenakte betreffende verkoop door F. Gielis van het huis Sint Aernout met 10 roeden erf, aan Agnes van Halmale, 2 augustus 1550."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H2cSMWEK4kxgpCDdVeszh9rC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 9 augustus 1580."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E1upZkRjSaVQNOjXbTmqWv2t.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 23 december 1578."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/aPhVR7HZkXGWGMKiYX6I9GpR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 9 augustus 1580."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/O1MlPfPgdZbGGRNZJZIkbBnV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 9 augustus 1580."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K1dwiZqJdFakSRLdfbMHJqdu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 28 juni 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S1HNtZCUKMNUnNpSWMsL6V3o.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 12 mei 1578."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s1k7WGlYi48NT9nnPZ36MysU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 12 mei 1578."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/PkBePnIcsU4MfgQFMqQihgZA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 3 augustus 1584."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/UDYZQRFV49luheMHlFNToRkL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 3 augustus 1584."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/etSW4UnnJoQM9aEsLl1TFXuw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 25 augustus 1584."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/d2RWCGPGFKlRZcleEZLcH28t.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 25 augustus 1584."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P2YhKKVRGIMHFB9VZOySTgcb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 25 augustus 1584."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DLSiUfK5NbZXUbRbUkzpp3EE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 23 juni 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1VCbNYsXVTSEZmWimJjQgGH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 23 juni 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f2HpUrpoc9XQOQdTbwEyCLXs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 23 juni 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1RbQraOvRUFXSV6VX4jOnZk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 23 juni 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L1YXlfRDSDZMHVtSTJRHJNM8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 5 januari 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E1gaWdCcHOdhDRXWjWLUKNLv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 28 juni 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1eScjVYabiXJWhchdYv39BL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 5 januari 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J1MZDXN2UcSZiSLe9BJennwK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 23 juni 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k1bMGSiZdZQXNMLLrmx018qb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 3 april 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y2MVQgbTVUacfYXIJbliAZwO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 3 april 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P7NIreDXVBPMNgnOYW1Mwlpa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 4 oktober 1595."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/hAeEcPYuiPmhBXfoiAo6Q0Nc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 23 juni 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W1OA8BUaIUknWCwQmXnulws0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): Frankenthal, transport van Magdalena Gielis, dochter van F. Gielis, 9 april 1599."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/OXRiEFzqSOLegW8RcnrvnRjn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): Frankenthal, transport van Magdalena Gielis, dochter van F. Gielis, 9 april 1599."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DKUeVfGNSJWKj9TLUcukTMYw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 29 augustus 1597."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g1SmBoXHDX4hcWfJRCF4T8NR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 29 augustus 1597."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V1ckGg5VQbRCQsVbib76vr8Z.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 29 augustus 1597."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Y1KnkLe5fAEcgsqqUmlpTweZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 11 maart 1602."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/CJpBLuWPYfDoKNcskUQtRkeh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 11 maart 1602."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b2Yx9BCglwZPLDwoWaWy2AsK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 23 mei 1602."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ZIYOQKXKYmZYZWkDAaxjAsrZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 11 maart 1602."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/BCW9DMhnrMmhLRTsMGVEI3JI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 30 september 1603."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w26XRPWkZhWkILeWKXtHF7IA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 23 mei 1602."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/PfkGs9piVcq7SqBiWjr59zni.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 30 september 1603."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x2FETPhgmYfiNmWbPLx3lg05.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 30 september 1603."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E1QokYUOIYQLDMoqFI9H9Tul.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 15 november 1602."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e2XVrCWGQZU69IJImTbBh8of.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 15 november 1602."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2ASpeL4j4EZDdDUL5bBxOcx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte betreffende eigendomstitel aan Th. van Grimbergen en zijn echtgenote M.-Th. Rubens. 16 april 1726."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/s1UlopLSgNRUTnTOWWkn1Lfq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte betreffende eigendomstitel aan Th. van Grimbergen en zijn echtgenote M.-Th. Rubens. 16 april 1726."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I1mbMPPevndSajDUcE60yyoz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie schepenakte betreffende verkoop van pand aan de Wapper door Cornelia Hillewerve, weduwe van Jacques van Eyck, aan haar broer Hendrik Hillewerve. 18 januari 1680."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/JYYeTJX7kkplWVQq8c1tNriQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie schepenakte betreffende verkoop van pand aan de Wapper door Cornelia Hillewerve, weduwe van Jacques van Eyck, aan haar broer Hendrik Hillewerve. 18 januari 1680."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/IgbkOhRnluVkQaFOejeG4HuN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie notariële akte betreffende donatio intervivos door Hendrik Hillewerve van het pand aan de Wapper aan zijn zuster Cornelia en haar drie kinderen. 17 juni 1682."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L1MWWXZSOZQeA7YRUW8kJv2j.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie notariële akte betreffende donatio intervivos door Hendrik Hillewerve van het pand aan de Wapper aan zijn zuster Cornelia en haar drie kinderen. 17 juni 1682."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/IfQWIaYVfLbZNYiOQPSP6B76.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie notariële akte betreffende donatio intervivos door Hendrik Hillewerve van het pand aan de Wapper aan zijn zuster Cornelia en haar drie kinderen. 17 juni 1682."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/t1SAIP7BFVgRgyNXRkOsUZOa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie schepenakte betreffende verkoop van pand aan de Wapper door Cornelia Hillewerve, weduwe van Jacques van Eyck, aan haar broer Hendrik Hillewerve. 18 januari 1680."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2SligMH79UhVm3bi582AgDQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie schepenakte betreffende verkoop van pand aan de Wapper door Cornelia Hillewerve, weduwe van Jacques van Eyck, aan haar broer Hendrik Hillewerve. 18 januari 1680."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/c1aVU4NcQfmWPdPAdO6t0OKa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie schepenakte betreffende verkoop van pand aan de Wapper door Cornelia Hillewerve, weduwe van Jacques van Eyck, aan haar broer Hendrik Hillewerve. 18 januari 1680."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M2bUXmDZnQkSRXdVLaMmIwFP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie schepenakte betreffende verkoop van pand aan de Wapper door Cornelia Hillewerve, weduwe van Jacques van Eyck, aan haar broer Hendrik Hillewerve. 18 januari 1680."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M1m7dKFcieTWgILKtcU45P5s.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: notariële akte, extract uit het testament van Cornelia Hillewerve. 22 februari 1686."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p1QV8CqaYXLjINdhJvNbdSoi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: notariële akte, extract uit het testament van Cornelia Hillewerve. 22 februari 1686."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q1L4xHQBbQiIVsbXYm8JoJuM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: notariële akte, extract uit het testament van Cornelia Hillewerve. 22 februari 1686."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1fTXN7QbSNpYoWPKV3pijTy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie notariële akte betreffende schenking door Joseph Augustin van Eycke, zoon van Cornelia Hillewerve, van zijn deel in het pand aan de Wapper aan zijn twee zusters. 16 september 1683."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C1BbgWgUXpVfZeSWKylFeeQc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: schepenakte betreffende goederen van de dochters van Cornelia Hillewerve."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k1vMYOObiOdSXkUaMRaoW1Ze.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: schepenakte betreffende goederen van de dochters van Cornelia Hillewerve."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n1UHlsGDDTUbUrbGeIrAUm5p.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: schepenakte betreffende goederen van de dochters van Cornelia Hillewerve."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1HaQTeEoPNSYQzsbP5XGvRQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filip Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/fhRLBjYfCsdDIUjKTgjrGgBy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie schepenakte betreffende volle eigendomsrecht op pand aan de Wapper door Th. van Grimbergen, verkregen na de dood van zijn echtgenote M.-Th. Rubens. 23 december 1733."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N1YRgWXi4GT3XNYjUKu2Slgg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie schepenakte betreffende volle eigendomsrecht op pand aan de Wapper door Th. van Grimbergen, verkregen na de dood van zijn echtgenote M.-Th. Rubens. 23 december 1733."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z1TkUWZScQrNaRiR9jNqpVOi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: schepenakte betreffende verkoop van pand aan de Wapper door Cornelia Hillewerve, weduwe van Jacques van Eyck, aan haar broer Hendrik Hillewerve. 18 januari 1680."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r1QCtOaSKdKnisJLlVLbhbfu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: schepenakte betreffende verkoop van pand aan de Wapper door Cornelia Hillewerve, weduwe van Jacques van Eyck, aan haar broer Hendrik Hillewerve. 18 januari 1680."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G1lGocRidZbWXhZrJgLeo0em.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie notariële akte betreffende de verkoop van het pand aan de Wapper, door de Neuff, ten voordele van Cornelia en Henrica de Wit. 14 februari 1728"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I1TWfeYjTGdVAaASHKrAc25W.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie notariële akte betreffende de verkoop van het pand aan de Wapper, door de Neuff, ten voordele van Cornelia en Henrica de Wit. 14 februari 1728"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n1TShQRXkHUJwnpNRVxEg1ax.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte betreffende eigendomstitel aan Th. van Grimbergen en zijn echtgenote M.-Th. Rubens. 16 april 1726."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/cUJPZOQT8YbjWoWVsMii03NI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie notariële akte betreffende donatio intervivos door Hendrik Hillewerve van het pand aan de Wapper aan zijn zuster Cornelia en haar drie kinderen. 17 juni 1682."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1CueHcLjKOZNIVXa9JtTEmY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: schepenakte met zegel betreffende vernieuwing der 'donatio inter vivos' van Hendrik Hillewerve. 7 maart 1691."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W2OnSeiTHFuQYgSFJcWClFdz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: schepenakte met zegel betreffende vernieuwing der 'donatio inter vivos' van Hendrik Hillewerve. 7 maart 1691."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/c1HxjFUjoogTRdRYtoVCkAZl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie notariële akte betreffende schenking door Joseph Augustin van Eycke, zoon van Cornelia Hillewerve, van zijn deel in het pand aan de Wapper aan zijn twee zusters. 16 september 1683."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/d1JaIb98UXQdXZ5YeXg9Yywa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie notariële akte betreffende schenking door Joseph Augustin van Eycke, zoon van Cornelia Hillewerve, van zijn deel in het pand aan de Wapper aan zijn twee zusters. 16 september 1683."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/CEIeMqTuhIgTVDaTQFKRJyTh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: kopie notariële akte betreffende schenking door Joseph Augustin van Eycke, zoon van Cornelia Hillewerve, van zijn deel in het pand aan de Wapper aan zijn twee zusters. 16 september 1683."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k1NPJmAZBYQEaWhcYSJ9qgSY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: notariële akte betreffende schenking door Joseph Augustin van Eycke, zoon van Cornelia Hillewerve, van zijn deel in het pand aan de Wapper aan zijn twee zusters. 16 september 1683."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j1VbiR9FtLEwbcZzMilJtSW2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: notariële akte betreffende schenking door Joseph Augustin van Eycke, zoon van Cornelia Hillewerve, van zijn deel in het pand aan de Wapper aan zijn twee zusters. 16 september 1683."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f1WRALJARPnboZUVhLv6gJtI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis t.t.v. Hillewerve: notariële akte betreffende schenking door Joseph Augustin van Eycke, zoon van Cornelia Hillewerve, van zijn deel in het pand aan de Wapper aan zijn twee zusters. 16 september 1683."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/JnBgZKaEdekWIPEZLGWqXLqd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/CHjLDNHQiZqfLIeY5R131Wiy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i2bUnekUTHniBQUUgTWFObSH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U2DUjdHLobf49VDORfoPT9TR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/XKZTReRRdTVBtpGWp7krMa5W.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filip Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/vMlk6hYNaNNXOIXTk2Mnr2lr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 4 januari 1611."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m2jYgcnnVJLDepjXbRYhH3qK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 4 januari 1611."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WacVSPOpA6vedRHOa6EgJDJC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): notariële akte met zegel, betreffende verkoop van het pand aan de Wapper aan P.P. Rubens, 1 november 1610."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/PpWJlQkKQdmqiRcaUPslnsHU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): notariële akte met zegel, betreffende verkoop van het pand aan de Wapper aan P.P. Rubens, 1 november 1610."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/UKWVeTgYjeZrKiKlRrQC5lCS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): notariële akte met zegel, betreffende verkoop van het pand aan de Wapper aan P.P. Rubens, 1 november 1610."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1wMAdPpRsNbZOcXNNeQsxoi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 4 januari 1611."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x1mcDYYJcChZmZkQSP884E4H.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 4 januari 1611."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U1VcETdlUXn4YgNBX70Xvpvc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): procuratie door de magistraat tot aankoop door P.P. Rubens van Jan Thys, 22 december 1610."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f2H8SDLZJkQR6UV9cjNDH7mJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakte betreffende de som van 7.600 gulden, die Rubens schuldig is aan Andries Backer en diens echtgenote Magdalena Thys. 4 januari 1611."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/pRMQeVWMUn3RThJBkELe2Okm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakte betreffende de som van 7.600 gulden, die Rubens schuldig is aan Andries Backer en diens echtgenote Magdalena Thys. 4 januari 1611."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S2cMNhiPfZl7WaRcIZwcKQbk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakte betreffende de som van 7.600 gulden, die Rubens schuldig is aan Andries Backer en diens echtgenote Magdalena Thys. 4 januari 1611."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D2TUJkaIhbMJEWPiHnh7P4M1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakten betreffende de terugbetaling door Rubens van de hypotheek op het pand aan de Wapper. 2 maart 1613."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/M2KwlJUBa7S2ODmSQNIxD0Gg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): procuratie door de magistraat tot aankoop door P.P. Rubens van Jan Thys, 22 december 1610."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x2PGdSSsZAyWVWaMoZ634lbY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakten betreffende de terugbetaling door Rubens van de hypotheek op het pand aan de Wapper. 13 mei 1613."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x1eaE9mGJhGgMDiHOhavJCAH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakten betreffende de terugbetaling door Rubens van de hypotheek op het pand aan de Wapper. 13 mei 1613."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/F1JGEPaMiZcgdvYlEo0trKhk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakten betreffende de terugbetaling door Rubens van de hypotheek op het pand aan de Wapper. 2 maart 1613."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/EPGWnO7DOqSbMkMfVeBKwles.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakten betreffende de terugbetaling door Rubens van de hypotheek op het pand aan de Wapper. 28 maart 1613"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I2ZPjbhKMSPRefnffOdAQhbR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakten betreffende de terugbetaling door Rubens van de hypotheek op het pand aan de Wapper. 28 maart 1613"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L2CcenacKUflUHBkeoZHljW5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakten betreffende de terugbetaling door Rubens van de hypotheek op het pand aan de Wapper. 13 mei 1613."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/XL8nOYoe9QTRYdhTr51aEWvQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakten betreffende de terugbetaling door Rubens van de hypotheek op het pand aan de Wapper. 13 mei 1613."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N1eSW9c7ckQSwTCo7zWp0bxk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakte betreffende een hypotheek van Andries van Herck en echtgenote, op pand aan de Wapper."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h2camd5HrZ5ez7amiUdpNfWS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): notariële akte betreffende volmachten gegeven door H. Fourment en J.B. Van Brouchoven de Bergeyck, aan Frans Rubens, voor de verkoop van het pand aan de Wapper. 24 juli 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/E1efTAOSXlXNOOdndAQtH7Zi.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie van een notariële akte betreffende de openbare verkoop van het pand aan de Wapper aan J. van Eyck, voor 20.000 gulden. 3 september 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V1PcKfhnMbbeUUfXhFcSExUY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakte betreffende een scheidsmuur tussen Rubens' huis en het pand van Nicolaas de Man, aan de Wapper, 7 augustus 1638."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/XZdTfcDPPGCTSXUGA3kwjoz4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakte betreffende een scheidsmuur tussen Rubens' huis en het pand van Nicolaas de Man, aan de Wapper, 7 augustus 1638."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/mfJRUljFRJmIZQaUK3FzvQz2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakte betreffende een hypotheek van Andries van Herck en echtgenote, op pand aan de Wapper."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a2GiIekLWPTSbXUic8nfMAV7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenakte betreffende de verwerving door Rubens van pand aan de Wapper, 1627."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A5lSPERYM6WLacUMLT4gbcet.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte met zegel betreffende Frans, Pieter-Paul en Clara-Johanna Rubens, als erfgenamen van hun zuster Constantia Albertina Rubens, non in het klooster van Ter Kameren. 16 september 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/b1N9GXbMO7AUmpsETIGKycDN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte met zegel betreffende Frans, Pieter-Paul en Clara-Johanna Rubens, als erfgenamen van hun zuster Constantia Albertina Rubens, non in het klooster van Ter Kameren. 16 september 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e1NnIXVcMXgUggqNZLsdMJEu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte met zegel betreffende Frans, Pieter-Paul en Clara-Johanna Rubens, als erfgenamen van hun zuster Constantia Albertina Rubens, non in het klooster van Ter Kameren. 16 september 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/D1YULGOMzOugREncIUcuOvYI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie schepenakte betreffende verkoop van het pand aan de Wapper, door Joanna Maria Justa en Anna Maria Theresia van Eyck, aan Th. de Letter. 8 december 1696."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/FtSbdFYVIqYZYadhsblFpLNs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte betreffende verkoop van het pand aan de Wapper, door Joanna Maria Justa en Anna Maria Theresia van Eyck, aan Th. de Letter. 8 december 1696."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r1PfiYYhR8MhTZVGOJiBuozC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte betreffende verkoop van het pand aan de Wapper, door Joanna Maria Justa en Anna Maria Theresia van Eyck, aan Th. de Letter. 8 december 1696."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G2ZmdhScXRaTtUgYRPaYKl9j.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte betreffende verkoop van het pand aan de Wapper, door Joanna Maria Justa en Anna Maria Theresia van Eyck, aan Th. de Letter. 8 december 1696."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/l1vawXKnF6bCfsQbsStQ7YnY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): aanvraag en toestemming tot verkoop van het pand aan de Wapper door Albert en Nicolaas Rubens. 18 juni 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/XNbRPDjiOUOVcXXkYdwRp18v.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): aanvraag en toestemming tot verkoop van het pand aan de Wapper door Albert en Nicolaas Rubens. 18 juni 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/IMXePXlehWdIOqRDPc60fU3Q.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie schepenakte betreffende verkoop van het pand aan de Wapper, door Joanna Maria Justa en Anna Maria Theresia van Eyck, aan Th. de Letter. 8 december 1696."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z2JpihIRcdqOXRRcjFFYlJxY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie van notariële akte betreffende de openbare verkoop  voor 20.000 gulden van het pand aan de Wappern aan Guillaume van den Bosch. 20 juni 1727."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/vlVPGBWQYnSuVXlhQobCCbFY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): aanvraag en toestemming tot ontlasting van fidecomis. 19 juni 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z1RWEdIfNfQfddSrKgkZey0M.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie van een notariële akte betreffende de openbare verkoop van het pand aan de Wapper aan J. van Eyck, voor 20.000 gulden. 3 september 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i2PNDHQMgSMZacVjHX7clVGj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie van een notariële akte betreffende de openbare verkoop van het pand aan de Wapper aan J. van Eyck, voor 20.000 gulden. 3 september 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H1IkYYPyQFYLRAEWZI3QFKTe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): aanvraag en toestemming tot verkoop van het pand aan de Wapper door Albert en Nicolaas Rubens. 18 juni 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C17iMWVWidV8HQqBWZaz22eZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte betreffende de openbare verkoop van het pand aan de Wapper, aan Jan van Eyck. 16 september 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j1VADT38GOQcDXakIYrZbdv5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): aanvraag en toestemming tot ontlasting van fidecomis. 19 juni 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/MdYbeaYAXXZCWUlalDpi9bz2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): aanvraag en toestemming tot ontlasting van fidecomis. 19 juni 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W2gPeLflTeHrJXYTMX8Ypkuk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): schepenakte betreffende de openbare verkoop van het pand aan de Wapper, aan Jan van Eyck. 16 september 1660."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/JKGwsSMa5XHgdHFeS0gaRLcu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenzegel uit Antwerpen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/pROaRTUZUaqLQVmCiEoUdP5T.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis tijdens Rubens' leven (1610-1638): schepenzegel uit Antwerpen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/YuMBctjMVZUOYKCMTwyhzu3P.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kasboek van de Jezuïetenkerk ivm schilderijen van Rubens in deze kerk"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/N2HTfcDcWHLOnSWTc8cLwNZ8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "18 fotokopieën van documenten betreffende P.P. Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DaQa7GLesHdcM7YjJSdofWgO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 23 juni 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/HfgSTUFNa8iLXSnKolVWBp7N.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 3 april 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/B1kKNTERLEvJbYYJKScETw3L.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 24 juli 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/enoScTItJahoXIgQRiLWtTVk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): schepenakten betreffende transporten van de kinderen en kleinkinderen van F. Gielis, 24 juli 1582."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/uZ8RTNoVJ9dMQHMdWMLjLOeM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 4 oktober 1595."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WWlXr3HHGJYDRmZHeoWIFv7Q.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): Frankenthal, transport van Magdalena Gielis, dochter van F. Gielis, 9 april 1599."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/hrj1FYxBRLb9kOkfWEiyeK5Z.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis voor Rubens (1531-1610): kopieën schepenakten, transporten kinderen en kleinkinderen van F. Gielis, 4 oktober 1595."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/h2LqZdZRGQFeVRnNMImLMYNb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): kopie van notariële akte betreffende de openbare verkoop  voor 20.000 gulden van het pand aan de Wappern aan Guillaume van den Bosch. 20 juni 1727."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/pOVhegKgZijadUMRUH1hxXcu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): notariële akte betreffende toestemming aan Don Juan de Benero en pastoor de Neuff om het pand aan de Wapper te verkopen. 24 december 1725."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/sQQbNVMfKWfVoM3QKSVcx6wP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): notariële akte betreffende toestemming aan Don Juan de Benero en pastoor de Neuff om het pand aan de Wapper te verkopen. 24 december 1725."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w19MRSCFCF9IiHMfCqND8nGs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): notariële akte betreffende koopcedulle pand aan de Wapper voor Th. J. van Grimbergen. 29 maart 1726."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/dRjZlCUYNXHgcsQdUCM0OFRm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het Rubenshuis na de dood van Rubens, uitgezonderd Hillewerve (1660-1733): notariële akte betreffende koopcedulle pand aan de Wapper voor Th. J. van Grimbergen. 29 maart 1726."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/p9hWOVgBVZlCQsNRFKpsg230.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filips Rubens ivm Helena Fourment"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S1sHmRgVBPiWKVhaNddHQEoF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filips Rubens ivm Helena Fourment"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/tePLjgAOTZYPADwNTMx4Fgyj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/q2BvEEILZObVRnwR6Hq6poun.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/T1fGdOWmGejfSYTPUMEFDNYj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U2QUUGQHFQhVcQYNeJxGxaYS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "schepenakte, ondertekend door Filips Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U1QMNdTT8hocWf8KjGJEH8cs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Aantekening over de klokken van de Sint Jacobskerk 1769-1770"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2TEnNBspb9NanPlPeSLPepj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Tellius, oktober 1664"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U2N5fzYcElJbdXdmLVajW6o4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Tellius, oktober 1664"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j1GRZOUc5xYVUHJJkO8G6nLn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "kopie van een juridisch document met \"ondertekening D. Teniers\""
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J2TbQDZgwoGKYATFZIOS0yCY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Gravius, 1656"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/GOgUCCefYMCvIqVVnTJOYcc8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Gravius, 1656"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/migilhDcRgLqIPcdWUMcSVL8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Gravius, 1656"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/sZBTePLQrPGaroNROWs3G2y6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Aantekening over de klokken van de Sint Jacobskerk 1769-1770"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/c1OR8IUUkQkOwBiJjHoTDEE1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Aantekening over de klokken van de Sint Jacobskerk 1769-1770"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/G13XRjCDkTCcKWXvLAwZaDTB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Tellius, oktober 1664"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/kleqYQER4nJdKZ2RY0TxcihB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Heinsius, december 1657"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/kVRAsWWNUqPUIXZaOCUMAX4D.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Heinsius, december 1657"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/OXSJlCOefLNDalFZ94peN7EQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Heinsius, januari 1658"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/m2LViVelQQcS56qPlIGXuAcp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Heinsius, januari 1658"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y1mBjIJfHWNIFVTig49iLJZP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Heinsius, oktober 1657"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/R1VajlisQsM6GhLhJlsqXGkN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "brief aan Caspar Gevartius door Heinsius, oktober 1657"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/phaMKiW6rPTZiBRmheUxWgWW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/rICqcecbgPDeckfONJBeNwnm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/xkfnnZjqbSWRSJ6SMgfcuf7a.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/u2dSZfXinNHxClKdDfsDTOpl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/bVwnJIvbgScIdlUhEtCSbJ7f.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a1pTYTEZYRYZdRdWLiJFEVWy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/I15MUyCebKfSGTY7orYgd3Xp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/IhkaSRpO8Lo8AatoRlvKrLkr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J1ErMHYLiVsUWZVJEdHgGsYn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/GhMC8iK5h3n7WWhJbKdU3cgk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/P2gfLSZcFHUQMZPMTNRmvhqY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Ohk7QTWZJPTcAfW9UStanOck.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/RpGleThineYfUGOCduVcDuVB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/g1OjhnUdRyNIMYWLpUf5hQz2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "\"staat van kosten\", opgesteld door Gerbier voor Rubens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/lTVeed4lNRpUJfiZb8hklPNv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/k2YYeSRbneuw2BaJhkN3ho4p.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/j1AUscNXlbZ6hIaQEcxFzz1D.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/i2PcPSX9dcgggEYMcYtFbbX2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ATgIYkRjUgZMSFRaV4fzyP7y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/A1BBTSNoXWV3HIvGZVZS428O.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/DXHXQbLYYZWLckRlXhRVRcCd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/FbvTdtF8aGYOGGkl4H9VvcZe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/AeUtiVEHZtELeUqMVEalPSzP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/EG6fbYScXggSJbHba50Ap1Gw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ngZGBjVuoc9laQAbxqeRH20g.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/r1HPHXGNi4KcR5v9IFixGkMh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o1BrHicBJMBBRgHjNjVaZ5CY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o1QGZTC8KX8KWt7OfUHaxfZZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/oJuLtRhccaSepLMLlgSAfzrM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/o2lcayRdZUYgWLbZehJwTERw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V1WEaFWZnGkFYPXfRHlr1QA9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/UJOYPhPWZSlkEIWWnf994HxQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y1VpCVgNEltao9OOROhBoTri.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y1OffgEmAen8bVTxYZT9W03T.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V2clblPRTYQQQViSh8NE3rAa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/W1XlZblLiYGHbVjUQo1eTaLj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y1kIbOpfHoaNB8INlllia05M.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/z1etOgcgowNJkme9UWnfZ6cz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/V1RmQVGbGNePRHWhS2kUjzEY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/wWnXiGiOJLoiliIF5s6OK9Sk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X2WUg4aLGeTIfk3OKSNh7wRO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/XSTWOtM9bSaZbTbKckAAKe3D.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/XROMkqRH2ebUTNeeapckIkQm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Z1FbTXaOemiJYXOYnMkGtPFF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/x6fMZBx5gEPfOirXGKCMoOMv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/y17PRbboyPQTreSEDd9vPLeR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/WGOhWNQiKToLNPgiUrrL13Z6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/X25tEQuWuNKJaee7C7CGGnog.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a2CJYUYRGmBbsLpYE2CYzt8J.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/dYZKxiEOYlPdQ8EaO6K9KNNp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/e1gcNpgFjObbmcrQjZXDJIhc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f2HANoOZNJnCnXZHaZyOOjmW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/brfYOjEQGZN6MVjR6caOolqJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/J1pkfcmnRHahufSbVJmp93p7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L1hepcTCdDjOX9NSKcr6s5fn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K2OR8uINbZlkKcWYRTYr3cSE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/L1POnoRMEOgQYfQLasI5rZkP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q2WYXUjOcSWbblYhBg6eCq7y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S2dWh7eVcWdbZIKiZg4Ob5xx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/LoDYdgWIUYYUOK9HgePdQHAp.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Q1MsBH9ZTHlWEfJaLXYlqTDk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/S2PVTRBfSRjjFUUNWB4NoKtS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/MJQ7XdDMSOEtOVaIcDLLIM9q.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/BcTBKsCjKPYNOVOXeLYKIZGn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/Jf7V5dDT7tfZYVsXUwKhFgPw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het feest van Sint Maarten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U29SVCmeaKjHfZUMsOF0ooJs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het feest van Sint Maarten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ZqWHXWAdoYvpPpFgWWLwurfF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het feest van Sint Maarten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/a2ZXHd5MQXeOiUiWTR70VlFj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het feest van Sint Maarten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/w2JojK5OYcLXbLTNCh1h6b6I.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het feest van Sint Maarten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/f2BQwRsaiVQPNgMbDy8Ibw8C.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Het feest van Sint Maarten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/cZLQamWUKkNdWiAQbUU0bcU3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: antichambre"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/C1aHdKnSIFara2POxq6VWhzs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Nicolaas Rockox"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/nf2eeeUXXINUlURqmZX4rskU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: grote slaapkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/c2UCUv5YgFseeiQPWDiQ6kv2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: groot atelier"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/K2XlUYgOBYaWaVir5PXXGiVh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/ghRQNQKWhbYQZqFfRRvWX4td.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: kunstkamer"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/U1GfOGYlqINQciGULXsaGybn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Interieur Rubenshuis: keuken"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n1dQhrpnaWPdeXIAWZVxfM5Q.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jongetje op zijn doodsbed"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n2WkQvRkJFGchYVWpctGAqI3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Zelfportret"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/H2PWbNUSHSaGXjEXRIBNGLak.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adam en Eva"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/manifests/n1QiVGfXZhHIMbPILBxAjSkc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Liber amicorum van Nicolaas Rockox"
+        ]
+      }
+    }
+  ]
+}
