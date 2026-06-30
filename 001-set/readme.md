@@ -1,8 +1,8 @@
 # Collection
 ## use case
-•	Toegang tot alle beelden uit een bepaalde collectie, m.n.:
-** lijst met alle manifesten voor collectiestukken uit een specifieke bewaarinstelling
-** lijst met alle manifesten voor collectiestukken voor een specifieke query in DAMS
+Toegang tot alle beelden uit een bepaalde collectie, m.n.:
+* lijst met alle manifesten voor collectiestukken uit een specifieke bewaarinstelling
+* lijst met alle manifesten voor collectiestukken voor een specifieke query in DAMS
 ## implementation notes
 * collecties van meer dan 250 collectiestukken worden opgedeeld in subcollecties.
 ## samples
