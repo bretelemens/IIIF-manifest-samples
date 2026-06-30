@@ -1,6 +1,6 @@
-# Collection
+# manifest set
 ## use case
-Toegang tot alle beelden uit een bepaalde collectie, m.n.:
+Toegang tot alle beelden uit een bepaalde verzameling, m.n.:
 * lijst met alle manifesten voor collectiestukken uit een specifieke bewaarinstelling
 * lijst met alle manifesten voor collectiestukken voor een specifieke query in DAMS
 ## implementation notes
