@@ -23,13 +23,15 @@ Digitale Toegang tot alle beelden van één collectiestuk, m.n.:
 
 
 ## samples
-* [002-beeld/momu-m34/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/002-beeld/dummy-manifest.json): Brievenkopijenboek van de familie Melijn voor de periode 1707-1709. Melijn archief, Heemkundige Kring Jan Vleminck vzw, Wijnegem 
-([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest.json&xywh=-800%2C-485%2C7417%2C5401), 
-[Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F002-beeld%2Fmomu-m34%2Fmanifest.json), [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/manifest.json), ,
-[IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/manifest.json&lang=en))
-* [002-beeld/MPM_AR-PN-0169/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/002-beeld/MPM_AR-PN-0169/manifest.json): Kasboek van de persoonlijke uitgaven van Balthasar II Moretus, 1641-07-01 – 1657-05-05. Uit de bibliotheekcollecties van Museum Plantin-Moretus.
+* [003-beeld/momu-m34/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/003-beeld/dummy-manifest.json): Brievenkopijenboek van de familie Melijn voor de periode 1707-1709. Melijn archief, Heemkundige Kring Jan Vleminck vzw, Wijnegem 
+([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/momu-m34/test-manifest.json&xywh=-800%2C-485%2C7417%2C5401), 
+[Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F002-beeld%2Fmomu-m34%2Fmanifest.json), 
+[Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/momu-m34/manifest.json), 
+[Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/momu-m34/manifest.json),
+[IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/momu-m34/manifest.json&lang=en))
+* [003-beeld/MPM_AR-PN-0169/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/003-beeld/MPM_AR-PN-0169/manifest.json): Kasboek van de persoonlijke uitgaven van Balthasar II Moretus, 1641-07-01 – 1657-05-05. Uit de bibliotheekcollecties van Museum Plantin-Moretus.
 ([Universal Viewer](https://www.universalviewer.dev/#?manifest=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F002-beeld%2FMPM_AR-PN-0169%2Fmanifest.json), 
 [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F002-beeld%2FMPM_AR-PN-0169%2Fmanifest.json),
-[Glycerine](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/MPM_AR-PN-0169/manifest.json))
+[Glycerine](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/MPM_AR-PN-0169/manifest.json))
 [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F002-beeld%2FMPM_AR-PN-0169%2Fmanifest.json), ,
 [IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F002-beeld%2FMPM_AR-PN-0169%2Fmanifest.json&lang=en))
