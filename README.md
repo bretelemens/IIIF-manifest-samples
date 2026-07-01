@@ -1,7 +1,7 @@
 # IIIF-manifest-samples
-* [Collection](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/001-set)
-* [Reproductie](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/002-beeld)
-* [Reproductie sequentie](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/003-beeld-sequentie)
+* [Set met manifests](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/001-manifest-set)
+* [Set met Reproductie](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/002-beeld-set)
+* [Reproductie](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/003-beeld)
 * [Reproductie met bijschrift](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/004-beeld-tekstannotatie)
 * [Reproductie met tag](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/005-beeld-tekstannotatie-link)
 * [Reproductie met ge-OCR’de tekst in een downloadbaar bestand (TXT, ALTO, TEI)](https://github.com/bretelemens/IIIF-manifest-samples/tree/main/006-beeld-ocr-download)
