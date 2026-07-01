@@ -11,7 +11,7 @@ Toegang tot alle beelden uit een bepaalde verzameling, m.n.:
 [001-manifest-set/rubenshuis/collection.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/001-manifest-set/rubenshuis/collection.json) 
 
 Alle 3169 manifests voor collectiestukken beheerd door Rubenshuis in 1 collection. 
-* Universal Viewer laadt de manifest, maar laadt geen beelden. > Komt omdat de collection de manifesten die opgehaald worden in DAM! nog image uri's bevatten met dams.antwerpen.be als domein.
+* Universal Viewer laadt de manifest, maar laadt geen beelden. > Komt omdat de collection de manifesten die opgehaald worden in DAM1 nog image uri's bevatten met dams.antwerpen.be als domein.
 * Clover Viewer laadt de manifest, maar laadt geen beelden.
 * Glycerine Viewer laadt de manifest, maar laadt geen beelden.
 * Mirador laadt de manifest, maar laadt geen beelden.
