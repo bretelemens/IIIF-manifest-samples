@@ -1,0 +1,126 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-37.json",
+  "type": "Collection",
+  "partOf": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/mpm-woodcuts-collection.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Museum Plantin-Moretus – all woodcuts"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "nl": [
+      "MPM woodcuts – deel 37"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Manifesten 9001 tot 9002 van 9002 uit de set all woodcuts."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "deelnummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "37"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "totaal aantal delen"
+        ]
+      },
+      "value": {
+        "nl": [
+          "37"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "aantal manifesten"
+        ]
+      },
+      "value": {
+        "nl": [
+          "2"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Stad Antwerpen, Museum Plantin-Moretus"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://data.antwerpen.be/agent/museum-plantin-moretus",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Museum Plantin-Moretus"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://museumplantinmoretus.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage Museum Plantin-Moretus"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dams1.antwerpen.be/iiif/JHNkgSGJkWSZeiUVptdCROCj/full/full/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/JHNkgSGJkWSZeiUVptdCROCj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Amerikaanse persimoen [Diospyros virginiana]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/kWrnxnkDWcHXZQZUOtmwB4jE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Zwarte els [Alnus glutinosa]"
+        ]
+      }
+    }
+  ]
+}

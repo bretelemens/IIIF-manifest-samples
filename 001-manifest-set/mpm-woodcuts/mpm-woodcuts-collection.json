@@ -1,0 +1,663 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/mpm-woodcuts-collection.json",
+  "type": "Collection",
+  "label": {
+    "nl": [
+      "Museum Plantin-Moretus – all woodcuts"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Topcollectie met alle manifests voor de set all woodcuts, opgesplitst in deelcollecties van 250."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "naam"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Museum Plantin-Moretus – all woodcuts"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "identificatienummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "mpm-woodcuts"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "collectietype"
+        ]
+      },
+      "value": {
+        "nl": [
+          "museale collectie"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "locatie"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Museum Plantin-Moretus"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "beheerder"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stad Antwerpen, Museum Plantin-Moretus"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "acquisitiestatus"
+        ]
+      },
+      "value": {
+        "nl": [
+          "actief"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "data-eigenaar"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stad Antwerpen, Museum Plantin-Moretus"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Stad Antwerpen, Museum Plantin-Moretus"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://data.antwerpen.be/agent/museum-plantin-moretus",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Museum Plantin-Moretus"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://museumplantinmoretus.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage Museum Plantin-Moretus"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dams1.antwerpen.be/iiif/b1KBNUgYQFOzUfBRHOvQN0XR/full/full/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-1.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 1"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 1 tot 250 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-2.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 2"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 251 tot 500 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-3.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 3"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 501 tot 750 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-4.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 4"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 751 tot 1000 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-5.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 5"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 1001 tot 1250 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-6.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 6"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 1251 tot 1500 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-7.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 7"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 1501 tot 1750 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-8.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 8"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 1751 tot 2000 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-9.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 9"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 2001 tot 2250 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-10.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 10"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 2251 tot 2500 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-11.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 11"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 2501 tot 2750 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-12.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 12"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 2751 tot 3000 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-13.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 13"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 3001 tot 3250 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-14.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 14"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 3251 tot 3500 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-15.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 15"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 3501 tot 3750 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-16.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 16"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 3751 tot 4000 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-17.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 17"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 4001 tot 4250 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-18.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 18"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 4251 tot 4500 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-19.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 19"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 4501 tot 4750 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-20.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 20"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 4751 tot 5000 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-21.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 21"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 5001 tot 5250 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-22.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 22"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 5251 tot 5500 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-23.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 23"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 5501 tot 5750 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-24.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 24"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 5751 tot 6000 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-25.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 25"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 6001 tot 6250 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-26.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 26"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 6251 tot 6500 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-27.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 27"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 6501 tot 6750 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-28.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 28"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 6751 tot 7000 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-29.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 29"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 7001 tot 7250 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-30.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 30"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 7251 tot 7500 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-31.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 31"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 7501 tot 7750 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-32.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 32"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 7751 tot 8000 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-33.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 33"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 8001 tot 8250 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-34.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 34"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 8251 tot 8500 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-35.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 35"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 8501 tot 8750 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-36.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 36"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 8751 tot 9000 van 9002."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-37.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "MPM woodcuts – deel 37"
+        ]
+      },
+      "summary": {
+        "nl": [
+          "Manifesten 9001 tot 9002 van 9002."
+        ]
+      }
+    }
+  ]
+}

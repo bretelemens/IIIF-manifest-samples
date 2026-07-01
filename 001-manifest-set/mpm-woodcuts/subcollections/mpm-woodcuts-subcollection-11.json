@@ -1,0 +1,2358 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-11.json",
+  "type": "Collection",
+  "partOf": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/mpm-woodcuts-collection.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Museum Plantin-Moretus – all woodcuts"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "nl": [
+      "MPM woodcuts – deel 11"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Manifesten 2501 tot 2750 van 9002 uit de set all woodcuts."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "deelnummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "11"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "totaal aantal delen"
+        ]
+      },
+      "value": {
+        "nl": [
+          "37"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "aantal manifesten"
+        ]
+      },
+      "value": {
+        "nl": [
+          "250"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Stad Antwerpen, Museum Plantin-Moretus"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://data.antwerpen.be/agent/museum-plantin-moretus",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Museum Plantin-Moretus"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://museumplantinmoretus.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage Museum Plantin-Moretus"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dams1.antwerpen.be/iiif/ygXRwEdRPSNdaoUeHibofbo3/full/full/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/ygXRwEdRPSNdaoUeHibofbo3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 303 bovenaan) met een decoratief bloemmotief"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/n1kbgICkeYeEkYWMePtmy6R8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Doctos doctis obloqui nefas esse [Vervloekt de vijandigheid onder geleerden]."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/d2YWPTN6SRcVVRveYKFNX4cE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, romein (29 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/L1KqOol9gJQaeUjWwOTXJBPY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/U2mVbqT8S5UHkTFZgetgHIKB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal Y, romein (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/m1focUihFynaUfGg8lMPIUZf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09199_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/v2P4RMqcPGm5vWf24ZDVJcQS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal J, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/U1uPfNUbXhUZ9jfJgfCGjKg4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein (52 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/QqjtUhpWZlIPnWaT3UmoK9A7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08565_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/o2MJGRacjGQYRaTa5aSyBI0S.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal B, romein, criblé versiering, dubbele rand (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/B1IVeInIBDtefZeWJULwHogH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08985_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/fWYkAWQmReZBWWf8EwFDMWjS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet: sierlijst met cirkelvormig bouwwerk (links)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/i1bCoWOYQdEQNd93eL6N7nXY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Koning David en de engel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/w9oFPkHaZ6cKaXqZOXnKt3Zn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal Σ [sigma], Grieks (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/cQvWhdMQ8dDodWRuRWSWIOR6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Valkruid [Arnica montana]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/V2XajTPNefjcSfmbHJnC6sj4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, gotische kalligrafie"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/Y1RgfcVhljWkdeUhocwUgLBR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Harig vingergras [Digitaria sanguinalis]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/f1omNXS7PbpOrjLZGtwkt1NL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08465_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/xSVgUDaVUOtfsKGvQ2kd3J5k.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Waternoot [Trapa natans]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/Z1qbNKKLBxWCLJldpJ6AarrF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Exotische vruchten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/C1jmPPaQoPbCXCaGWcYIqqxw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Nec verbo, nec facto quenquam laedendum [Beledig niemand, noch met woord, noch met daad]."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/y2fDfisQR5YPHnk7UFn09QG5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Stinkende ganzenvoet [Chenopodium vulvaria]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/qNYZkVRYYQTVYX5Ygqyvftlr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Astragalus onobrychis"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/qvVeIIAsVgNbTbbQU6SJ70Hh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_03768_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/e2bXialRAMcgTmhiMccxktqA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De slag tussen Timotheus en Judas Makkabeus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/tivaVYtKWIBXXSTHIYL82Usm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal H, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/tYkFFTBUpPWRQOvUbdoeNKBC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal E, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/Z2VSRlM9nPHwoTjqMCZdZ9PA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Langstekelige distel [Carduus acanthoides] of driedistel [Carlina vulgaris]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/v2afdcUTSEYYLFQaeYgQeuNu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal M, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/h2giOHZSnFgL3aLMKOjhvtuC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_03469_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/b3ehZXsnTvmgTR3Bbb1w8gPr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/A2LFTKraSXHUjCUrXAFFrD9t.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal T, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/V2qqYgYOdUZ3IMPFBf4VK8JT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 111) met een decoratief bloemmotief"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/O2b6Nm5NTdsCRdYCOid17q0u.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Voszegge [Carex vulpina]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/o2WWPVqSnKGJNnKWJHO7TE0E.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ölands zonneroosje [Helianthemum oelandicum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/E1ghmL8eLj8lIJPmOQIlQJLn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jezus geneest een ziek die lijdt aan waterzucht in het huis van een farizee"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/X1mkMdIXPFZMlTUERLHKFeui.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00808_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/x28rXBPNWGKQUSjJOUnDYTUA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jonas wordt door de walvis uitgespuwd"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/u1BX6RbUlPUCWN6NfTxeWliP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08090_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/j1bkRoHXWUiNgXXMTErelvfH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal E, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/c1SRVTW2gYkH9I7Ekac2IRMo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal R, romein (29 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/y1aGfCKWYNVaUubXQT4vuQqC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Oost-Indische kers [Tropaeolum majus]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/O2clddjXDGh8SkTcW6wrB1q9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal G, romein (32 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/S1UWVbLqXVOdMdnXLkSXHmAY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Drukkersmerk van de Officina Plantiniana"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/pZ9cXGm9PeZrkgQKTU6L6yOF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09380_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/t1ReWaYPMXzWlZmXLTh3eA8n.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_02702_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/M2VaspKiRim6aQbbhDcpwAfO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal Z, gotische kalligrafie"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/i1GLKkpDJb6pXgMFRBhyfDkJ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal K, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/M2gDFZqZcZXMUSIWLjPn2ZXr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal M, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/JOYQRQcRnlTdZmTnQsponDDe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal O, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/UUOSRNCtdIvkLGmJX4Hd6JGe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De martelaren"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/g2YVuNpSNRUMcNPOSUHvsxEf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Grasbladige boterbloem [Ranunculus gramineus]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/pRYVNf4RAIVesfDqEds3AK0j.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Groot hoefblad [Petasites hybridus]: zonder bloemen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/kXUiebanBOOQHqAcT5a2jWrr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Geometrische figuur: cirkelsegment, kleiner dan halve cirkel [segmentum circuli]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/O2TMhUPRVMiaoBlSNmDnCSQE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Superbia [Hoogmoed]."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/W1NXGFgQmlKip8UlfKBxzCqr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08494_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/j2SDm6OJYYYVHRiKRW9KkAKW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00314_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/n2VUSlZNhDi6gVZ8TnZQhOdK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal H, romein (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/a1NZlZPnWWUqcbaHRiK2XyGG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Ex pace rerum opulentia [Vrede schenkt welvaart]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/O1OWYwIMOkpdSPjMFOvLsj6Q.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_07769_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/U8SgXp2cRiedZhRcDC1EYNvq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal O, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/U1JWHTuknXVJhgbNrUKJABVE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Late stekelnoot [Xanthium strumarium]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/s1uYWAUp8VCemFcAlKvpgtSm.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 446 onderaan)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/FfgwOwbDPPUZoNtNW70sU1Qe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mastiekboom [Pistacia lentiscus]: vruchten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/A27jOSQLrZqHjpKQJR8gneOf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal ל [lamed], Hebreeuws (30 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/e1XtUYQVcDO8ZcOCZUJWwnUn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00454_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/u2b6TlWGPIjjOGHVpHx7aIXL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Soort havikskruid [Hieracium villosum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/C29BhgtPQiKOFSMXsWW6PAXT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Grote leeuwenklauw [Aphanes arvensis]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/p1b8ZDI7f8ajPhWNfYVheLHu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van koning Frederik III de Schone, die regeerde 1314-1330 (toonblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/BMdLYBwRAJMnJOemYKgdqeaY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal S, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/Q1DcReZQHWZNGOQdeJShW1jU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De opdracht in de tempel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/i2IJOYfMTVd8KibUZQfoPPSU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Armeense komkommer or slangkomkommer [Cucumis melo var. flexuosus]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/V1nDMmSukNtZXsVKKcQLNCf0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal R, romein (40 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/tjTjQaRTaKhuGDUZCV6wB0UL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Lotusboom [Diospyros lotus]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/v1XfRVOiMbMDaOvpW9HpCqRt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal M, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/FHEJPCDTLFLKTVDSeO3byHBy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wapenschild van paus Urbanus VIII"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/a2fkVoFOhOTFYeJPaXVHyuPF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00318_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/JTfGgOfUJulCcVVLbBkY3jEG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Graslis [Iris graminea]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/NbhXMZizTXmeLBgdSNA5JkvQ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Parabel van de molen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/M1NgEYemTUZsEMMtYlxd9Djf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gordeldier [familie Dasypodidae]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/I2VA8KWRWWIGSDYQJsBPceGj.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal L, lettre cadeau (40 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/TZoLCdWbURXbZMgYltx7KZG8.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kartuizer anjer [Dianthus carthusianorum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/X1GUSKRVYQWgIc5aUAxQVYoR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Candor ingenuus [De  edele oprechtheid]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/z2OQZf3jadiM7PeVeVTlJBs3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal U, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/kVUuGgWcBRPJSSooXVmnp3ml.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_03497_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/A2ZaYkZegaUmVsPXMO0KqEVK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00745_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/m1oVMkdlktM5WRXlWclzmDr5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Driekleurig viooltje [Viola tricolor]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/zIPWNtjqYTxVVceHRGK3oXon.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De heilige maagd met kind geflankeerd door musicerende engelen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/K1WeHhQ4pPEutYfN8VKdNoiF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal A, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/yQifPKGfKXtTMlpCWMFv9ODv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00738_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/IZYPIUpVVfSTDdUPmEriJOC7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Soort vlasleeuwenbek [Linaria triphylla]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/P2dgXniINrSPfeYsFaGyxdu3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/m2gjiO4YRUZY4WMeCaQdDLHU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal D, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/s2UYYeEQppQCaObHBrcEzRFH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08403_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/y1TTdMVlRrOhSLRikov8UZHo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Fijne ooievaarsbek [Geranium columbinum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/r1aUNktZOeUUlGT5FgqDCSj4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Drie muntstukken keizer Heraclius: twee gouden solidi en een zilveren hexagram"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/y1wXjaWaAU6ULVwaaZYTqkAO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 267 en 268) met een decoratief bloemmotief"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/O1eYHHblmVTdrdNQXMRX641Y.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Blauwe knoop [Succisa pratensis]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/B2PLIZOXUJFwIdLJUU8P8WBE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Sola Fides est Vana Fides"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/u1o8boSDtjcWkVXXYYn5iUsK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08369_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/G2URdc7l8LKrRwQLINgIveQE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal X, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/Tco8jmcfHOVHUfEK168eKqYB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gespiesde melde of spiesmelde [Atriplex prostrata]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/R2HWhCRLRbkfYmUclWUs3ehZ.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal G, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/G2VVjSoOePH4QUVXr50ZE7O9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal Π [pi], Grieks"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/G28GOWK4PTBsPpfMNMU58W6h.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/A1ARlKRM5JdHNTSNVhgwPQXy.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De paus en de keizer met hun gevolg"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/z1SQDVBrXic5M9foecGlfvGe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Servitus libera [Een vrije slavernij]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/r1buUHgP9UvZOrRVTkgDLVHw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Donzige eik [Quercus pubescens] of andere soort eik [Quercus lusitanica]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/EMnhaebBOVJefRjKdaWIbH51.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal B, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/E1fPjcgZ7MLTWh5ElJoWzxWt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_07974_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/M2YEntRDThXXcnQm3oHbuMAx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De opdracht in de tempel"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/l1iTnbP8hJReXIfdj6j5XoML.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Gordianus III, die regeerde 238-244 (sleutelblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/NbSPCH9r8ZXRlncfWNFyx85L.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/nLQPASQ3eTh8kIbMPZ8u8YzI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Soort anemoon [Anemone palmata]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/bgiddc9DuGiUNpLTjDEvET3j.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De biddende koning David en de engel der wraak"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/qvWYabndmTGVEipfMVAO2NPH.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Anastasios II, die regeerde 713-715 (toonblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/P2atnZUdUEXQM7HnQPQrY7f4.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal E, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/k1rSH9TIJRLiDReCIayx0kaE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Soort anemoon [Anemone baldensis subsp. pavoniana, syn. Anemone pavoniana]: bloem en bladeren"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/i1iHAWVeUYijVicUfFZ5vOdP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gekartelde wolfsmelk [Euphorbia serrata]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/dZTldDwOd8ZMQXTOGSGGG29N.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kastanjeboleet [Imleria badia]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/E1obLRj9aaSOXTcPSeYu6gx1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Soort rupsklaver [Medicago polyceratia]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/d1BoGkeBYxbgMXeQXlqZoNmI.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09067_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/T2ibdS6IS34GWfo4ZYUpdpaU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Pax [Vrede]."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/y1WMMTgNJumqRMuawMlh6c8o.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van koning Albrecht II, die regeerde 1438-1439 (sleutelblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/p1mZ6heJDTKQPZmHVOkLeD8m.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/X2ihG7lHLuWYLKAjgEuagyIr.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Rhagadiolus stellatus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/e1TrRXatuISYMTbDoX1xyEtF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal M, unciaal"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/n2Kq6cZTiUEeTLQLebezh4Xx.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Grote egelskop [Sparganium erectum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/uMUJbdhVGSQUGcYIxCyUfLuY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Canope of Egyptische grafvaas met hiërogliefen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/vTUCTlRhdjGcAGKiQNQfYzpD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08328_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/dRX95ZT6giJl5MHkSXsYSpEY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet: sierlijst met bovenaan een vlammende urn (links)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/VZNKRWTVhgIbLRiAOx6cd74v.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Pijlbrem [Genista sagittalis]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/Y1cdPbPJVgbXQZUS4YDUd3nA.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Anastasius I Dicorus, who reigned 491-518 (toonblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/LETKFTqepbZTaicLVGcMXCIS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Zesrijige gerst [Hordeum polystichum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/FzRbASDbfX2BZTWSnj1OjUpa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal N, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/qeK9OPLwQnRdXOhePILyZvop.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Blazoen van de rederijkerskamer De Cauwoerde van Herentals"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/z1SoqPjQJNgHApKWNczqfoyS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De evangelist Lucas"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/e2QGWUOdOaoYNc8UbB4WCRDt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal M, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/M2YQQVglQVgRGPGHjdSK1rKO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tulp [Tulipa gesneriana]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/N1vTynTVbnomX8VeGPplA2eu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gewone duivenkervel [Fumaria officinalis]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/Hf7SMNbCIXFckSSYL3ni6klN.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Postumus, die regeerde 260-269 (sleutelblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/i1bQfTVPcllZHaMEiREB0xGC.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal D, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/R1UUhZoUabjIGCHeWpzjbM7Z.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Leo IV, die regeerde 775-780, en zijn zoon Constantijn (sleutelblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/CWeUTDfJwHRTLVydkizXkaPB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gifsla [Lactuca virosa]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/XNZooZaNkaOzJ3lTSa2BkQdg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: In astrologos [Tegen de sterrenkijkers]."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/H2gWavdiTYPbUdveaOoshpFu.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal S, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/j2PuSRbBDcXKAc9FJipcQLsY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal B, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/ZLEXQYMedL4cSehEg6kc2ZuM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kuifhyacint [Leopoldia comosa, syn. Muscari comosum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/lJVV8Sgro6bWQTdAc6RXPhiW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal Θ [thèta], Grieks (20 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/j1beQJhbNgVPPMKDZi15rOYY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van tegen-keizer Magnentius, die regeerde 350-353 (toonblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/F1ZeNQPlXrU6eVXLeJtis0nD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Scherpe boterbloem [Ranunculus acris]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/JSYPlEIcUNQdaZVgJCgE0xrw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Pijpbloem [Aristolochia clematitis]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/m1gfdbNTWDSgYOjljwwgsiJL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal F, lettre cadeau (45-50 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/jWlAgWWcQYNhjGdLMh9KRvqS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal L, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/L2BVRu9NNNQhYVfonBvZ1MwL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal M, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/DWR4FeCCTHbOUeBjSFGiOexL.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Turkse ranonkel [Ranunculus asiaticus]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/D2d4FHJCTYbRZHbVagmkdcM0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal M, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/U1ZYEO2lbKvr8aPZYJcFxlNU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 209) met een decoratief bloemmotief"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/H2VYT65ZdpYAbEeSOcWITgJb.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet: sierlijst met de piëta en de spijkers van het kruis (rechts)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/L2PWJQkaoMCQJBUHmoOtpIQO.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jezus wekt de dochter van Jaïrus tot leven"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/zodd8NVgtRheMUYHGLg1caoe.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal P, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/x1AnfQpQjYwwaEflcYGBHuIU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Snijbiet [Beta vulgaris subsp. vulgaris 'Cicla'] of warmoes [Beta vulgaris subsp. vulgaris 'Crassa']"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/VkhGJWu5DwaYlkkYZRinsL55.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal V, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/Q2GldFPboeTliOokgoHjf95g.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Honingorchis [Herminium monorchis]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/k1ap7VRmKQicSkfYSYYU1i5A.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wilde narcis [Narcissus pseudonarcissus]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/m1DKFZKViGXNMgfQYSoSdggD.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal O, romein (30 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/HjZLLjWDeXZMVgbHqTGwFDfk.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal P, romein (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/G2LUkZaEbTYZWfWaZG8I6Go7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00864_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/J197XaQX9OOfRXARvaSXm93p.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Stranddruif [Coccoloba uvifera]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/c1caACmUmDQVRDirUOq7UfWW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bokkenorchis [Himantoglossum hircinum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/B2NhXYPBfjGYUNskSSPGu3LT.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal D, romein (40 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/OSKQhc7Swik3FWnHOX7JnjCd.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Rozenkransje [Antennaria dioica]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/jXbIOTDUVXPReLfQjMvKcgCo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Valerianella pumila"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/q25LifWcSHRFUZKc4hrzhsVU.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal L, romein (9 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/dWHtWzEpgusopxZY8WYlPF7A.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kamferalant [Dittrichia graveolens]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/J2D9UeKVzZNnTxlKXheGsyRt.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08560_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/JEE3YaDHTkjd3fSUoPiqLZYo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Marcianus, die regeerde 450-457 (toonblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/D2cQCObpLc7LakfSoyLE17o2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal S, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/w1OXOQABUBYIDgTTDds9bEb9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal M, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/rP4WTTXdJbmkZI8PWFEPOeLq.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Pinksteren: de nederdaling van de Heilige Geest"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/Q25USNRXUdeUcR7surLIINIc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Zilverdistel [Carlina acaulis]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/l2GgJsTqRLTNFXfidlSW6iu6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 200 bovenaan) met een decoratief bloemmotief"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/f2hUV5mAfQLULQIXSYfEUkOG.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bergerwt [Astragalus cicer]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/V2VUZnvT6gToHPipgMmYoP9l.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Koperen Romeinse munt: sestertius van Tiberius"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/y1QgG9aCbvQYGHQIXiCxlEB5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal N, lettre cadeau (50 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/JkLgnhaeFIcIJfSqMq5NwZXV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal E, romein (32 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/PFEZNNTbjkeTSgXwdBzTQP7o.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet: sierlijst met aanbidding door de koningen (rechts)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/z14cqXCU4n4eBjOftarFyufa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wilde liguster [Ligustrum vulgare]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/B2hXSWSBZAKgeHGHHfXlgDuM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/F2RhQWTShCPInXKbG5f9N2SP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sedum villosum"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/n1NUFYpl2NR8JhQD8Yvfv4g3.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Geel hongerbloempje [Draba aizoides] of andere soort hongerbloempje [Draba alpina]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/J1POOHhSQCWAOWYWPEjU00Dl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, lettre cadeau (20 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/xObZDZWIVPYdTYBf9fmvvOg2.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Echinospartum lusitanicum, syn. Genista lusitanica"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/nmFIXIaQYplC7nhldsuS0bnW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00522_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/S1WLLiubNUOed8ITSpQ2855U.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Eeuwig moes [Brassica oleracea (acephala)]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/x2TFFUW3RPCjoNVMtXE5zbtc.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kretenzische wilde geit, Kri-Kri (Grieks: κρι κρι) of Agrimi [Capra aegagrus cretica] (?)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/XaSETkSOMYPIOk5HAsYTIHa9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De geseling van Jezus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/qhYGQigWMgO3oDMehN9v2sBn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bronzen munt keizer Hadrianus"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/C1mfVTGTbKTIhbDLQTpG8T8R.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal O, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/v2qQNKHLiaPcd8LgO6ExfaO6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Zilveren Romeinse munt: denarius van Juba II"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/xcGPMYYkwTeIQ9ROKuO4yhhw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Tempestiva prosunt [Enkel wat op zijn tijd komt is nuttig]."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/R2YXgWQQRYSWjgUFgUp81NZ1.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/m18NYCYKXPMThlIFYYCnzuku.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 210 onderaan) met een decoratief bloemmotief"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/b2QJKhgVRTZJhROobG9TrtsM.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal G, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/ywPqCRfNMPihcKfMnXPns13x.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Glad walstro [Galium mollugo]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/BccfNkelbXk7onhdUU8gbF06.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal P, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/g1TaDeRoQRMRoZKQLufsefTw.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal L, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/F1J9TGvqVWOBQWOTfliWrIlV.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wilde ridderspoor [Consolida regalis]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/l2GsJCxCcThIbQPUXWaltNkS.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal E, romein, enkelvoudige rand"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/a2FFqkUITqeoe8JSkYAwPak6.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/EymUaQgfSfLDXvQmkXZfC0dR.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Exotische vruchten"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/z1jsWmnWxbeaHuIJCdTqIi7Z.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De arend en de raaf"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/f1ladVRMPVxEKmHLSIuVL4NF.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kweepeer of kweeappel [Cydonia oblonga]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/p2QiSADWtN4LqTWESjgAiDkh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00406_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/N1AjkJ5TTeXgKkL5BRkK4LbW.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 108) met twee decoratieve bloemmotieven"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/s1NUTpSafY5mbYHThJPckLlf.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/hTVdSKFkVvdWqNlXPwmafR1f.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal T, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/bjeftgeerSr8ZDbaUZUjJnAv.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09351_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/d2SEhUTScViJMMrbKeveQm3V.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mattenbies [Schoenoplectus lacustris]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/DMhMBCObVLlgcVhXKgkzzKSY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 615)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/GRdJdOhd4Ph8TJY6UrMsWDKY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal D, lettre cadeau (20 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/p1fbFPSTIXhpdSnaln2iY7BE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Drymocallis rupestris, syn. Potentilla rupestris"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/kLbgiKOX8KlXYNkWacswd8LY.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal P, romein (84 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/tIVkXt9feKZkVLCHPjC07js5.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal P, lettre cadeau (50 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/S2VXYhGaDMPZSkFaUTVuJJLo.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: In sinu alere serpentem [Geruïneerd door eigen fout]."
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/uSicWLpf8KNg9agFUpdoGS6b.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08576_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/C2WvmqNLAL8VUdHDLPQA7l5p.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Soort vogelmelk [Ornithogalum arabicum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/P1GTco5iSQHejiaSrM5ZlBG0.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal A, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/Q1WYvriXKgmOLMPRdxHkZTsE.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Moederkruid [Tanacetum parthenium]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/sMVNdiJsRcbSCUlOJ4Fu9HYz.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09266_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/eiYDJVvcgSVcAoOPER9cmDES.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Geometrisch diagram"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/T2LNcjmQVXVh8YkWvOvsTY7k.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Aalbes, rode bes of trosbes [Ribes rubrum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/uHZUPZebW7PNlhHPUkbat8zP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De vermenigvuldiging van de broden en de vissen"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/D1ePKqL4hWjOFWQgiJt50FS7.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Moeraszuring [Rumex palustris]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/F2OfmCgRuabQhifNcSVy6s5C.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal H, romein (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/y2OoSHnlGPLSiwjJvBl4gX4I.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wollige saffloer [Carthamus lanatus]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/OPCDKYXCWWWGRPRQnfXhn16p.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal H, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/p2fIIMRkNaQIHfZUXadPSnce.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gouden solidus keizer Valens"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/PJZPCPWaEZaTjiiQAIouAKxg.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Muskusreigersbek [Erodium moschatum]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/K2lwPUDCeROiS3sLcxDgozbn.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_03761_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/f1ScSnFalZaBvIhmrFVDXvw9.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal R, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/QYIWNiOWZlBXHvnTaC2NdiAa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De maand september"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/b2hAdbaXbZpUpOiQliTjDjUP.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Philippus I Arabs, die regeerde 244-249 (sleutelblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/X2JLJJEKWPYnjMXVTXg2rmGs.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal I, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/P1VTeu7iagNUbcRYqe6xDjqh.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Soort streepvaren [Asplenium hemionitis]"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/LMHVAa2WmNXeboaOtslgS5uB.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Commodus, die regeerde 180-192 (toonblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/p1cSVSDCcWYjfnPKNE0SCRco.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De vlucht naar Egypte"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/D2XbEUJgVIdoQhBaSk5nhNZa.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal X, lettre cadeau (20 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/G1cnMFlOVlfkTWUSGDMwRiAl.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Zilveren Romeinse munt: denarius van Juba II"
+        ]
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/manifests/lLSFq7kQaLEHhYLRc35lkBkK.json",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal R, romein (16 mm)"
+        ]
+      }
+    }
+  ]
+}
