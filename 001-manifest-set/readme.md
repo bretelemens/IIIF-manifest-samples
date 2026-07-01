@@ -10,8 +10,7 @@ Toegang tot alle beelden uit een bepaalde verzameling, m.n.:
 ## samples
 [001-manifest-set/rubenshuis/collection.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/001-manifest-set/rubenshuis/collection.json) 
 
-Alle manifests voor collectiestukken beheerd door Rubenshuis in een collection. 
-* Deze sample bevat 3169 manifests in 1 collection.
+Alle 3169 manifests voor collectiestukken beheerd door Rubenshuis in 1 collection. 
 * Universal Viewer laadt de manifest, maar laadt geen beelden. > Komt omdat de collection de manifesten die opgehaald worden in DAM! nog image uri's bevatten met dams.antwerpen.be als domein.
 * Clover Viewer laadt de manifest, maar laadt geen beelden.
 * Glycerine Viewer laadt de manifest, maar laadt geen beelden.
@@ -26,8 +25,7 @@ Alle manifests voor collectiestukken beheerd door Rubenshuis in een collection.
 
 [001-manifest-set/rubenshuis/paged-collection.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/001-manifest-set/rubenshuis/paged-collection.json) 
 
-Alle manifests voor collectiestukken beheerd door Rubenshuis verspreid over 13 IIIF sub-collections en toegankelijk via een IIIF top-level collection 
-* De sample bevat 3169 manifests, verspreid over 13 subcollecties van max 250 manifests
+Alle 3169 manifests voor collectiestukken beheerd door Rubenshuis verspreid over 13 IIIF sub-collections van maximum 250 manifests en toegankelijk via een IIIF top-level collection 
 * universal viewer laadt niet.
 * Clover laadt niet
 * Glycerine laadt enkel de eerste subcollectie
@@ -41,8 +39,7 @@ Alle manifests voor collectiestukken beheerd door Rubenshuis verspreid over 13 I
 
 [001-manifest-set/mpm-woodcuts/paged-collection.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/001-manifest-set/mpm-woodcuts/paged-collection.json)
 
-Alle manifests voor afdrukken van houtblokken in Museum-Plantin-Moretus verspreid over 37 IIIF sub-collections en toegankelijk via een IIIF top-level collection 
-* Deze sample bevat 13793 manifests, verspreid over 37 subcollecties
+Alle 13793 manifests voor afdrukken van houtblokken in Museum-Plantin-Moretus verspreid over 37 IIIF sub-collections van maximum 250 manifests en toegankelijk via een IIIF top-level collection 
 * Universal viewer werkt wel bij deze sample (nog onduidelijk waarom). beelden laden niet.
 * Glycerine laadt enkel de eerste subcollectie
 * Mirador werkt volledig en laadt ook beelden
