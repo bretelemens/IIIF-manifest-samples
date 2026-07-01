@@ -21,8 +21,8 @@ Alle 3169 manifests voor collectiestukken beheerd door Rubenshuis in 1 collectio
 
 Alle 3169 manifests voor collectiestukken beheerd door Rubenshuis verspreid over 13 IIIF sub-collections van maximum 250 manifests en toegankelijk via een IIIF top-level collection 
 * [Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/paged-collection.json) laadt de subcollecties, maar niet de beelden.
-* [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/paged-collection.json) laadt niet
-* [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/paged-collection.json) laadt enkel de eerste subcollectie
+* [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/paged-collection.json) laadt enkel de eerste subcollectie en thumbnails
+* [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/paged-collection.json) laadt enkel de eerste subcollectie en thumbnails
 * [Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/paged-collection.json) linkt niet door naar subcollections. 
 * [IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/paged-collection.json) accepteert de collectie niet.
 
@@ -30,8 +30,8 @@ Alle 3169 manifests voor collectiestukken beheerd door Rubenshuis verspreid over
 
 Alle 13793 manifests voor afdrukken van houtblokken in Museum-Plantin-Moretus verspreid over 37 IIIF sub-collections van maximum 250 manifests en toegankelijk via een IIIF top-level collection 
 * [Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/paged-collection.json) laadt de subcollecties, maar niet de beelden..
-* [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/paged-collection.json) laadt niet.
-* [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/paged-collection.json) laadt enkel de eerste subcollectie
+* [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/paged-collection.json) laadt enkel de eerste subcollectie en thumbnails.
+* [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/paged-collection.json) laadt enkel de eerste subcollectie en thumbnails
 * [Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/paged-collection.json) werkt volledig en laadt ook beelden
 * [IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/paged-collection.json) accepteert de collectie niet
 
