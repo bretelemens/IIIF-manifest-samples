@@ -1,0 +1,2358 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/subcollections/mpm-woodcuts-subcollection-44.json",
+  "type": "Collection",
+  "partOf": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/mpm-woodcuts/mpm-woodcuts-collection.json",
+      "type": "Collection",
+      "label": {
+        "nl": [
+          "Museum Plantin-Moretus – all woodcuts"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "nl": [
+      "MPM woodcuts – deel 44"
+    ]
+  },
+  "summary": {
+    "nl": [
+      "Manifesten 10751 tot 11000 van 13793 uit de set all woodcuts."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "deelnummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "44"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "totaal aantal delen"
+        ]
+      },
+      "value": {
+        "nl": [
+          "56"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "aantal manifesten"
+        ]
+      },
+      "value": {
+        "nl": [
+          "250"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Stad Antwerpen, Museum Plantin-Moretus"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://data.antwerpen.be/agent/museum-plantin-moretus",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Museum Plantin-Moretus"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://museumplantinmoretus.be/",
+          "type": "Text",
+          "label": {
+            "nl": [
+              "Homepage Museum Plantin-Moretus"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://dams1.antwerpen.be/iiif/f2JnQPdZQBNbVnRVSFa4MWAd/full/full/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://dams1.antwerpen.be/iiif/f2JnQPdZQBNbVnRVSFa4MWAd/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00523_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/y5ZZSdGJECbmBUHQVHqfqQtt/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00737_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/FV4QZlrkWDXLkPnFp0H5OO35/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Pietas filiorum in parentes [De liefde van de kinderen jegens de ouders]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/yPITiNQbIJSLL9ECP3m5Mfmc/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Springkomkommer, spuitkomkommer of ezelskomkommer [Ecballium elaterium]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/k2bP2geRQwN6gcZjKXaF5Cto/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal F, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/s1LVpPcLsDEMhClebPts5Mc2/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kosmografisch diagram: Geboortehoroscoop van Heinrich Rantzau [Henricus Rantzovius]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/NZOeQQVrhYHySafTnJuK15Sz/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Watergentiaan [Nymphoides peltata]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/IlsVhYkn9fSerl8ZbLBueVMj/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal S, romein (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/GqDKWeb8PCx3gVSmGL6kFZF4/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Cirsium pannonicum"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/pVMPWJYEkLojeURUUlIBfpr7/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Variëtiet van sierpompoen [Cucurbita pepo] of muskaatpompoen, muskuspompoen of muskaatcourgette [Cucurbita moschata]: vruchten"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/G1R2n8NVYTGThcpRU8xDBqyu/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Grote muur [Stellaria holostea]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/n1XRe1q4cJKjdQVlEVWqsplm/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Witte waterlelie [Nymphaea alba]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/P1aHeLaalojHfGVigsgBM2bK/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal D, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/BTXZqUjeamXeTAMWRl4BZU5a/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_02457_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/F2SVQYKFD5jScfPbOS84smrK/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_03492_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/L2bciWrHOdjIcVGRTsbfehqF/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kosmografisch diagram"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/jnKIDMwOeJf7hWonV4uTSbmz/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Cistusroos of wit zonneroosje [Cistus albidus] (boven) en gele hypocist [Cytinus hypocistis] (onder)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/V2KONTOKMKqDHgWpzNLm4W5J/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal O, romein (42 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/S2pTYVRrGKUhcRSbGdv5SOhx/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Abimelech valt de toren van Tebez aan"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/x2nfmTSiQgbmMcWUXIru7lGj/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00673_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/o1iQUfXTX3fED8nkgJP4j5so/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal V, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/b2eVHPg4PXd9UelHbx9V4wrT/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Turkse ranonkel [Ranunculus asiaticus]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/DHgUQmcMkMlAjAXMAG3hlqpx/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mozes verbrijzelt de stenen tafels der wet"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/s2HEjVZkhd9LGWQ7XlbGaoaQ/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal A, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/tYaHXrLTSIATGIkt8EH84Kyn/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00434_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/k2GTaPMdEIZVxNhiuNqyZqOt/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Dragon [Artemisia dracunculus]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/l2SsGYiZJVLGXGOhFu8Uf1Oa/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bostulp [Tulipa sylvestris]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/KbgebRbcOPZaEVnJDxiTyYiZ/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Andreaskruis of crux decussata"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/K2S8sXIVTXhMgoYRqEQkdVuz/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Grote kaardebol (gekweekt) [Dipsacus sativus]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/B2OBnOPgGMNRVDkQTV4qXxYY/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kaart van Kanaän"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/uITUPNfWqdRHaguPGzHs8OqW/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gave brandnetel of Roomse netel [Urtica pilulifera]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/hWVaoEEhjKg9OWaVh798IpwN/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Toneel: Perseus komt de geketende Andromeda redden, bewaakt door een zeemonster"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/x1mUEX78UksXKCRPfQIeBn6s/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Geometrisch diagram: ... [theorema 19]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/v2DgOuSAaPthUUTLdM1FzC3Y/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Grote bevernel [Pimpinella major]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/e1RlgeeTiUZOYgFcoefCNdSB/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet: sierlijst met Jezus geblinddoekt (onder)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/DJpVfXJNYvhZUeVfVifGELLB/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00458_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/V1lIaBZaRmWGSrbNebaDqWK8/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal D, romein (13 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/v2QpSH9bNcVVwXhPUe1KUEmz/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal ו [waw], Hebreeuws (30 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/ZMhUHCGUOJMFXTQTmBfrkvT2/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: AEquitas senatus [De rechtvaardigheid van de senaat]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/I1SWDUSanIml7hVheMbpE8RJ/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Soort kattenkruid [Nepeta nepetella]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/ESkdjYKW4OkuLZVakCsuQZzU/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08382_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/U1XMITJT8WUAN9TSeXdnTDNS/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00558_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/IG1TZVIVALk7daOmRyPgV685/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal P, romein (15 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/hsTV9NefY6QTZ6lYfE08m0zg/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00415_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/q2dWfbHSRdcbbcMiNPMxa7Gv/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 369 onderaan) met een decoratief bloemmotief"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/vUSQNcXTlchOOcboLQqHf2N8/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jozef wordt naar de gevangenis gebracht"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/w1LSlIKNXWUhZIRZZnY3K7tH/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal V, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/P1AjSGWCoNaKUccQgMlHORZx/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Paragymnopteris marantae"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/H2OYiVMTVH6nYYaPcH45BiRz/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09245_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/V1YIWNINGZT9EKOrLiifbVWj/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bont kroonkruid of kroonwikke [Securigera varia, syn. Coronilla varia]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/y1ujIcEQSZOESJpXdba1t4An/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gekroesde melkdistel of ruwe melkdistel [Sonchus asper]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/e1JicIVPYhVSRXLeVCF19NuK/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_03775_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/I1EnScEeOdImUJOgVeghTMV9/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00881_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/v1OUNYV6paMJOYQVYiSHX9vF/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet: sierlijst met vrouw met mand (links)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/q2TONGQoThKeRZUWeaTbxSIj/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08925_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/uSKSQcMdhGSJk4IaBwZUGDTr/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_03498_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/H29HMATKoUphTeDPQi7oftVj/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/e1fGYjXwBlPAJIKlMVlc9sLO/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De parabel van de talenten"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/n1hSWArdUSn8WIIONdYCiqAJ/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Europese lork of Europese lariks [Larix decidua]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/TSqSeaxBYi9TMtSpYZDrSPcm/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Italiaanse wegedoorn [Rhamnus alaternus]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/F1JP43ONaRWLLBLkTQR4BNJo/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Ex pace ubertas [Vrede brengt welvaart]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/VIUiFj6pP9QWWXShakiHOW7V/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal onderkast l, textura"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/bnQkFQZqUJOBnPRTVjYh9LBU/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bosdroogbloem [Omalotheca sylvatica, syn. Gnaphalium sylvaticum]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/JePRRVYfOdCSrpREZJZIBMy9/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ze moeten al het graan van de goede jaren verzamelen"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/o1XXgZGjgXFSWQZBkdbPThAp/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal J, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/W16nPWXHR8rIewPUYSE7geyl/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal L, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/wMrcaZGTIGigOgtKgeZE4JNH/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal D, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/D1fLJNVHKoMO4QceDSHLEYj5/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal B, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/cSWTeKUrchGZIeZEVcrf9MRx/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Duizendblad [Achillea millefolium]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Q2OUFPlQMVhROPZORAvm66zk/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sneewbal [Viburnum tinus]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/A2KzjTauZWV9tX3bmgVXcwVF/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Piramide en hoorn des overvloeds"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/GiFNUcuW5C7zWYBLEWnfC3dF/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 629)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/V17OclXRjPYn7LccSQdSEdKE/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal Q, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/OD6DtE9iJMgXtHnWwiiT9vmP/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 560 onderaan)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/UZSfPCgfSvZUnWVSAs15j23B/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kochs gentiaan [Gentiana acaulis]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/U1QNXaVCFvHagWSlcdYI3fl3/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal R, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/gBobWtKagfTKB8X4UKRGcBGF/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein (29 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/uMWgO7b7PVXz4qVZY4vyxZW2/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal W, romein (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/L2i6KlWJhlW8dKqLlbiub7IN/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Dalkruid [Maianthemum bifolium]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/EmTBOKXRJlimhWcaaVily13i/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet met tronend Jezuskind met wereldbol in een nimbus"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/vBTkdWqWJpBdMMjtJ9JIA6jN/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal J, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/P2FLHJAg7EYNUVTCeUc1O2f7/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_03444_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/EKVQEXhdWPrYKSRctLayl63v/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal E, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Z1ejBaRfYdTLVVbVRgF1H3i2/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Grote brandnetel [Urtica dioica]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Y1RaRWWBaOVEXhclTPLksdN8/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Soort muizendoorn [Ruscus hypoglossum] of Alexandrijnse laurier [Danae racemosa]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/PdVkKTISqdEpJYWbEj8jsQow/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Lidsteng [Hippuris vulgaris]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Z2jGcJNPLHVrnUX3etQ0TNEO/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 533, 534, 537, 539 en 540)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/D2UKNxYTWMQeCmBvie7asm0I/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Salamander [orde Caudata in de klasse Amphibia]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/C1b8qYhIYVibbqJcPbKiJZWD/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wilde peen [Daucus carota subsp. carota]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/jKGAwfjSKUfoDZBfoU0trxy6/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Hertsmunt [Mentha longifolia] of andere soort [Nepeta nuda]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/H1kbVNTsoTYO9yWKiImYRoa9/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Parvam culinam duobus ganeonibus non sufficere [Een kleine keuken kan geen twee slokoppen bevredigen]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/l1CdKQRUNpdghJV9fc2hetlR/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_03456_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/k1UBdgmTXWhOooVPWtBLHjaA/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Usus &amp; astutia prosunt [Winst door ervaring]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/t1VfPJFmrTfSrSgoTfm5W4Xi/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kleine duizendknoop [Persicaria minor]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/lMsnJDDigQ6XdLKmMPHtneC3/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gehoornde klaverzuring [Oxalis corniculata]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/FgCuZrgZhICaBe7oQoNT2ljs/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gewone brunel [Prunella vulgaris]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/i2UAZOdZotHbkBRpZOKXQqCb/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal G, romein (90 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/S2DpVZJUgDPDOYXSSbzsMXeD/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08458_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/e2VaAROaglSWA8jGUZwZhpfl/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De kruisiging"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Q1ixFfNjoUXYJeeZIGNfyMpG/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Smalle weegbree [Plantago lanceolata]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/MEleMjWYrmJETeYkYCxi7qRj/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Ark van Noah: vorm van het dak (3)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/aVkiimPHFZCEAJ9IRc4VrNri/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kikkerbeet [Hydrocharis morsus-ranae]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/BRjVFkYaXSsLkuYRnzhCjC3i/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Puntkroos [Lemna trisulca]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/HIACZekKsOVI9QcYNghHwRrY/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van koning Albrecht II, die regeerde 1438-1439 (toonblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/vSZMrU4tq8EVlWPTTA510k4s/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kosmografisch diagram: de maanstanden"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/r2PoZWGXEMSaGfXCNIFEdEtr/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Bokkenorchis [Himantoglossum hircinum]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/T2gbNersBhYMUkioRMU4wfki/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal N, romein (52 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/M2i5qYPVOYXLTVUxNQrnoWBk/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal C, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Q1drTmGQcMYAdRhVWfXE4emk/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/WFIQV6lxabYPIBPhdk4dXrhZ/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kleverige alant [Dittrichia viscosa]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/D2LaVFccgPNRfqZMpNzl5c7n/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Varkensvenkel [Peucedanum officinale]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/r2hkALtPXkZlUgXrYTxXWwU3/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Avaritia huius saeculi [De gierigheid van deze tijd]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/C1PSZPZb9qVMWqdVCFHaPR3P/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Christus als Salvator Mundi"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/n1RvJ4aWTWcQEiSrkQmemnl6/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08462_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/d2k4eUQUYIbRSKnPCR0BPtt6/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Libanonceder [Cedrus libani]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/S2K7OhRCVjahUPHLhCO5ysqd/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Deum odisse impudentiam [God haat de schaamteloosheid]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/u2PPUaXWKecKxEmFFVjhze9w/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal P, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/c2AmfT8BGTILjRCLBhRzoPf5/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal S, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/c3lagieGRQ6EYlSQeQn3Kkgw/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Magnus Maximus, die regeerde 383-388 (sleutelblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/t1zNYWQYLehblBVpETrp1crc/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jurinea mollis"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/bwFQcq7UQRbbJUXNrREOluAV/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein (42 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/h1DLSBVfReVLdgoeTP1ncf8N/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Smalbladklaver [Trifolium angustifolium]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/c1PftmkSjEFOi7I2VONlkhJB/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Jezus en Maria in de hemel aanbeden door de paus en de keizer en hun gevolg"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/x1jhcTVkhgnSWLMQu8KxiqL2/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal F, gotische kalligrafie"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/d2Kd9nkGElar2mcRoEDIXK7H/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wapenschild van koning Íñigo Arista van Pamplona"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/A1TUWicgLJVZW7OIZZCD6g4r/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Twee Romeinse sleutelringen"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/G1gTISGOYZPToXgcge8eMHd9/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein (23 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/tTSEX6hqjYSDSHOdf8qtmgTM/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wilde cichorei [Cichorium intybus]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/cXhUIGJXYbacbEXnWjPaB59i/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet: sierlijst met cirkelvormig bouwwerk (boven)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/A2Bt4fKQiMVEPliidVuFaefE/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Lotharius I, die regeerde 840-855 (toonblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/w2DUARIfdFbU9bgaJFAseKv8/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Nutrisco &amp; extinguo [Ick voe, en doe te niet]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/SEpfrVdghcDhcptUJXrLdkw5/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal X, gotische kalligrafie"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/K2KESLLvmSQsUOZRVrVlUINI/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal H, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/O5fosm8IgZVRXYVJe7wtEARz/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Duifkruid [Scabiosa columbaria]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/M2MfXP47mOUZbSENjdOhcXSZ/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Tolerantia [Verdraagzaamheid]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/lZfWfRfSOBmGRfcpcVWs2rtU/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 510 onderaan, 512 bovenaan)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/tI4fXancYhMjVJ934NOZ7RFu/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, romein (42 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/dRaVLdShZLXgggbaTzMxbgbr/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/G2TOFQNMiZWqISe7XOpMsjak/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal S, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/a1BXghJNRLTZGH7Qla02psff/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 206 bovenaan) met een decoratief bloemmotief"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/cdXQJan7GJ8TGiCfCn5w53yA/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Aesculapius [Aesculapius]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/h2RYwtFHURQCrNWcAPJ1YgUE/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Witte nieswortel [Veratrum album]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/HDXVRcRaHUjnhiVFNMsHUSrC/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vroeg vergeet-mij-nietje of Amerikaans vergeet-mij-nietje [Omphalodes verna]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/LIEiKKRYER9YhNRNm84rqyNR/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kruipertje of muizengerst [Hordeum murinum]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/q1eVWjMcUcPQTikbWG72zXkJ/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Blauwe ossentong [Anchusa azurea] of Anchusa undulata"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/BWggUri8oZRfoTeWIJBMhsiM/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal A, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/YPKnTOPFPiURlXMSlHj4v4Yx/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 464 onderaan)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/K13RdXBPTQVYJgYkGfl2P8ix/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08978_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/nhqMnTsHOZhcMf3ufPhr9VGE/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal K, romein (15 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/iYUrnSIID5FbocFfZa6obTBI/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Poco à poco [Weynich tot weynich]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/BRpTceNT5OLZqBcUbX0EGqUA/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet: Jezuskind met kruis in een cartouche met hoorn des overvloeds aan weerszijde"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Q2DNBKIiMAVPOE9QTLWCODV6/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wetenschappelijk diagram"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/T1WUF8Zemr2RZNJIjQ2LZvHj/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Tulp [Tulipa gesneriana]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/W1EKjHPlEYR7VCIJHch7PmNQ/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08107_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/H1TYoVe2OBciOXDUVREpSY22/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Glad walstro [Galium mollugo]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/o1UeN4dQIn7PmRWGuWWhEir6/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Echte kikker [familie Ranidae]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/E1eWPE8eKReAXRbNeZIZu6QV/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Rivierkruiskruid [Senecio sarracenicus]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/gbYWWsTbkSUhbKbQNhjx3LNm/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Basilicum [Ocimum basilicum]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/qbTScI7KKUQIXDTUvobBODX9/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Patientia laesa fit furor [Gekwetst geduld slaat om in furie]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Y1iYaLNLcW5JIdWjJPwaBVcw/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Lievevrouwebedstro [Galium odoratum]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/jvPoaRGRiOVVTiRPdO31OPqn/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: In Deo laetandum [Vreugde vind je bij God]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/BzNMKOYQ4CtZYOILYLMqu9qo/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Initiaal R, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/A7IMdJYeMPbPemNVbRgO6Q9K/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gewone rolklaver [Lotus corniculatus]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/P2WoRKTJIPORNEIEeZNekA5r/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08519_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/ODEHUKSzWeTgaL6HZS0PKVid/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00559_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/v1JLfFVNIYaCTbenVfii0cro/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wetenschappelijk diagram: Oculus ovillus"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/F24oWfNlTHpscJJRedIM2AwW/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Drijvend toneel: Jozef bevrijdt Jacob en zijn geslacht uit de slavernij"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/z1fPEngHKNRQlZUoOcIcP4aM/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09403_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/c2SEJaPJRdAToKWeGnBcB0Fv/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_13794_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/RRhxkSTpGBPOBSEGcIr4tt7H/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09402_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Y1dPVUPMGMakVkcXagZZSOIL/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Et l'un &amp; l'autre [En d'een en d'ander]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/i24T7vRQpQeXaehDPMR3EtHM/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Smal streepzaad [Crepis tectorum]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Y2jgZZnTaHSNOfBbbcsBXGQh/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Soort pompoen [Cucurbita sp.]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/eZEWGGZDPgMhWRMUjUciao4J/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Muntstuk van keizer Crispus"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/S1jHnfRUSVIYhYcUZfySCj0d/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal M, romein (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/fMVakY3JMcdLRVcOV8LkdUw0/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kaal breukkruid [Herniaria glabra]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/O2VkUXk2UVFbqlYWllKLFmiA/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08338_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/m1WWPKffNaHbXMbOTE5zhH0v/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Duinroos [Rosa pimpinellifolia, syn. Rosa spinosissima]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/t1jmJFMaYmDPAQPfYSlMtaD3/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Taro of olifantsoor [Colocasia esculenta]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/pEbjMhMWUIYhqQarYuK6LY9T/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Donderkruid [Pentanema conyzae, syn. Inula conyza]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/C1k8PTwPljMYvQUSwL77On84/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal F, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/l1gMJFYldIKKUDQOfYA7DM5L/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal R, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/eeWhMeOlMxgtUabPdPGzTGUB/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Mais of maïs [Zea mays]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/U1BsOOTcR9hwRG6ieZ4cYNvR/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Valeriana celtica"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/E1sPHJSHlbKkPKeYnQ5TT9FM/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet: twee knielende engelen aanbidden het lam Gods"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/r2WIIPQeOzKsmThogTXweb39/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Portret van keizer Valentinianus I, die regeerde 364-375 (toonblok)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/D2VVbdQ9ATidwHfUCDZM5Q0P/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09231_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/J1SjRJbfXRPQWPCCbBGQzFi2/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00750_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/YOaOcJNTEYeTXIWTRSwf34rm/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kraamwortel [Aristolochia pistolochia] of rondbladige pijpbloem of bolvormige pijpbloem [Aristolochia rotunda]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/K1FIMkSWqDYeYaXGQUHV0kFe/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 246 onderaan)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/WSOPBRBmULblZ8bXI3AHFWOh/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Monogram van paus Nicolaas I (858-867)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/O2SGZUTQhVsamfRbTKocBF52/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Nullus dolus contra casum [De macht van het toeval]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/g2hRVt9SjoGvSPXeMJSXi7IF/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Pijlriet of Spaans riet [Arundo donax]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/P2TiOKdebvOaQRcLRN3vzGEw/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Rozemarijn [Salvia rosmarinus, syn. Rosmarinus officinalis]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/j1hONTanTUWtHYBMPc4kIzsU/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09200_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Q2fjHROeZQbhwgSh3A3428gs/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De boom van Jesse"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/q2ksRkWkiRcNBsZtKadRoEx3/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Luzerne [Medicago sativa]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/b2IdlQUYKIYEVYTHhu4CxZD1/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal B, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/SVaXkMsgQTLWvEN6ICMdhgAu/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Diagram geometrische optica (p. 430 bovenaan) met een decoratief bloemmotief"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/i2Ju7fefejbOYTewXxiCo3RM/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_08506_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/ThFRpbADXHnZjSeQWfFt5bDY/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Drukkersmerk van de Officina Plantiniana, als sluitstuk"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/v1fObBbQhMXmjOjmZeJkxUGl/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Peruaanse peperboom [Schinus molle]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/fvV6cQiiVs6Lk6ZmolZ1HopV/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Gewone sering [Syringa vulgaris]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/J2XbOgfccbUXcMiMASPDjxQN/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/j1mjPMmOuIJcySYUKYLVOVZc/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Exotische vruchten"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/F1ZHVbvBhWn5HgBSQYFOdUrN/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Simul &amp; semper [Altijt en oock te samen]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/C2AKUPOtFiocNTQVICqaCeRY/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Stengelloze sleutelbloem [Primula vulgaris]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/f1vb7QB3Pai9dSAXITvUKRjy/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal D, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/n1Q1XlKkOfbgVHSZJjfxc9n2/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De droom van de farao"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/OinmHhTSXDnMaRCdPFIJ57sR/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_03475_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/x1N6cNnJpASQUXwbffhLugvH/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Vignet: sierlijst met heiligen en martelaren met hun attributen (onder)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/LAfZWVaPlJXVdxNJZiFr0zlh/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal F, romein (29 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/x1ITgSQJ8hcP9YWaOX0l2IZN/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal R, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/q1ccYnjVfNGkSAGbPQFyrvDk/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Kleine bevernel [Pimpinella saxifraga]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/D2YgpMTTr6EUX6AaeGxfqO5i/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal T, romein (42 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/n1OZZdONeQgdUgEiOcHN3u1m/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_09378_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/T2TEMkMTfbGWxXfIaXI1swit/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Adam en Eva bedekken hun naaktheid met vijgenbladeren"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/M1IagSoZEU8EWDQaVWUxw8Qr/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Deum &amp; ama &amp; time [Heb God lief en vrees Hem]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/R2HPW4BE7jPRO6BWSSufv3hV/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal D, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/T2ZcZbrLUUTqOIRmMjBcqpi8/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Akkermelkdistel [Sonchus arvensis]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/v2ZmUGubSrCEV9bTKVAoQFW8/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal M, lettre cadeau (65 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/e1EWeTqffgvAaJRVBvQCbeqj/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Heilige Catharina"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/jNWeEDASrQS6gdfhuRQUNbz7/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Geometrisch diagram: de som van de lengte van twee zijden is altijd groter dan de derde zijde [theorema 7]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/R2YMVSaeROaS4abVGjVtvCgj/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal K, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/K1RWljGWf8mblaSRSarJdYgO/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Zeecrucianella [Crucianella maritima]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/z2I6ZXY8gNIViJqTJJeGLyIT/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal H, unciaal (54 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/juMZZCmxNXZWFV5gR4dlgy6h/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/jPXYIKNoXOh9aK6mDVmAgUuC/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Puncto iunguntur in uno"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/G2IoNhZOt1OJuUZVTKa6cDFi/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00620_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/F1bQPiGcOYbqeEQgbc0FSUwV/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De kruisiging van Christus"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/p1TEsWjSp3PbSPnFUGh3MLGt/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Iniuria gravis est omnibus [Onrecht is voor iedereen een zware last]."
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/j1itbY7eGiW73qdndAZFbwpV/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal C, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/LvOcNljFidWgScIZdEVmsnyN/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal D, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/v2cWD7nRVSZIgTZNUCaUVsyj/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_13740_recto_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/NUQqSJHUPAXKMJeIWTxQapea/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal P, romein (22 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/LWoXvriOLRuGPiWTKi0u041u/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Lange zonnedauw [Drosera anglica]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/x1eUQMaSocMdVDgYIW2pgPK9/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal P, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/CVRVGpqFKf4WNCOAWFBR8xBM/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De aanbidding der koningen"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/R1PNWJitdZkUfcTDGcBfJFHP/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal Q, romein (32 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/x1VWegCT89bTXF2ETdwopkN0/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wede (wild) [Isatis tinctoria]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/a2YUXjPEQrfRTFReaXADtdAU/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Heermoes [Equisetum arvense]: met bloemen"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/tTKZlLdNWedaXCYOM5faAca7/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "MPM_HB_00327_afdruk.tif"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/Q1nQONjWhIHyQhEXEY3Mtb75/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Romeinse sleutelring"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/c1ubehGMQzYmvXxYduRf9HGF/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "De visitatie"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/F1B5pBJeO9ObTSlLMFc3THTh/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal I, romein"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/b2cQKLiiXQKXgYGUssbIvd6E/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Emblematische voorstelling: Justis laetatur, iniquis Officiis afflicta dolet"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/n1TDNeOJ8ZdLSWQHFE5hquE0/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal Q, gotische kalligrafie"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/M2IdmRfFDZaOdhj2fOj5nVdR/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal Q, romein (16 mm)"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/sdYUq9UfZYbAFjXQfr2Q8Wcm/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Wolbol [Colchicum bulbocodium]"
+        ]
+      }
+    },
+    {
+      "id": "https://dams1.antwerpen.be/iiif/GLbicUfKTPEdkfOFBUt2iwl1/manifest",
+      "type": "Manifest",
+      "label": {
+        "nl": [
+          "Sierinitiaal B, romein (58 mm)"
+        ]
+      }
+    }
+  ]
+}
