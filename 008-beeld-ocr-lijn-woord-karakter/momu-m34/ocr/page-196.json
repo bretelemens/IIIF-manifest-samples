@@ -1,907 +1,832 @@
 {
-  "@context":"http://iiif.io/api/presentation/3/context.json",
-  "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2",
-  "type":"AnnotationPage",
-  "items":[
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/1",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"can mijne vrienden bedienen alsoer imant in Brussel",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=284,26,769,63"
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/ocr/page-196.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/1",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "can mijne vrienden bedienen alsoer imant in Brussel",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=284,26,769,63"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/2",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "oft Antwerpen soude connen wesen ende dat alle",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=278,61,760,57"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/3",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "devoiren doen om calanten te maeken daerom",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=276,98,746,69"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/4",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ingevalle dat ue ien moghte noodigh hebben",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=282,145,738,70"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/5",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "bidde my te commandeeren oock als ue ot",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=288,186,697,65"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/6",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "imant van de familie overcoemt mij deere",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=277,219,736,63"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/7",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "aen te doen van eens naer te coemen. het gesicht",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=276,272,764,56"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/8",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "it ue altoos geschoenhen ende het aensien doet",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=277,304,749,60"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/9",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "gedencken en twijfele niet oft ue sal vernoemen",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=285,362,754,56"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/10",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "hebbe dat de versche goederen alle sijn aenge",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=282,382,757,69"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/11",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "coemen hebbe het schoonste sortiment dat men",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=278,432,754,50"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/12",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "sien can van laekens tot ue dienste recomman",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=275,471,771,54"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/13",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "deere mij in ue goede genegentheyt en blijve",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=267,510,774,65"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/14",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "naer groetenisse",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=279,550,395,72"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/15",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "adj 10 mej 1709",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=778,588,184,69"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/16",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "Thunhout pBMeurs",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=220,593,418,71"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/17",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "en hebbe in lange het geluck niet gehadt te hier over te sien ick",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=287,661,747,68"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/18",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "verhope even wel dat ue wel te passe ie met den swaeren",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=283,709,697,58"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/19",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "winter soo heeft het al lanck aengeloogen eerder versche goederen",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=282,730,775,76"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/20",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "uyt engelandt sijn gecommen doch nuisser sortiment van",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=285,784,747,58"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/21",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "alles ist saecken dat ue u iets noodigh hebt, ue can sijn gerief",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=285,822,772,70"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/22",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "van alle soorten van goederen vinden soo spaensche als geperste",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=284,870,784,65"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/23",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "noortsche en dosijnnen van alle soorten van couleuren en",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=281,912,761,64"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/24",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "prissen. ue en gelieft mij maer te schrijven oft overcomende eens",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=282,940,783,93"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/25",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "naer te commen en sal ue seer goeden coop dienen woone",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=281,989,782,81"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/26",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "recht over het post comptoir in het hiddorpen blijve",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=284,1030,706,71"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/27",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "Adij ditto",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=767,1061,198,67"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/28",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "Theandt Saedelaer",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=214,1075,248,75"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/29",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "de ue van 10 past. hebbe het sijnen tijde wel ontfangen",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=277,1110,765,57"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/30",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "doch dat voorders niett hebbe vernoemen doet mij gelooven",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=280,1157,780,52"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/31",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ue van mijne goederen sedert niets en heeft gedebiteert",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=281,1183,753,66"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/32",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "het is soo schoon sortiment als men can afsenden en",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=276,1225,762,59"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/33",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "seer goeden coop doch het slecht debiet schijpt overal",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=275,1264,780,67"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/34",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "te wesen. ende daer moet men sich tot aldertijdt toe",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=282,1301,750,53"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/35",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "en patienteeren ick recommandeere ue dan mijn",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=284,1338,749,57"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/36",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "intrest waer te nemen. ue heeft mij geadviseert tegens",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=279,1373,762,64"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/37",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "het eynde van de maent iets te remitteeren, can het",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=279,1420,789,34"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/38",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "geschieden soo sal ue mij perticuliere vrinsschap doen",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1137,27,795,57"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/39",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "want moete present wat sterck betaelen dooor dien",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1126,61,776,52"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/40",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "het hulsch convoy ende dat van london seer naer te",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1132,110,788,60"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/41",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "saemen sijn overgecoemen hebbe seer schoon soriment",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1130,141,814,59"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/42",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "van alderhande goederen ingevalle ue ergent toe",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1132,183,778,65"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/43",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "occasie hadde wat het oock moghte wesen salt ue",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1126,223,778,59"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/44",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1927,107,46,176"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/45",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "op een cleijn winste overlaeten die blijve naer groetenisse",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1129,259,825,79"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/46",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "mecalen h. Cfaydherbe",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1090,302,325,65"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/47",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "Ady 10 meij 1709",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1597,301,371,80"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/48",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "en twijfele niet oft ue sal mijn laeste brief wel hebben",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1125,349,807,56"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/49",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ontfangen waer mede ue geadviseert hebbe dat ue",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1131,387,776,51"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/50",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "hadde vergeeten een stael in te sluyten vant laeken",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1119,438,793,67"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/51",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "dat ue my vraeghde. ick ben verwondert dat sedert",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1128,471,771,56"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/52",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "gaen antwoort van ue hebbe becoemen. mits dat ue",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1128,521,781,57"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/53",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "selde overcoemt ende dat de nieuwe moede couleure",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1129,552,813,59"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/54",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "sspaensche laekens sijn gearriveert soo sende ue ingeslooten de",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1127,593,844,61"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/55",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "daer van mijne staelen met de mmeros en prijsen",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1125,626,816,76"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/56",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "opdat ue aens soude sien oft ue daer niets van aen",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1124,665,806,70"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/57",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "en staet. het is seer schoon goet hebbe oock",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1131,722,732,34"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/58",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "geporste en gemeyn laekens van 38 t van alderhande",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1126,747,841,67"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/59",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "moede couleuren. oock seer schoone bruyne couleuren",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1126,786,795,62"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/60",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "tot ue dienste. ick sal ue al tijdts goeden coop dienen",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1128,824,839,68"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/61",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "daerom gelieft my maer te ordonneeren het gene ue",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1126,876,782,47"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/62",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "can noodigh hebben en blijve. gelieft mij toch de",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1121,912,787,41"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/63",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "staelboeck cito weder te senden",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1124,946,562,49"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/64",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "Ramur marie Hermans",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1091,993,419,78"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/65",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ady d",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1640,1003,154,70"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/66",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "il y a quesques jours que mons. vre cou in m'est venue dire que vous",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1123,1055,824,69"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/67",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "estey d'intention de quitter la negoce il m'a demande le rest denro",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1121,1108,849,52"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/68",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "compte ce qui fait ƒ4:10 de change ne doubtant poinct ou il vous",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1123,1158,827,46"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/69",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "l'aura advise pour moy ie ne peu manquer a vous remercier de",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1122,1192,824,46"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/70",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "l'honneur de vre chalandisse aussy de vre bon payement",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1119,1221,758,55"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/71",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "et en mesme temps de vous faire offre de mes services aussy a touts",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1116,1254,855,76"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/72",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "vos ams en tout ce qu 'iil sepuis estre vous apeurant que a",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1120,1311,807,54"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/73",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "et l'auray estame pour vre parsonne comme len souhaitte",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1119,1354,806,63"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/74",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "tauiours a faire connoissence v.q meferoit plaisir a me",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1115,1380,823,68"
+      }
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/75",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "vou loir enseigner les marchands en vre ville tratiquants",
+        "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1114,1432,792,31"
+      }
     }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/2",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"oft Antwerpen soude connen wesen ende dat alle",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=278,61,760,57"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/3",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"devoiren doen om calanten te maeken daerom",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=276,98,746,69"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/4",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ingevalle dat ue ien moghte noodigh hebben",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=282,145,738,70"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/5",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"bidde my te commandeeren oock als ue ot",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=288,186,697,65"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/6",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"imant van de familie overcoemt mij deere",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=277,219,736,63"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/7",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"aen te doen van eens naer te coemen. het gesicht",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=276,272,764,56"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/8",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"it ue altoos geschoenhen ende het aensien doet",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=277,304,749,60"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/9",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"gedencken en twijfele niet oft ue sal vernoemen",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=285,362,754,56"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/10",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"hebbe dat de versche goederen alle sijn aenge",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=282,382,757,69"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/11",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"coemen hebbe het schoonste sortiment dat men",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=278,432,754,50"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/12",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"sien can van laekens tot ue dienste recomman",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=275,471,771,54"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/13",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"deere mij in ue goede genegentheyt en blijve",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=267,510,774,65"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/14",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"naer groetenisse",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=279,550,395,72"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/15",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"adj 10 mej 1709",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=778,588,184,69"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/16",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"Thunhout pBMeurs",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=220,593,418,71"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/17",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"en hebbe in lange het geluck niet gehadt te hier over te sien ick",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=287,661,747,68"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/18",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"verhope even wel dat ue wel te passe ie met den swaeren",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=283,709,697,58"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/19",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"winter soo heeft het al lanck aengeloogen eerder versche goederen",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=282,730,775,76"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/20",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"uyt engelandt sijn gecommen doch nuisser sortiment van",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=285,784,747,58"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/21",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"alles ist saecken dat ue u iets noodigh hebt, ue can sijn gerief",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=285,822,772,70"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/22",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"van alle soorten van goederen vinden soo spaensche als geperste",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=284,870,784,65"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/23",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"noortsche en dosijnnen van alle soorten van couleuren en",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=281,912,761,64"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/24",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"prissen. ue en gelieft mij maer te schrijven oft overcomende eens",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=282,940,783,93"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/25",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"naer te commen en sal ue seer goeden coop dienen woone",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=281,989,782,81"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/26",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"recht over het post comptoir in het hiddorpen blijve",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=284,1030,706,71"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/27",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"Adij ditto",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=767,1061,198,67"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/28",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"Theandt Saedelaer",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=214,1075,248,75"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/29",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"de ue van 10 past. hebbe het sijnen tijde wel ontfangen",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=277,1110,765,57"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/30",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"doch dat voorders niett hebbe vernoemen doet mij gelooven",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=280,1157,780,52"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/31",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ue van mijne goederen sedert niets en heeft gedebiteert",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=281,1183,753,66"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/32",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"het is soo schoon sortiment als men can afsenden en",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=276,1225,762,59"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/33",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"seer goeden coop doch het slecht debiet schijpt overal",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=275,1264,780,67"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/34",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"te wesen. ende daer moet men sich tot aldertijdt toe",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=282,1301,750,53"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/35",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"en patienteeren ick recommandeere ue dan mijn",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=284,1338,749,57"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/36",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"intrest waer te nemen. ue heeft mij geadviseert tegens",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=279,1373,762,64"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/37",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"het eynde van de maent iets te remitteeren, can het",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=279,1420,789,34"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/38",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"geschieden soo sal ue mij perticuliere vrinsschap doen",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1137,27,795,57"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/39",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"want moete present wat sterck betaelen dooor dien",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1126,61,776,52"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/40",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"het hulsch convoy ende dat van london seer naer te",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1132,110,788,60"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/41",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"saemen sijn overgecoemen hebbe seer schoon soriment",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1130,141,814,59"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/42",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"van alderhande goederen ingevalle ue ergent toe",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1132,183,778,65"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/43",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"occasie hadde wat het oock moghte wesen salt ue",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1126,223,778,59"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/44",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1927,107,46,176"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/45",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"op een cleijn winste overlaeten die blijve naer groetenisse",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1129,259,825,79"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/46",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"mecalen h. Cfaydherbe",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1090,302,325,65"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/47",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"Ady 10 meij 1709",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1597,301,371,80"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/48",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"en twijfele niet oft ue sal mijn laeste brief wel hebben",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1125,349,807,56"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/49",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ontfangen waer mede ue geadviseert hebbe dat ue",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1131,387,776,51"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/50",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"hadde vergeeten een stael in te sluyten vant laeken",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1119,438,793,67"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/51",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"dat ue my vraeghde. ick ben verwondert dat sedert",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1128,471,771,56"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/52",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"gaen antwoort van ue hebbe becoemen. mits dat ue",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1128,521,781,57"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/53",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"selde overcoemt ende dat de nieuwe moede couleure",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1129,552,813,59"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/54",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"sspaensche laekens sijn gearriveert soo sende ue ingeslooten de",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1127,593,844,61"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/55",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"daer van mijne staelen met de mmeros en prijsen",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1125,626,816,76"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/56",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"opdat ue aens soude sien oft ue daer niets van aen",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1124,665,806,70"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/57",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"en staet. het is seer schoon goet hebbe oock",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1131,722,732,34"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/58",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"geporste en gemeyn laekens van 38 t van alderhande",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1126,747,841,67"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/59",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"moede couleuren. oock seer schoone bruyne couleuren",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1126,786,795,62"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/60",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"tot ue dienste. ick sal ue al tijdts goeden coop dienen",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1128,824,839,68"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/61",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"daerom gelieft my maer te ordonneeren het gene ue",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1126,876,782,47"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/62",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"can noodigh hebben en blijve. gelieft mij toch de",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1121,912,787,41"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/63",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"staelboeck cito weder te senden",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1124,946,562,49"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/64",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"Ramur marie Hermans",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1091,993,419,78"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/65",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ady d",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1640,1003,154,70"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/66",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"il y a quesques jours que mons. vre cou in m'est venue dire que vous",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1123,1055,824,69"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/67",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"estey d'intention de quitter la negoce il m'a demande le rest denro",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1121,1108,849,52"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/68",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"compte ce qui fait ƒ4:10 de change ne doubtant poinct ou il vous",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1123,1158,827,46"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/69",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"l'aura advise pour moy ie ne peu manquer a vous remercier de",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1122,1192,824,46"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/70",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"l'honneur de vre chalandisse aussy de vre bon payement",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1119,1221,758,55"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/71",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"et en mesme temps de vous faire offre de mes services aussy a touts",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1116,1254,855,76"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/72",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"vos ams en tout ce qu 'iil sepuis estre vous apeurant que a",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1120,1311,807,54"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/73",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"et l'auray estame pour vre parsonne comme len souhaitte",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1119,1354,806,63"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/74",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"tauiours a faire connoissence v.q meferoit plaisir a me",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1115,1380,823,68"
-    }
-  }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/page/196/2/75",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"vou loir enseigner les marchands en vre ville tratiquants",
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/test-manifest/canvas/196#xywh=1114,1432,792,31"
-    }
-  }
-    
   ]
 }
