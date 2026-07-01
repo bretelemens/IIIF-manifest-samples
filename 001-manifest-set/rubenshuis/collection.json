@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://dams.antwerpen.be/iiif/collection/rubenshuis-sample-collection/manifest",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/collection.json",
   "type": "Collection",
   "label": {
     "nl": [
@@ -9,7 +9,7 @@
   },
   "summary": {
     "nl": [
-      "Verzameling van manifestverwijzingen voor assets uit DAMS Antwerpen met publisher Rubenshuis."
+      "Verzameling manifesten foor alle collectiestukken die beheerd worden door Rubenshuis."
     ]
   },
   "metadata": [
@@ -22,18 +22,6 @@
       "value": {
         "nl": [
           "Collectie Rubenshuis"
-        ]
-      }
-    },
-    {
-      "label": {
-        "nl": [
-          "identificatienummer"
-        ]
-      },
-      "value": {
-        "nl": [
-          "rubenshuis-sample-collection"
         ]
       }
     },
@@ -57,7 +45,7 @@
       },
       "value": {
         "nl": [
-          "Rubenshuis"
+          "Rubenshuis, Antwerpen"
         ]
       }
     },
@@ -69,7 +57,7 @@
       },
       "value": {
         "nl": [
-          "Stad Antwerpen, Rubenshuis"
+          "Rubenshuis"
         ]
       }
     },
@@ -93,26 +81,14 @@
       },
       "value": {
         "nl": [
-          "Stad Antwerpen, Rubenshuis"
+          "Stad Antwerpen"
         ]
       }
     }
   ],
-  "requiredStatement": {
-    "label": {
-      "nl": [
-        "Attribution"
-      ]
-    },
-    "value": {
-      "nl": [
-        "Stad Antwerpen, Rubenshuis"
-      ]
-    }
-  },
   "provider": [
     {
-      "id": "https://data.antwerpen.be/agent/rubenshuis",
+      "id": "https://www.wikidata.org/wiki/Q775644",
       "type": "Agent",
       "label": {
         "nl": [
@@ -133,7 +109,7 @@
       ],
       "logo": [
         {
-          "id": "https://www.antwerpen.be/assets/images/logos/logo_A_stad_antwerpen.png",
+          "id": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KdBOjBuXdUE8-w4uMP9-qHTfizLRHO7z4dzjMgQKcbPDp8T13NfjQrke&s=10",
           "type": "Image",
           "format": "image/png"
         }
@@ -142,16 +118,9 @@
   ],
   "thumbnail": [
     {
-      "id": "https://dams.antwerpen.be/iiif/CTLkEfZ2qVIIb9f7SXg58vD3/full/max/0/default.jpg",
+      "id": "https://data.maglr.com/1287/issues/60363/735676/assets/media/7de2776bea142455f2ed82c0716e7b1df7daf901a999cc89aff54f7f7e96f9c9.jpg",
       "type": "Image",
       "format": "image/jpeg",
-      "service": [
-        {
-          "id": "https://dams.antwerpen.be/iiif/CTLkEfZ2qVIIb9f7SXg58vD3",
-          "type": "ImageService3",
-          "profile": "level0"
-        }
-      ]
     }
   ],
   "items": [
