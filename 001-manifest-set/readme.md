@@ -18,6 +18,11 @@ Toegang tot alle beelden uit een bepaalde verzameling, m.n.:
 [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/paged-collection.json), 
 [Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/paged-collection.json),
 [IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/001-set/rubenshuis/paged-collection.json))
-
+* 001-manifest-set/mpm-woodcuts/paged-collection.json: Alle manifests voor afdrukken van houtblokken in Museum-Plantin-Moretus verspreid over 37 IIIF sub-collections en toegankelijk via een IIIF top-level collection 
+([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/001-set/mpm-woodcuts/paged-collection.json), 
+[Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-set/mpm-woodcuts/paged-collection.json), 
+[Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-set/mpm-woodcuts/paged-collection.json), 
+[Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-set/mpm-woodcuts/paged-collection.json),
+[IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/001-set/mpm-woodcuts/paged-collection.json))
 
 
