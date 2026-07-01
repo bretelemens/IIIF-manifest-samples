@@ -11,7 +11,7 @@ Toegang tot alle beelden uit een bepaalde verzameling, m.n.:
 [001-manifest-set/rubenshuis/collection.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/001-manifest-set/rubenshuis/collection.json) 
 
 Alle 3169 manifests voor collectiestukken beheerd door Rubenshuis in 1 collection. 
-* [Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/collection.json) laadt de manifest, maar laadt geen beelden. > Komt omdat de collection de manifesten die opgehaald worden in DAM1 nog image uri's bevatten met dams.antwerpen.be als domein.
+* [Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/collection.json) laadt de manifest, maar laadt geen beelden. > Komt omdat de manifesten die opgehaald worden uit DAM1 nog image uri's bevatten met dams.antwerpen.be als domein.
 * [Clover Viewer](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/collection.json) laadt de manifest, maar laadt geen beelden.
 * [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/collection.json) laadt de manifest, maar laadt geen beelden.
 * [Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/001-manifest-set/rubenshuis/collection.json) laadt de manifest, maar laadt geen beelden.
