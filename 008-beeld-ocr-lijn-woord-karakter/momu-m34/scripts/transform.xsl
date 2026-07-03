@@ -124,9 +124,10 @@
       <xsl:value-of select="$doublequote"/>
       <xsl:value-of select="$step2"/>
       <xsl:value-of select="$doublequote"/>
-      
-      <!-- target region -->
-      <xsl:text>,
+
+      <!-- close body, then emit target at annotation level -->
+      <xsl:text>
+      },
       "target":</xsl:text>
       <xsl:value-of select="$doublequote"/>
       <xsl:value-of select="$canvasURI"/>
@@ -140,10 +141,9 @@
       <xsl:value-of select="floor(@HEIGHT div $yRatio)"/>
       <xsl:value-of select="$doublequote"/>
 
-
+      <!-- close annotation -->
       <xsl:text>
     }
-  }
     </xsl:text>
 
       <!-- comma after each item except the last -->
