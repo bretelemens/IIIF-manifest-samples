@@ -7,7 +7,8 @@
 * OCR text per lijn, gelocaliseerd met coordinaten en gecodeerd in ALTO-xml v4.
 * OCR text gempt naar annotation page per pagina en in een apart json bestand. Bestandsnaam: "page-[canvas nr].json".
 * Coordinaten gecodeerd met een FragmentSelector als suffix bij de canvas uri in het `target` object.
-* OCr annotations `"motivation":"supplementing"`
+* OCr annotation page: `items.motivation` has default value "supplementing".
+* OCR annotation page: `items.body.typs` has default value "TextualBody".
 * OCR annotation pages in `/ocr`.
 * Oorspronkelijke ALTO xml bestanden in `/alto`.
 * Referenties naar OCR annotation page in `annotations`. OCR text wordt getoond in IIIF viewers.
