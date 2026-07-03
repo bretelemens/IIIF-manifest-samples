@@ -25,8 +25,8 @@
     The ALTO may have been generated from the TIFF, if so the jp2 or IIIF image might be a different size.
     If so use the following ratios to reduce the TIFF coordinates to the IIIF image coordinates:
   -->
-  <xsl:param name="xRatio" select="3"/>
-  <xsl:param name="yRatio" select="3"/>
+  <xsl:param name="xRatio" select="1"/>
+  <xsl:param name="yRatio" select="1"/>
 
   <!-- start json-ld template
   -->
