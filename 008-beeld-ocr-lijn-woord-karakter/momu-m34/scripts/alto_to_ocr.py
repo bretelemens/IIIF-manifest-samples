@@ -79,8 +79,7 @@ def main():
 
     # Load and compile stylesheet
     print(f"Loading stylesheet: {xsl_path}")
-    with xsl_path.open() as f:
-        xsl_doc = etree.parse(f)
+    xsl_doc = etree.parse(str(xsl_path))
     transform = etree.XSLT(xsl_doc)
 
     # Collect and sort ALTO files by sequence number
