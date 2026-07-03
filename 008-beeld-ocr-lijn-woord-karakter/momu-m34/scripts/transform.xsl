@@ -11,13 +11,14 @@
 
   Or directly with xsltproc (one file at a time):
     xsltproc \
-      - -stringparam source-file HKW_M34_0001.xml \
-      - -stringparam baseURI https://example.org/iiif/manifest \
-      - -param xRatio 1 \
-      - -param yRatio 1 \
+      [double-hyphen]stringparam source-file HKW_M34_0001.xml \
+      [double-hyphen]stringparam baseURI https://example.org/iiif/manifest \
+      [double-hyphen]param xRatio 1 \
+      [double-hyphen]param yRatio 1 \
       -o ocr/page-1.json \
       scripts/transform.xsl \
       alto/HKW_M34_0001.xml
+  (replace [double-hyphen] with --)
 
   Parameters:
     source-file   Filename of the ALTO file being processed (used to derive
