@@ -1,37 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  transform.xsl
-
-  Transforms a single ALTO v4 XML file into a IIIF v3 AnnotationPage JSON file
-  containing one supplementing Annotation per TextLine, with an xywh fragment
-  selector targeting the corresponding region on the IIIF canvas.
-
-  Run via the companion Python script (recommended):
-    python scripts/alto_to_ocr.py --alto-dir alto --ocr-dir ocr
-
-  Or directly with xsltproc (one file at a time):
-    xsltproc \
-      [double-hyphen]stringparam source-file HKW_M34_0001.xml \
-      [double-hyphen]stringparam baseURI https://example.org/iiif/manifest \
-      [double-hyphen]param xRatio 1 \
-      [double-hyphen]param yRatio 1 \
-      -o ocr/page-1.json \
-      scripts/transform.xsl \
-      alto/HKW_M34_0001.xml
-  (replace [double-hyphen] with --)
-
-  Parameters:
-    source-file   Filename of the ALTO file being processed (used to derive
-                  the canvas sequence number from the trailing digits).
-    baseURI       Base URI of the IIIF manifest (without trailing slash).
-    xRatio        Divide ALTO x-coordinates by this factor (default: 1).
-    yRatio        Divide ALTO y-coordinates by this factor (default: 1).
-                  Set to 3 if ALTO was generated from a TIFF that is 3x the
-                  size of the IIIF image service tile resolution.
--->
 <xsl:stylesheet version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
+  <!--
+    transform.xsl: ALTO v4 to IIIF v3 AnnotationPage (one TextLine per annotation).
+    Run via: python scripts/alto_to_ocr.py
+    See alto_to_ocr.py for full usage documentation and xsltproc invocation.
+  -->
 
   <xsl:output method="text" encoding="UTF-8"/>
   
