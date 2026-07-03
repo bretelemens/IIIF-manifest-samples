@@ -2,6 +2,11 @@
 <xsl:stylesheet version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
+  <!--
+    transform.xsl: ALTO v4 to IIIF v3 AnnotationPage (one TextLine per annotation).
+    Run via: python scripts/alto_to_ocr.py
+    See alto_to_ocr.py for full usage documentation and xsltproc invocation.
+  -->
 
   <xsl:output method="text" encoding="UTF-8"/>
   
@@ -25,8 +30,8 @@
     The ALTO may have been generated from the TIFF, if so the jp2 or IIIF image might be a different size.
     If so use the following ratios to reduce the TIFF coordinates to the IIIF image coordinates:
   -->
-  <xsl:param name="xRatio" select="3"/>
-  <xsl:param name="yRatio" select="3"/>
+  <xsl:param name="xRatio" select="1"/>
+  <xsl:param name="yRatio" select="1"/>
 
   <!-- start json-ld template
   -->
@@ -124,9 +129,10 @@
       <xsl:value-of select="$doublequote"/>
       <xsl:value-of select="$step2"/>
       <xsl:value-of select="$doublequote"/>
-      
-      <!-- target region -->
-      <xsl:text>,
+
+      <!-- close body, then emit target at annotation level -->
+      <xsl:text>
+      },
       "target":</xsl:text>
       <xsl:value-of select="$doublequote"/>
       <xsl:value-of select="$canvasURI"/>
@@ -140,10 +146,9 @@
       <xsl:value-of select="floor(@HEIGHT div $yRatio)"/>
       <xsl:value-of select="$doublequote"/>
 
-
+      <!-- close annotation -->
       <xsl:text>
     }
-  }
     </xsl:text>
 
       <!-- comma after each item except the last -->
