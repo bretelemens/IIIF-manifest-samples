@@ -1,1087 +1,997 @@
 {
-  "@context":"http://iiif.io/api/presentation/3/context.json",
-  "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2",
-  "type":"AnnotationPage",
-  "items":[
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/1",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"haetden het aen, en greten derden sonder remis het"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=881,70,2231,110"
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/ocr/page-218.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/1",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "haetden het aen, en greten derden sonder remis het"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=881,70,2231,110"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/2",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "selfde te confisqueren hebbe maer alleen geschreven"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=885,132,2328,155"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/3",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "iet den directeur van den bureau en claerlijck het"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=878,233,2115,155"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/4",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "abus aen geweden ende daer op heeft hij het ontslaegen"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=875,362,2306,107"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/5",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "met een bagatelle van een afwee pstolen de francenen"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=888,430,2348,123"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/6",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "sijn in die materie wel de difficielste van gelycken als hier"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=886,542,2350,111"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/7",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ick wenste wel mijn advocget bij den heere fiscael acosty"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=875,611,2297,144"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/8",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "corte wesen, maer ick betrouwe mij noch beteroure"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=883,705,2237,147"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/9",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "het is seecker dat men met reden in hollande tbeter"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=876,768,2271,172"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/10",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "gehoor can becommen dan noch hier ende dat ul"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=881,925,2168,120"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/11",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "gegeringe voor de commercie genegen is ende dien"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=889,1002,2197,111"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/12",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "aen gaende geen onrecht sal gedulden oversul"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=879,1065,2266,152"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/13",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "versoecke hertelijck mij hier ten besten moogelijck"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=875,1178,2233,150"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/14",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "gelieft uyt te redden door den heere fiscael oft hooge"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=864,1248,2298,192"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/15",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "handt daerve ich can addresseren en ick niet"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=859,1401,2310,141"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/16",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "en wete want hoe ick het stelle oft niet soo en can"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=861,1476,2275,150"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/17",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "de packen niet abbondoneren wint ue moet consideren"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=867,1610,2366,132"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/18",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "delt boven de weerde der goederen ider pack im assurantie"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=865,1701,2363,113"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/19",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "provisie, on costen en vraghten by de ƒ200:7 beloort"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=879,1769,2342,209"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/20",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "en circa het selfde dat daer aen te proofiteren soude"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=886,1883,2331,153"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/21",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "wesen, schilt him te veel. hoede bekeude mess. hebben"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=867,1971,2366,174"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/22",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "doen verseckeren £298:-:- en is voor mijne packen"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=864,2116,2180,159"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/23",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "niet moogelijck inder sustineere op meerdere die voor"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=872,2176,2351,158"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/24",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "de selfde vrsenden reken in dat schip sullen sijn geweest"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=867,2288,2342,171"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/25",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": ""
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=2671,2388,54,72"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/26",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ul"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=2612,2410,55,55"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/27",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "het ie waer het is voor ve moegelijck door dien alle die"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=871,2384,2112,200"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/28",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "poincten niet en hebt onderight geweest dat voor die"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=871,2497,2322,173"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/29",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "Laeckens 36s is geboden van differente wille het seer"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=866,2630,2297,154"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/30",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "wel gelooven nochtans die vvanden souden hun bedrogen"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=871,2705,2348,187"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/31",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "vinden want vercoope in conscient ie die alhier selfs"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=869,2821,2332,190"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/32",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "maer 36:38 a ƒ2:- het andervytterste ende dan de beste"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=866,2921,2347,166"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/33",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ueyt axsochte. de couleuren en het conditioneeren"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=863,3045,2180,151"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/34",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "van dat goet charmeert meer dan de denght oft de"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=884,3174,2322,183"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/35",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "qualitijdt het iseen sortiment dat expres op myne"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=880,3291,2344,170"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/36",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "contenden is gemaeckt en de door den tydt vrfgekest"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=881,3400,2275,179"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/37",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "want mijn vriendt heeft die ordres al gehadtt voor"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=876,3494,2354,166"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/38",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "kersmasse en omdat sog wel naer mijn goustie is tijt"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=867,3595,2351,188"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/39",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "gevallen soo chagrineert het mij te meer. ick en"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=843,3738,2300,156"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/40",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "can met meer segecken als dat men onreght gedaen"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=865,3806,2310,209"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/41",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "worde ende de ingeleijde facturen connen het e"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=863,3917,2279,189"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/42",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "en"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=1441,4022,94,65"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/43",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "claevelijck wijtten het is mij leedt de moeyelijck hegt"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=877,4077,2345,165"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/44",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "die ue in dat genal heeft en hebbe het niet connen"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=842,4127,2329,199"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/45",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "voorhoedent en voor qhaetaerdige mens cher"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=855,4249,2074,121"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/46",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "en can mer geen messures nemen als int genal sich door"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3415,82,2480,121"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/47",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "goeden vnden daer sien tyt te redden mitsmen het"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3429,163,2392,118"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/48",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "selfs niet doen en can sal ue dan ckbaer sijn en"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3424,216,2418,191"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/49",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "gmalle occasien"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3418,320,879,176"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/50",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "gulieft de ingeleyde voor engelandt te doen voortsganck"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3383,419,2512,224"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/51",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "geven"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3403,583,309,129"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/52",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": ""
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=4338,712,126,139"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/53",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ady 15 de guillet 1709"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=5064,671,755,206"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/54",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "Lelds Aokson"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3273,717,926,197"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/55",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "le 27 dupasiée ie vous ay fait remisse de ste £200:- surh furnere"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3409,841,2477,188"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/56",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "incluse la seconde e austre remisse de £120:-:- sur je S: -"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3394,997,2489,143"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/57",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "de Boynille du 8 court sences dont il vous plaira d'en"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3401,1108,2429,125"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/58",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "prosurer le necessaire p prochainne plus et suis"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3402,1192,2191,192"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/59",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "Leuven Pater procurator vande jesuittens"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3267,1293,1775,255"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/60",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "adij 17 Julil 17009"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=5184,1299,709,199"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/61",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ue aengenaeme van 15 deser hebbe wel ontfang achter volgens soo sende"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3386,1425,2469,210"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/62",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ingesloten aen ue berue een notitie van de geleverde laeckens"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3383,1561,2501,162"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/63",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "met den ontfanck af getrocken blijvende het collegie p stotder"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3379,1643,2438,158"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/64",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "selve mij schaldig ƒ 522:8½ tot dat 2 deser wits elghtyt genomen"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3379,1737,2445,170"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/65",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "den inttert want hebbe op die partije meer aen verlooros verlore"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3377,1881,2477,151"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/66",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "als op de selve geauanceert is door dien die hebbe nef gelaeten"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3389,1933,2413,195"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/67",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ten selfden prissse soo als die contant kkoope oock en is het"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3391,2048,2425,157"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/68",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "mijn maniere met den eenen eensen stuyver meer te doen"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3384,2116,2504,180"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/69",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "betaelen als den anderen dat sijn eerue dan moet considereren"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3379,2213,2432,177"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/70",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "als ick voorders deere soude hebben van de Paters te bedienen"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3374,2334,2433,145"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/71",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ick ben altijdts van alle soorten van Daeckens genoechdaems"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3383,2451,2395,116"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/72",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "voorsien ende die sijn nu merckelijck beter coont. hebbe van ƒ313:"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3377,2484,2518,192"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/73",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "14 tot ƒ15 wisselg nu de alderfijnne en beste soorte. gelieft ue"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3390,2619,2505,146"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/74",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "beruss mij ordres te senden, ick sal de Paters aldoos seerwel"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3360,2715,2534,157"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/75",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "en tolhun contentement treghten te bedienen en soo Blijve"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3368,2780,2492,191"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/76",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "Rotterd. Jacques Meyers"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3341,2930,1156,187"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/77",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "adij 18 d."
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=5048,2917,420,218"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/78",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "jaen gelacke van 16 court hebbe wel ontfange waer bij gesien datter"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3383,3119,2465,135"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/79",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "in die saecke niets naerders te doen u ick moete patientie ne men"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3373,3207,2500,170"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/80",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "en het voor een m alheur schicken. ick hebbe vekmmers met mijn"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3362,3305,2496,142"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/81",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "voorige genoteert dat mij aengenaem sal wesen wat ue daer inne"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3363,3385,2505,146"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/82",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "sal hebben gedaen want da de packen niet en soecke te abandonde"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3363,3487,2537,149"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/83",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "eeren dat adermael confirmere. sien de selve te gemoet"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3362,3615,2396,108"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/84",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "oock het pack uyt Jokn winn daerue geen mentie van en"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3355,3681,2471,138"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/85",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "maecht sal e eersten remitteren ue heeft van opinie"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3360,3781,2522,162"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/86",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "geweest dat ick tie gedisabuseert hebbe nochtans het is de recht"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3353,3885,2471,131"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/87",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "ingige waer hejdt soo als p mijn extraet tyt facture hebbe"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3341,3973,2549,163"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/88",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "doene blijcken ende het is seeeker dat mijt hter in onreght"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3341,4069,2542,170"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/89",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "gedaen wordt: ick en geloove niet dat wel dier gelijcke"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3355,4180,2406,165"
+    },
+    {
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/90",
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/plain",
+        "value": "a fraite sijn leven is wedervaeren oft iemandt ul geheel"
+      },
+      "target": "https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3364,4295,2451,92"
     }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/2",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"selfde te confisqueren hebbe maer alleen geschreven"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=885,132,2328,155"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/3",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"iet den directeur van den bureau en claerlijck het"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=878,233,2115,155"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/4",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"abus aen geweden ende daer op heeft hij het ontslaegen"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=875,362,2306,107"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/5",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"met een bagatelle van een afwee pstolen de francenen"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=888,430,2348,123"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/6",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"sijn in die materie wel de difficielste van gelycken als hier"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=886,542,2350,111"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/7",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ick wenste wel mijn advocget bij den heere fiscael acosty"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=875,611,2297,144"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/8",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"corte wesen, maer ick betrouwe mij noch beteroure"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=883,705,2237,147"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/9",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"het is seecker dat men met reden in hollande tbeter"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=876,768,2271,172"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/10",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"gehoor can becommen dan noch hier ende dat ul"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=881,925,2168,120"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/11",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"gegeringe voor de commercie genegen is ende dien"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=889,1002,2197,111"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/12",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"aen gaende geen onrecht sal gedulden oversul"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=879,1065,2266,152"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/13",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"versoecke hertelijck mij hier ten besten moogelijck"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=875,1178,2233,150"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/14",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"gelieft uyt te redden door den heere fiscael oft hooge"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=864,1248,2298,192"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/15",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"handt daerve ich can addresseren en ick niet"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=859,1401,2310,141"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/16",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"en wete want hoe ick het stelle oft niet soo en can"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=861,1476,2275,150"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/17",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"de packen niet abbondoneren wint ue moet consideren"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=867,1610,2366,132"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/18",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"delt boven de weerde der goederen ider pack im assurantie"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=865,1701,2363,113"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/19",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"provisie, on costen en vraghten by de ƒ200:7 beloort"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=879,1769,2342,209"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/20",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"en circa het selfde dat daer aen te proofiteren soude"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=886,1883,2331,153"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/21",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"wesen, schilt him te veel. hoede bekeude mess. hebben"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=867,1971,2366,174"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/22",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"doen verseckeren £298:-:- en is voor mijne packen"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=864,2116,2180,159"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/23",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"niet moogelijck inder sustineere op meerdere die voor"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=872,2176,2351,158"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/24",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"de selfde vrsenden reken in dat schip sullen sijn geweest"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=867,2288,2342,171"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/25",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":""
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=2671,2388,54,72"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/26",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ul"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=2612,2410,55,55"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/27",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"het ie waer het is voor ve moegelijck door dien alle die"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=871,2384,2112,200"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/28",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"poincten niet en hebt onderight geweest dat voor die"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=871,2497,2322,173"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/29",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"Laeckens 36s is geboden van differente wille het seer"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=866,2630,2297,154"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/30",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"wel gelooven nochtans die vvanden souden hun bedrogen"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=871,2705,2348,187"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/31",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"vinden want vercoope in conscient ie die alhier selfs"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=869,2821,2332,190"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/32",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"maer 36:38 a ƒ2:- het andervytterste ende dan de beste"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=866,2921,2347,166"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/33",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ueyt axsochte. de couleuren en het conditioneeren"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=863,3045,2180,151"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/34",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"van dat goet charmeert meer dan de denght oft de"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=884,3174,2322,183"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/35",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"qualitijdt het iseen sortiment dat expres op myne"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=880,3291,2344,170"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/36",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"contenden is gemaeckt en de door den tydt vrfgekest"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=881,3400,2275,179"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/37",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"want mijn vriendt heeft die ordres al gehadtt voor"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=876,3494,2354,166"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/38",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"kersmasse en omdat sog wel naer mijn goustie is tijt"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=867,3595,2351,188"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/39",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"gevallen soo chagrineert het mij te meer. ick en"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=843,3738,2300,156"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/40",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"can met meer segecken als dat men onreght gedaen"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=865,3806,2310,209"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/41",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"worde ende de ingeleijde facturen connen het e"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=863,3917,2279,189"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/42",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"en"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=1441,4022,94,65"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/43",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"claevelijck wijtten het is mij leedt de moeyelijck hegt"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=877,4077,2345,165"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/44",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"die ue in dat genal heeft en hebbe het niet connen"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=842,4127,2329,199"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/45",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"voorhoedent en voor qhaetaerdige mens cher"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=855,4249,2074,121"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/46",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"en can mer geen messures nemen als int genal sich door"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3415,82,2480,121"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/47",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"goeden vnden daer sien tyt te redden mitsmen het"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3429,163,2392,118"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/48",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"selfs niet doen en can sal ue dan ckbaer sijn en"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3424,216,2418,191"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/49",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"gmalle occasien"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3418,320,879,176"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/50",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"gulieft de ingeleyde voor engelandt te doen voortsganck"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3383,419,2512,224"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/51",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"geven"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3403,583,309,129"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/52",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":""
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=4338,712,126,139"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/53",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ady 15 de guillet 1709"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=5064,671,755,206"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/54",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"Lelds Aokson"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3273,717,926,197"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/55",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"le 27 dupasiée ie vous ay fait remisse de ste £200:- surh furnere"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3409,841,2477,188"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/56",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"incluse la seconde e austre remisse de £120:-:- sur je S: -"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3394,997,2489,143"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/57",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"de Boynille du 8 court sences dont il vous plaira d'en"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3401,1108,2429,125"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/58",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"prosurer le necessaire p prochainne plus et suis"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3402,1192,2191,192"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/59",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"Leuven Pater procurator vande jesuittens"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3267,1293,1775,255"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/60",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"adij 17 Julil 17009"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=5184,1299,709,199"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/61",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ue aengenaeme van 15 deser hebbe wel ontfang achter volgens soo sende"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3386,1425,2469,210"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/62",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ingesloten aen ue berue een notitie van de geleverde laeckens"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3383,1561,2501,162"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/63",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"met den ontfanck af getrocken blijvende het collegie p stotder"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3379,1643,2438,158"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/64",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"selve mij schaldig ƒ 522:8½ tot dat 2 deser wits elghtyt genomen"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3379,1737,2445,170"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/65",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"den inttert want hebbe op die partije meer aen verlooros verlore"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3377,1881,2477,151"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/66",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"als op de selve geauanceert is door dien die hebbe nef gelaeten"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3389,1933,2413,195"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/67",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ten selfden prissse soo als die contant kkoope oock en is het"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3391,2048,2425,157"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/68",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"mijn maniere met den eenen eensen stuyver meer te doen"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3384,2116,2504,180"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/69",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"betaelen als den anderen dat sijn eerue dan moet considereren"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3379,2213,2432,177"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/70",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"als ick voorders deere soude hebben van de Paters te bedienen"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3374,2334,2433,145"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/71",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ick ben altijdts van alle soorten van Daeckens genoechdaems"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3383,2451,2395,116"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/72",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"voorsien ende die sijn nu merckelijck beter coont. hebbe van ƒ313:"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3377,2484,2518,192"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/73",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"14 tot ƒ15 wisselg nu de alderfijnne en beste soorte. gelieft ue"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3390,2619,2505,146"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/74",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"beruss mij ordres te senden, ick sal de Paters aldoos seerwel"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3360,2715,2534,157"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/75",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"en tolhun contentement treghten te bedienen en soo Blijve"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3368,2780,2492,191"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/76",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"Rotterd. Jacques Meyers"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3341,2930,1156,187"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/77",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"adij 18 d."
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=5048,2917,420,218"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/78",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"jaen gelacke van 16 court hebbe wel ontfange waer bij gesien datter"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3383,3119,2465,135"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/79",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"in die saecke niets naerders te doen u ick moete patientie ne men"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3373,3207,2500,170"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/80",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"en het voor een m alheur schicken. ick hebbe vekmmers met mijn"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3362,3305,2496,142"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/81",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"voorige genoteert dat mij aengenaem sal wesen wat ue daer inne"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3363,3385,2505,146"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/82",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"sal hebben gedaen want da de packen niet en soecke te abandonde"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3363,3487,2537,149"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/83",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"eeren dat adermael confirmere. sien de selve te gemoet"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3362,3615,2396,108"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/84",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"oock het pack uyt Jokn winn daerue geen mentie van en"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3355,3681,2471,138"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/85",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"maecht sal e eersten remitteren ue heeft van opinie"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3360,3781,2522,162"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/86",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"geweest dat ick tie gedisabuseert hebbe nochtans het is de recht"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3353,3885,2471,131"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/87",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"ingige waer hejdt soo als p mijn extraet tyt facture hebbe"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3341,3973,2549,163"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/88",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"doene blijcken ende het is seeeker dat mijt hter in onreght"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3341,4069,2542,170"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/89",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"gedaen wordt: ick en geloove niet dat wel dier gelijcke"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3355,4180,2406,165"
-    }
-    ,
-    {
-      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/218/2/90",
-      "type":"Annotation",
-      "motivation":"supplementing",
-      "body":{
-        "type":"TextualBody",
-        "format":"text/plain",
-        "value":"a fraite sijn leven is wedervaeren oft iemandt ul geheel"
-      },
-      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/218#xywh=3364,4295,2451,92"
-    }
-    
   ]
 }
