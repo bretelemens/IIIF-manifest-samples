@@ -24,7 +24,7 @@
   
   <!-- define canvas and page URIs -->
   <xsl:variable name="canvasURI" select="concat($baseURI, '/canvas/', $nr)"/>
-  <xsl:variable name="pageURI" select="concat($baseURI, '/page/', $nr, '/2')"/>  
+  <xsl:variable name="pageURI" select="concat($baseURI, '/ocr/page-', $nr, '.json')"/>
 
   <!--
     The ALTO may have been generated from the TIFF, if so the jp2 or IIIF image might be a different size.
