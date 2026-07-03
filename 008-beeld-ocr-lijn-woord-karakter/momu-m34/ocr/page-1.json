@@ -1,139 +1,151 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/ocr/page-1.json",
-  "type": "AnnotationPage",
-  "items": [
+  "@context":"http://iiif.io/api/presentation/3/context.json",
+  "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2",
+  "type":"AnnotationPage",
+  "items":[
     {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/1",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "M34"
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/1",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"M34"
       },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1668,35,58,42"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/2",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "Laus Deo Semper"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1076,131,596,45"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/3",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "Copye"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1245,223,210,44"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/4",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "van"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1359,291,108,42"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/5",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "Brieven"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1247,355,243,42"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/6",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "voor my"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1250,419,184,46"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/7",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "Pedro Melijn"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1121,515,418,43"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/8",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "Begonst in den naem Godts"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1303,605,500,44"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/9",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "Op"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1324,699,77,48"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/10",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "11 mey Anno 1707"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1182,763,407,45"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/11",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "In"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1323,856,99,40"
-    },
-    {
-      "id": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/annotation/1/2/12",
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "format": "text/plain",
-        "value": "Antwerpen"
-      },
-      "target": "https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/canvas/1#xywh=1233,969,271,44"
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=5004,107,174,126"
     }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/2",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"Laus Deo Semper"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=3228,395,1788,136"
+    }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/3",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"Copye"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=3735,671,631,134"
+    }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/4",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"van"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=4078,873,326,128"
+    }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/5",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"Brieven"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=3743,1065,731,128"
+    }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/6",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"voor my"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=3750,1259,552,138"
+    }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/7",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"Pedro Melijn"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=3363,1547,1255,130"
+    }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/8",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"Begonst in den naem Godts"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=3910,1817,1502,134"
+    }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/9",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"Op"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=3973,2098,232,146"
+    }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/10",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"11 mey Anno 1707"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=3548,2290,1222,137"
+    }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/11",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"In"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=3971,2568,299,121"
+    }
+    ,
+    {
+      "id":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/page/1/2/12",
+      "type":"Annotation",
+      "motivation":"supplementing",
+      "body":{
+        "type":"TextualBody",
+        "format":"text/plain",
+        "value":"Antwerpen"
+      },
+      "target":"https://bretelemens.github.io/IIIF-manifest-samples/002-beeld/momu-m34/test-manifest/canvas/1#xywh=3700,2907,814,132"
+    }
+    
   ]
 }
