@@ -1,6 +1,6 @@
 # 8. Een manifest met reproducties en ge-OCR’de tekst per lijn, woord of karakter als web annotation
 
-## [008-beeld-ocr-lijn-woord-karakter/momu-m34/referenced-manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/08-beeld-ocr-lijn-woord-karakter/momu-m34/referenced-manifest.json)
+## [008-beeld-ocr-lijn-woord-karakter/momu-m34/referenced-manifest.json](https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/referenced-manifest.json)
 Brievenkopijenboek van de familie Melijn voor de periode 1707-1709. Melijn archief, Heemkundige Kring Jan Vleminck vzw, Wijnegem 
 
 ([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/momu-m34/referenced-manifest.json), 
@@ -12,7 +12,7 @@ Brievenkopijenboek van de familie Melijn voor de periode 1707-1709. Melijn archi
 * Alto files geproduceerd met Transcribus in /alto directory. Ocr text getagd per lijn.
 * OCR Annotation Pages geproduceerd met/scripts/transform.xsl of alto_to_ocr.py
 
-## [008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json)
+## [008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json](https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json)
 Antwerpsch straatnamenboek. lijstvanaldestraatnamen, oude en nieuwe, met hun beteekenis, reden, oorsprong en veranderingen, 1926.Erfgoedbibliotheek Hendrik Conscience.
 
 ([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json), 
@@ -22,7 +22,7 @@ Antwerpsch straatnamenboek. lijstvanaldestraatnamen, oude en nieuwe, met hun bet
 [IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json))
 
 
-## [008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/008-beeld-ocr-lijn-woord-karakter/EHC_e722/manifest.json)
+## [008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json](https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json)
 Madame de Pompadour, 1881. Erfgoedbibliotheek Hendrik Conscience.
 
 ([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json), 
