@@ -58,10 +58,16 @@ def parse_args():
 
 def extract_sequence_nr(stem: str) -> int:
     """Extract the trailing numeric sequence number from a filename stem.
-    
-    e.g. 'HKW_M34_0139' -> 139
+
+    e.g. 'HKW_M34_0139'              -> 139
+         'EHC_e772_2025_0011'         -> 11
+         'EHC_B40593_..._MF_0001.alto' -> 1  (strips trailing .alto before splitting)
     """
-    return int(stem.split("_")[-1])
+    # strip a trailing .alto segment that survives Path.stem when extension is .xml
+    clean = stem
+    if clean.endswith(".alto"):
+        clean = clean[:-5]
+    return int(clean.split("_")[-1])
 
 
 def main():
