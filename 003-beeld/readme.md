@@ -32,6 +32,23 @@ Digitale Toegang tot alle beelden van één collectiestuk, m.n.:
 * [003-beeld/MPM_AR-PN-0169/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/003-beeld/MPM_AR-PN-0169/manifest.json): Kasboek van de persoonlijke uitgaven van Balthasar II Moretus, 1641-07-01 – 1657-05-05. Uit de bibliotheekcollecties van Museum Plantin-Moretus.
 ([Universal Viewer](https://www.universalviewer.dev/#?manifest=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F003-beeld%2FMPM_AR-PN-0169%2Fmanifest.json), 
 [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F003-beeld%2FMPM_AR-PN-0169%2Fmanifest.json),
-[Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/MPM_AR-PN-0169/manifest.json),
-[Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F003-beeld%2FMPM_AR-PN-0169%2Fmanifest.json), ,
-[IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F003-beeld%2FMPM_AR-PN-0169%2Fmanifest.json&lang=en))
+[Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/MPM_AR-PN-0169/manifest.json))
+
+
+* [003-beeld/EHC_519618/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/003-beeld/EHC_519618/manifest.json):  Antwerpsch straatnamenboek. lijstvanaldestraatnamen, oude en nieuwe, met hun beteekenis, reden, oorsprong en veranderingen, 1926.Erfgoedbibliotheek Hendrik Conscience.
+([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_519618/manifest.json), 
+[Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_519618/manifest.json),
+[Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_519618/manifest.json)
+[Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_519618/manifest.json)
+[IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_519618/manifest.json))
+
+
+* [003-beeld/EHC_e772/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/003-beeld/EHC_e722/manifest.json):  Madame de Pompadour, 1881. Erfgoedbibliotheek Hendrik Conscience.
+([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_e772/manifest.json), 
+[Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_e772/manifest.json),
+[Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_e772/manifest.json)
+[Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_e772/manifest.json)
+[IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_e772/manifest.json))
+
+
+[IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_519618/manifest.json))
