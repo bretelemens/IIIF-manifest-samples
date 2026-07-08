@@ -1,4 +1,4 @@
-# Reproducties met ge-OCR’de tekst per lijn, woord of karakter als web annotation
+# 8. Een manifest met reproducties en ge-OCR’de tekst per lijn, woord of karakter als web annotation
 
 ## [008-beeld-ocr-lijn-woord-karakter/momu-m34/referenced-manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/08-beeld-ocr-lijn-woord-karakter/momu-m34/referenced-manifest.json)
 Brievenkopijenboek van de familie Melijn voor de periode 1707-1709. Melijn archief, Heemkundige Kring Jan Vleminck vzw, Wijnegem 

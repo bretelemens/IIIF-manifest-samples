@@ -1,4 +1,4 @@
-# 3. Enkel Reproducties van een collectiestuk
+# 3. Een manifest met een of meer reproducties van een collectiestuk
 
 ## [003-beeld/momu-m34/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/003-beeld/manifest.json) 
 
