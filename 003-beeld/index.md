@@ -1,10 +1,10 @@
 # 3. Enkel Reproducties van een collectiestuk
 
-## [003-beeld/momu-m34/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/003-beeld/dummy-manifest.json) 
+## [003-beeld/momu-m34/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/003-beeld/manifest.json) 
 
 Brievenkopijenboek van de familie Melijn voor de periode 1707-1709. Melijn archief, Heemkundige Kring Jan Vleminck vzw, Wijnegem 
 
-([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/momu-m34/test-manifest.json&xywh=-800%2C-485%2C7417%2C5401), 
+([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/momu-m34/manifest.json&xywh=-800%2C-485%2C7417%2C5401), 
 [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https%3A%2F%2Fbretelemens.github.io%2FIIIF-manifest-samples%2F003-beeld%2Fmomu-m34%2Fmanifest.json), 
 [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/momu-m34/manifest.json), 
 [Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/momu-m34/manifest.json),
@@ -29,7 +29,9 @@ Antwerpsch straatnamenboek. lijstvanaldestraatnamen, oude en nieuwe, met hun bet
 [IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_519618/manifest.json))
 
 
-* [003-beeld/EHC_e772/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/003-beeld/EHC_e722/manifest.json):  Madame de Pompadour, 1881. Erfgoedbibliotheek Hendrik Conscience.
+## [003-beeld/EHC_e772/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/003-beeld/EHC_e722/manifest.json)
+Madame de Pompadour, 1881. Erfgoedbibliotheek Hendrik Conscience.
+
 ([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_e772/manifest.json), 
 [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_e772/manifest.json),
 [Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/EHC_e772/manifest.json)
