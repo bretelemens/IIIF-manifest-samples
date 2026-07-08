@@ -20,7 +20,13 @@
   <!-- Extract and normalise canvas number -->
   <xsl:variable name="nrStr"
     select="substring-before(substring-after($source-file, 'HKW_M34_'), '.xml')"/> 
-  <xsl:variable name="nr" select="number($nrStr)"/>
+  <xsl:param name="pageNr" select="''"/>
+  <xsl:variable name="nr">
+    <xsl:choose>
+      <xsl:when test="$pageNr != ''"><xsl:value-of select="number($pageNr)"/></xsl:when>
+      <xsl:otherwise><xsl:value-of select="number($nrStr)"/></xsl:otherwise>
+    </xsl:choose>
+  </xsl:variable>
   
   <!-- define canvas and page URIs -->
   <xsl:variable name="canvasURI" select="concat($baseURI, '/canvas/', $nr)"/>
