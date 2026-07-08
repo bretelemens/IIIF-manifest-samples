@@ -24,7 +24,7 @@
 * Alto files geproduceerd met Transcribus in /alto directory. Ocr text getagd per lijn.
 * OCR Annotation Pages geproduceerd met/scripts/transform.xsl of alto_to_ocr.py
 
-* [008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json):  Antwerpsch straatnamenboek. lijstvanaldestraatnamen, oude en nieuwe, met hun beteekenis, reden, oorsprong en veranderingen, 1926.Erfgoedbibliotheek Hendrik Conscience.
+[008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json):  Antwerpsch straatnamenboek. lijstvanaldestraatnamen, oude en nieuwe, met hun beteekenis, reden, oorsprong en veranderingen, 1926.Erfgoedbibliotheek Hendrik Conscience.
 ([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json), 
 [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json),
 [Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json)
@@ -32,7 +32,7 @@
 [IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json))
 
 
-* [008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/008-beeld-ocr-lijn-woord-karakter/EHC_e722/manifest.json):  Madame de Pompadour, 1881. Erfgoedbibliotheek Hendrik Conscience.
+[008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/008-beeld-ocr-lijn-woord-karakter/EHC_e722/manifest.json):  Madame de Pompadour, 1881. Erfgoedbibliotheek Hendrik Conscience.
 ([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json), 
 [Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json),
 [Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json)
