@@ -116,7 +116,7 @@ def main():
             doc = etree.parse(str(alto_file))
             result = transform(
                 doc,
-                **{"source-file": f"'{alto_file.name}'"},
+                **{"source-file": f"'{alto_file.name}'", "pageNr": f"'{nr}'"},
                 **xslt_params
             )
 
