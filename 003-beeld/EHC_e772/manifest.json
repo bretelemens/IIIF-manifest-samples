@@ -21,7 +21,7 @@
       },
       "value": {
         "nl": [
-          "e 772 [C3-956 f]"
+          "C3-956 f"
         ]
       }
     },
@@ -112,12 +112,12 @@
     {
       "label": {
         "nl": [
-          "Onderwerp"
+          "Data-eigenaar"
         ]
       },
       "value": {
         "nl": [
-          "de Pompadour, Jeanne"
+          "Stad Antwerpen"
         ]
       }
     },
@@ -142,18 +142,6 @@
       "value": {
         "nl": [
           "Collectie Georges Eekhoud Kabinet"
-        ]
-      }
-    },
-    {
-      "label": {
-        "nl": [
-          "Permalink"
-        ]
-      },
-      "value": {
-        "nl": [
-          "<a href=\"https://go.wander.be/record/opacehc/c:lvd:720281\">https://go.wander.be/record/opacehc/c:lvd:720281</a>"
         ]
       }
     }
@@ -194,16 +182,25 @@
     },
     "value": {
       "nl": [
-        "e 772, Collectie Stad Antwerpen, Erfgoedbibliotheek Hendrik Conscience"
+        "photo: Erfgoedbibliotheek Hendrik Conscience"
       ]
     }
   },
   "thumbnail": [
     {
-      "id": "https://media.antwerpen.be/media/18/i/ibfjPqMgIKbXHPLPjpt7jwc3/ibfjPqMgIKbXHPLPjpt7jwc3.jpg",
-      "type": "Image",
-      "format": "image/jpeg"
-    }
+    "id": "https://dams.antwerpen.be/iiif/sUrObZDccakXdYkR5KkMJv3f/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 300,
+    "width": 200,
+    "service": [
+       {
+       "id": "https://dams.antwerpen.be/iiif/sUrObZDccakXdYkR5KkMJv3f",
+       "type": "ImageService2",
+       "profile": "level2"
+                  }
+                ]
+              }
   ],
   "seeAlso": [
     {
