@@ -20,7 +20,8 @@ Antwerpsch straatnamenboek. lijstvanaldestraatnamen, oude en nieuwe, met hun bet
 [Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json),
 [Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json),
 [IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_519618/manifest.json))
-
+* Annotations voor pagina's 22-25
+* Toegankelijk via tab 'Annotations' rechts.
 
 ## [008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json](https://bretelemens.github.io/IIIF-manifest-samples/008-beeld-ocr-lijn-woord-karakter/EHC_e772/manifest.json)
 Madame de Pompadour, 1881. Erfgoedbibliotheek Hendrik Conscience.
