@@ -1,4 +1,4 @@
-# !. Een set met manifesten
+# 1. Een set met manifesten
 
 ## [001-manifest-set/rubenshuis/collection.json](https://github.com/bretelemens/IIIF-manifest-samples/blob/main/001-manifest-set/rubenshuis/collection.json) 
 
