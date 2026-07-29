@@ -33,651 +33,898 @@
    ],
     "viewingDirection": "left-to-right",
     "provider":[{
-      "id": "https://data.antwerpen.be/agent/123",
+      "id": "https://www.wikidata.org/item/Q775644",
       "type": "Agent",
       "label": {"nl": ["Rubenshuis"]},
       "homepage": [{
-          "id": "https://www.wikidata.org/item/Q775644",
+          "id": "https://www.rubenshuis.be",
           "type": "Text",
          	"label": {"nl": ["Homepage Rubenshuis"]},
          	"format": "text/html"
         	        }],
       "logo": [{
-          "id":"https://instagram.fbru2-1.fna.fbcdn.net/v/t51.82787-19/530388073_17982285026849791_2713354089026387485_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbru2-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gFXqYxWrli-jzP-zggPcn8BTOVTmeY5JkCO6fvYqgtBLQ7J3MViaiC5onENh_O5ZFzCgEueHPq-YKQkhMENJDWM&_nc_ohc=oqYjdGO1Y-wQ7kNvwFsef2E&_nc_gid=zRQ36SPrMcxjB3kcZCtILA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AQAsfk8qFAmxaL8E3nImN6E23zpepiZT5OeTMJOK93y3qA&oe=6A6F9790&_nc_sid=7a9f4b",
+          "id":"https://bretelemens.github.io/IIIF-manifest-samples/logo/rubenshuis.jpg",
           "type": "Image",
-          "format": "image/png",
+          "format": "image/jpg",
               }]
         }],  
-  
-  
-  
-  
+  "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+  "requiredStatement": {
+      "label": {
+          "nl": [
+            "Naamsvermelding"
+          ]
+        },
+      "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
+      },
+  "thumbnail": [
+  	{
+  	"id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif/full/175,/0/default.jpg",
+ 	"type": "Image",
+	"height": 133,
+	"width": 175,
+	"format": "image/jpeg",
+	"service": [
+		{
+      		"id": "https://museumstichting.resourcespace.com/iiif/image/170839",
+      		"type": "ImageService3",
+      		"profile": "level1"
+  	  	}
+  	  ]
+  	}
+  ],  
   "items": [
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/1",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
+          "nl": [
             "Attribution"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+      	]
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
-      "items": [
+      "thumbnail": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ]
+    },
+    "items": [
+        {
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/1/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/1/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif/full/max/0/default.jpg",
-                    "type": "image/tiff"
-                  }
-                ]
-              },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif.json"
-            }
+                "format": "image/jpeg"
+                },
+                "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/1"
+              }
           ]
         }
-      ]
-    },
-    {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif.json",
+      ],
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/2",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
-        "label": {
-          "none": [
-            "Attribution"
+      	"label": {
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+      	"value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
-      "items": [
+      "thumbnail": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
+    "items": [
+        {
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/2/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/2/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif/full/max/0/default.jpg",
-                    "type": "image/tiff"
-                  }
-                ]
-              },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif.json"
+                "format": "image/jpeg"
+                },
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/2"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/cc57fb4669a014fde944f3e0913df715-DIG29376.tif.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/3",
       "type": "Canvas",
       "label": {
         "none": [
           "cc57fb4669a014fde944f3e0913df715-DIG29376.tif"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/3/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/3/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif/full/max/0/default.jpg",
-                    "type": "image/tiff"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/cc57fb4669a014fde944f3e0913df715-DIG29376.tif.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/3"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/b37b3730826437e362cb374178f438c9-DIG29377.tif.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/4",
       "type": "Canvas",
       "label": {
         "none": [
           "b37b3730826437e362cb374178f438c9-DIG29377.tif"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b37b3730826437e362cb374178f438c9-DIG29377.tif/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/b37b3730826437e362cb374178f438c9-DIG29377.tif",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/4/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/4/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b37b3730826437e362cb374178f438c9-DIG29377.tif",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b37b3730826437e362cb374178f438c9-DIG29377.tif/full/max/0/default.jpg",
-                    "type": "image/tiff"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/b37b3730826437e362cb374178f438c9-DIG29377.tif.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/4"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/5",
       "type": "Canvas",
       "label": {
         "none": [
           "b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/5/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/5/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif/full/max/0/default.jpg",
-                    "type": "image/tiff"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/5"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/6",
       "type": "Canvas",
       "label": {
         "none": [
           "bb3b433dccf9d8309ed33c6975413320-DIG29380.tif"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif.tif",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/6/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/6/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif/full/max/0/default.jpg",
-                    "type": "image/tiff"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/6"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/d408b5196efbd810be7e635d18072057-AdamenEva.pdf.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/7",
       "type": "Canvas",
       "label": {
         "none": [
           "d408b5196efbd810be7e635d18072057-AdamenEva.pdf"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/d408b5196efbd810be7e635d18072057-AdamenEva.pdf/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/d408b5196efbd810be7e635d18072057-AdamenEva.pdf",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/7/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/7/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/d408b5196efbd810be7e635d18072057-AdamenEva.pdf",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/d408b5196efbd810be7e635d18072057-AdamenEva.pdf/full/max/0/default.jpg",
-                    "type": "application/pdf"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/d408b5196efbd810be7e635d18072057-AdamenEva.pdf.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/7"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/8",
       "type": "Canvas",
       "label": {
         "none": [
           "68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/8/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/8/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif/full/max/0/default.jpg",
-                    "type": "image/tiff"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/8"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/9",
       "type": "Canvas",
       "label": {
         "none": [
           "c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/9/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/9/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg/full/max/0/default.jpg",
-                    "type": "image/jpeg"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/9
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/10",
       "type": "Canvas",
       "label": {
         "none": [
           "90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/10/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/10/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg/full/max/0/default.jpg",
-                    "type": "image/jpeg"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/10"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/11",
       "type": "Canvas",
       "label": {
         "none": [
           "1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/11/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/11/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg/full/max/0/default.jpg",
-                    "type": "image/jpeg"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/11"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/12",
       "type": "Canvas",
       "label": {
         "none": [
           "17257a5d1eac2200dc1efc919551b454-DIG08250.jpg"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/12/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/12/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg/full/max/0/default.jpg",
-                    "type": "image/jpeg"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/12"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/13",
       "type": "Canvas",
       "label": {
         "none": [
           "e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/13/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/13/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg/full/max/0/default.jpg",
-                    "type": "image/jpeg"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/13"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/14",
       "type": "Canvas",
       "label": {
         "none": [
           "605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
+      "thumbnail": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],
       "items": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/14/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/14/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg/full/max/0/default.jpg",
-                    "type": "image/jpeg"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/14"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg.json",
+      "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/15",
       "type": "Canvas",
       "label": {
         "none": [
           "5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg"
         ]
       },
+      "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
-          "none": [
-            "Attribution"
+          "nl": [
+            "Naamsvermelding"
           ]
         },
-        "value": {}
+        "value": {
+          "nl": [
+            "foto: Michel Wuyts"
+          ]
+        }
       },
-      "rights": "https://rightsstatements.org/page/InC/1.0/?language=en",
-      "items": [
+      "thumbnail": [
         {
-          "id": "https://annotationpageLink",
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg/full/175,/0/default.jpg",
+          "type": "Image",
+	  "height":133,
+	  "width": 175,
+	  "format": "image/jpeg",
+	  "service": [
+	    {
+		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg",
+		"type": "ImageService3",
+		"profile": "level1"
+ 	    }
+  	  ]
+        }
+      ],"items": [
+        {
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/15/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://annotationLink",
+              "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/annotation/15/1/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://dams.antwerpen.be/iiif/image/iiif/3/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg",
                 "type": "Image",
-                "thumbnail": [
-                  {
-                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg/full/max/0/default.jpg",
-                    "type": "image/jpeg"
-                  }
-                ]
+                "format": "image/jpeg"
               },
-              "target": "https://dams.antwerpen.be/iiif-manifest-servicecanvas/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg.json"
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/15"
             }
           ]
         }
