@@ -1,5 +1,16 @@
 # 3. Een manifest met een of meer reproducties van een collectiestuk
 
+## [003-beeld/momu-m34/manifest.json](https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/manifest.json) 
+
+Adam en Eva. Peter Paul Rubens. 1598 - 1600. Ruebnshuis, Antwerpen 
+
+([Universal Viewer](https://www.universalviewer.dev/#?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/manifest.json), 
+[Clover](https://samvera-labs.github.io/clover-iiif/docs/viewer/demo?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/manifest.json), 
+[Glycerine Viewer](https://demo.viewer.glycerine.io/viewer?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/manifest.json), 
+[Mirador](https://projectmirador.org/embed/?iiif-content=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/manifest.json),
+[IIIF Curation Viewer](https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest=https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/manifest.json))
+
+
 ## [003-beeld/momu-m34/manifest.json](https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/momu-m34/manifest.json) 
 
 Brievenkopijenboek van de familie Melijn voor de periode 1707-1709. Melijn archief, Heemkundige Kring Jan Vleminck vzw, Wijnegem 
