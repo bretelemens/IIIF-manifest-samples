@@ -8,75 +8,151 @@
     ]
   },
   "metadata": [
-     {
-        "label": {"nl": ["Inventarisnummer"]},
-        "value": {"nl": ["RH.S.164"]}
-                },{ 
-        "label": {"nl": ["Titel"] },
-        "value": {"nl": ["Adam en Eva"]}
-                },{   
-        "label": {"nl": ["Maker"] },
-        "value": {"nl": ["Peter Paul Rubens"]}
-                },{ 
-        "label": {"nl": ["Datering"] },
-        "value": {"nl": [" 1598 - 1600"]}
-                },{ 
-        "label": {"nl": ["Bewaarinstelling"]},
-        "value": {"nl": ["Stad Antwerpen, Rubenshuis"]}
-                },{ 
-        "label": {"nl": ["Data-eigenaar"]},
-        "value": {"nl": ["Stad Antwerpen, Rubenshuis"]}
-                },{ 
-        "label": {"nl": ["Fotograaf"]},
-        "value": {"nl": ["Michel Wuyts"]}
-     }
-   ],
-    "viewingDirection": "left-to-right",
-    "provider":[{
-      "id": "https://www.wikidata.org/item/Q775644",
+    {
+      "label": {
+        "nl": [
+          "Inventarisnummer"
+        ]
+      },
+      "value": {
+        "nl": [
+          "RH.S.164"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Adam en Eva"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Maker"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Peter Paul Rubens"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datering"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1598 - 1600"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Bewaarinstelling"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stad Antwerpen, Rubenshuis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Data-eigenaar"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Stad Antwerpen, Rubenshuis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Fotograaf"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Michel Wuyts"
+        ]
+      }
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "provider": [
+    {
+      "id": "https://www.wikidata.org/entity/Q775644",
       "type": "Agent",
-      "label": {"nl": ["Rubenshuis"]},
-      "homepage": [{
+      "label": {
+        "nl": [
+          "Rubenshuis"
+        ]
+      },
+      "homepage": [
+        {
           "id": "https://www.rubenshuis.be",
           "type": "Text",
-         	"label": {"nl": ["Homepage Rubenshuis"]},
-         	"format": "text/html"
-        	        }],
-      "logo": [{
-          "id":"https://bretelemens.github.io/IIIF-manifest-samples/logo/rubenshuis.jpg",
+          "label": {
+            "nl": [
+              "Homepage Rubenshuis"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://bretelemens.github.io/IIIF-manifest-samples/logo/rubenshuis.jpg",
           "type": "Image",
-          "format": "image/jpg"
-              }]
-        }],  
+          "format": "image/jpeg"
+        }
+      ]
+    }
+  ],
   "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
   "requiredStatement": {
-      "label": {
-          "nl": [
-            "Naamsvermelding"
-          ]
-        },
-      "value": {
-          "nl": [
-            "foto: Michel Wuyts"
-          ]
-        }
-      },
+    "label": {
+      "nl": [
+        "Naamsvermelding"
+      ]
+    },
+    "value": {
+      "nl": [
+        "foto: Michel Wuyts"
+      ]
+    }
+  },
   "thumbnail": [
-  	{
-  	"id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif/full/175,/0/default.jpg",
- 	"type": "Image",
-	"height": 133,
-	"width": 175,
-	"format": "image/jpeg",
-	"service": [
-		{
-      		"id": "https://museumstichting.resourcespace.com/iiif/image/170839",
-      		"type": "ImageService3",
-      		"profile": "level1"
-  	  	}
-  	  ]
-  	}
-  ],  
+    {
+      "id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif/full/175,/0/default.jpg",
+      "type": "Image",
+      "height": 133,
+      "width": 175,
+      "format": "image/jpeg",
+      "service": [
+        {
+          "id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif",
+          "type": "ImageService3",
+          "profile": "level1"
+        }
+      ]
+    }
+  ],
   "items": [
     {
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/1",
@@ -86,36 +162,38 @@
           "189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
           "nl": [
-            "Attribution"
+            "Naamsvermelding"
           ]
         },
         "value": {
           "nl": [
             "foto: Michel Wuyts"
-      	]
+          ]
+        }
       },
       "thumbnail": [
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
-      ]
-    },
-    "items": [
+      ],
+      "items": [
         {
           "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/1/1",
           "type": "AnnotationPage",
@@ -125,17 +203,26 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
-                },
-                "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/1"
-              }
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/189d5662e3cfa968a006533b7c6a17c3-DIG29381.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/1"
+            }
           ]
         }
       ]
     },
-  {
+    {
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/2",
       "type": "Canvas",
       "label": {
@@ -143,14 +230,16 @@
           "4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
-      	"label": {
+        "label": {
           "nl": [
             "Naamsvermelding"
           ]
         },
-      	"value": {
+        "value": {
           "nl": [
             "foto: Michel Wuyts"
           ]
@@ -160,19 +249,19 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
-    "items": [
+      "items": [
         {
           "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/2/1",
           "type": "AnnotationPage",
@@ -182,10 +271,19 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
-                },
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/4fe12379a6dd0413cae94eeb99e91b6b-DIG29379.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/2"
             }
           ]
@@ -196,10 +294,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/3",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "cc57fb4669a014fde944f3e0913df715-DIG29376.tif"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -217,16 +317,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -239,9 +339,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/cc57fb4669a014fde944f3e0913df715-DIG29376.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/3"
             }
@@ -253,10 +362,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/4",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "b37b3730826437e362cb374178f438c9-DIG29377.tif"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -274,16 +385,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b37b3730826437e362cb374178f438c9-DIG29377.tif/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/b37b3730826437e362cb374178f438c9-DIG29377.tif",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b37b3730826437e362cb374178f438c9-DIG29377.tif",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -296,9 +407,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b37b3730826437e362cb374178f438c9-DIG29377.tif",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b37b3730826437e362cb374178f438c9-DIG29377.tif/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b37b3730826437e362cb374178f438c9-DIG29377.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/4"
             }
@@ -310,10 +430,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/5",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -331,16 +453,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -353,9 +475,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/b0e0696aa880d51254cc1cc9af4e83f5-DIG29378.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/5"
             }
@@ -367,10 +498,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/6",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "bb3b433dccf9d8309ed33c6975413320-DIG29380.tif"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -388,16 +521,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif.tif",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -410,9 +543,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/bb3b433dccf9d8309ed33c6975413320-DIG29380.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/6"
             }
@@ -424,10 +566,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/7",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "d408b5196efbd810be7e635d18072057-AdamenEva.pdf"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -445,16 +589,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/d408b5196efbd810be7e635d18072057-AdamenEva.pdf/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/d408b5196efbd810be7e635d18072057-AdamenEva.pdf",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/d408b5196efbd810be7e635d18072057-AdamenEva.pdf",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -467,9 +611,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/d408b5196efbd810be7e635d18072057-AdamenEva.pdf",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/d408b5196efbd810be7e635d18072057-AdamenEva.pdf/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/d408b5196efbd810be7e635d18072057-AdamenEva.pdf",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/7"
             }
@@ -481,10 +634,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/8",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -502,16 +657,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -524,9 +679,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/68e99026b2a4f101bdc51efa1760727a-RH_S_164_Foto002.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/8"
             }
@@ -538,10 +702,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/9",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -559,16 +725,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -581,9 +747,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/c397a5ac4c7be1154c94eb851e6a58ed-DIG00163.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/9"
             }
@@ -595,10 +770,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/10",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -616,16 +793,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -638,9 +815,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/90e713d3d95dbf56bea61d1ca3d3f91c-DIG08248.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/10"
             }
@@ -652,10 +838,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/11",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -673,16 +861,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -695,9 +883,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/1bb05f64e314488a005bcc9b63e35a99-DIG08249.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/11"
             }
@@ -709,10 +906,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/12",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "17257a5d1eac2200dc1efc919551b454-DIG08250.jpg"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -730,16 +929,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -752,9 +951,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/17257a5d1eac2200dc1efc919551b454-DIG08250.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/12"
             }
@@ -766,10 +974,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/13",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -787,16 +997,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -809,9 +1019,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/e411ec05451999ccbdb56637ddfd3514-DIG08246.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/13"
             }
@@ -823,10 +1042,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/14",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -844,16 +1065,16 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
       ],
       "items": [
@@ -866,9 +1087,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/605cfa58b7d331cb6c9427f325fc6422-DIG08247.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/14"
             }
@@ -880,10 +1110,12 @@
       "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/15",
       "type": "Canvas",
       "label": {
-        "none": [
+        "nl": [
           "5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg"
         ]
       },
+      "height": 1327,
+      "width": 1750,
       "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
       "requiredStatement": {
         "label": {
@@ -901,18 +1133,19 @@
         {
           "id": "https://dams.antwerpen.be/iiif/image/iiif/3/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg/full/175,/0/default.jpg",
           "type": "Image",
-	  "height":133,
-	  "width": 175,
-	  "format": "image/jpeg",
-	  "service": [
-	    {
-		"id": "https://dams.antwerpen.be/iiif/image/iiif/3/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg",
-		"type": "ImageService3",
-		"profile": "level1"
- 	    }
-  	  ]
+          "height": 133,
+          "width": 175,
+          "format": "image/jpeg",
+          "service": [
+            {
+              "id": "https://dams.antwerpen.be/iiif/image/iiif/3/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg",
+              "type": "ImageService3",
+              "profile": "level1"
+            }
+          ]
         }
-      ],"items": [
+      ],
+      "items": [
         {
           "id": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/page/15/1",
           "type": "AnnotationPage",
@@ -922,9 +1155,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg",
+                "id": "https://dams.antwerpen.be/iiif/image/iiif/3/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg/full/max/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "height": 1327,
+                "width": 1750,
+                "service": [
+                  {
+                    "id": "https://dams.antwerpen.be/iiif/image/iiif/3/5e683a59254a53e9cb8dfc1b1fa2f5dd-DIG08245.jpg",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
               },
               "target": "https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/canvas/15"
             }
