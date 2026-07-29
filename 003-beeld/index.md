@@ -1,6 +1,6 @@
 # 3. Een manifest met een of meer reproducties van een collectiestuk
 
-## [003-beeld/momu-m34/manifest.json](https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/manifest.json) 
+## [003-beeld/RH.S.164/manifest.json](https://bretelemens.github.io/IIIF-manifest-samples/003-beeld/RH.S.164/manifest.json) 
 
 Adam en Eva. Peter Paul Rubens. 1598 - 1600. Ruebnshuis, Antwerpen 
 
