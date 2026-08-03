@@ -66,7 +66,7 @@ Digitale Toegang tot alle beelden van één collectiestuk, m.n.:
 * De titel van het collectiestuk bevindt zich in `manifest.label`. Titels worden in viewers als hoofdlabel getoond bij het beeld.
 * Een bondige beschrijving van het collectiestuk bevindt zich in `manifest.summary` en bevat een tekenreeks met een objectnaam, datering, maker en bewaarinstelling. 
 
-* De dataverantwoordelijke voor het beeld en de metadata bevindt zich zowel in `manifest.provider`, als in elk `manifest.provider.canvas`-object. In de Viewer dient geconfigureerd te worden welk `provider`-object getoond wordt.
+* De dataverantwoordelijke voor het beeld en de metadata bevindt zich zowel in `manifest.provider`, als in elk `manifest.canvas.provider`-object. In de Viewer dient geconfigureerd te worden welk `provider`-object getoond wordt.
 * De rechtenstatus bevindt zich zowel in `manifest.rights`, als in elk `manifest.canvas.rights`-object en bevat een uri voor een rightsstatements-, publiek domein- of CC0-label. In de Viewer dient geconfigureerd te worden welk `rights`-object getoond wordt.
 * De naamsvermelding bevindt zich zowel in `manifest.requiredStatement`, als in `manifest.canvas.requiredStatement` en bevat een auteurs-, rechthebbende- en/of herkomstvermelding voor het collectiestuk. 
 * Het referentiebeeld voor het collectiestuk bevindt zich in `manifest.thumbnail` en heeft een beeldgrootte van 133 x 175 pixel. Dit beeld wordt bvb gebruikt in zoekresultaten.
